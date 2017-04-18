@@ -1,4 +1,4 @@
-#File Name: getSeq.py
+#File Name: locAndSeq.py
 #Author: John Francis Lomibao
 #PID: A11591509
 

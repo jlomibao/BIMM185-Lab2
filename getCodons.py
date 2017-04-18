@@ -55,9 +55,6 @@ for i in range(len(rawSeq)):
 		print (str(len(dnaSeq)/3))
 		totalLen += len(cArr)
 	
-	if (len(dnaSeq)%3 != 0):
-		print locTag
-		break
 #print totals
 sys.stdout.write('Totals\t')
 for i in codons:
