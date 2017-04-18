@@ -1,0 +1,4139 @@
+thr operon leader peptide
+Bifunctional aspartokinase/homoserine dehydrogenase 1
+homoserine kinase
+L-threonine synthase
+DUF2502 family putative periplasmic protein
+peroxide resistance protein, lowers intracellular iron
+putative transporter
+transaldolase B
+molybdochelatase incorporating molybdenum into molybdopterin
+succinate-acetate transporter
+UPF0174 family protein
+UPF0412 family protein
+chaperone Hsp70, with co-chaperone DnaJ
+chaperone Hsp40, DnaK co-chaperone
+IS186 transposase
+regulatory protein for HokC, overlaps CDS of hokC
+toxic membrane protein, small
+sodium-proton antiporter
+transcriptional activator of nhaA
+IS1 transposase B
+IS1 repressor TnpA
+30S ribosomal subunit protein S20
+uncharacterized protein b0024
+bifunctional riboflavin kinase/FAD synthetase
+isoleucyl-tRNA synthetase
+prolipoprotein signal peptidase (signal peptidase II)
+FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase)
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase, 4Fe-4S protein
+ribonucleoside hydrolase 3
+dihydrodipicolinate reductase
+carbamoyl phosphate synthetase small subunit, glutamine amidotransferase
+carbamoyl-phosphate synthase large subunit
+cai operon transcriptional activator
+stimulator of CaiD and CaiB enzyme activities
+carnitinyl-CoA dehydratase
+putative crotonobetaine/carnitine-CoA ligase
+crotonobetainyl CoA:carnitine CoA transferase
+crotonobetaine reductase subunit II, FAD-binding
+putative transporter
+anaerobic carnitine reduction putative electron transfer flavoprotein subunit
+putative electron transfer flavoprotein, NAD/FAD-binding domain and ETFP adenine nucleotide-binding domain-like protein
+putative oxidoreductase
+putative 4Fe-4S ferredoxin-type protein
+putative MFS sugar transporter; membrane protein
+potassium-efflux system ancillary protein for KefC, glutathione-regulated; quinone oxidoreductase, FMN-dependent
+potassium:proton antiporter
+dihydrofolate reductase
+diadenosine tetraphosphatase
+protein associated with Co2+ and Mg2+ efflux
+16S rRNA m(6)A1518, m(6)A1519 dimethyltransferase, SAM-dependent
+4-hydroxy-L-threonine phosphate dehydrogenase, NAD-dependent
+peptidyl-prolyl cis-trans isomerase (PPIase)
+LPS assembly OM complex LptDE, beta-barrel component
+membrane-anchored DnaK co-chaperone, DNA-binding protein
+dual specificity 23S rRNA pseudouridine(746), tRNA pseudouridine(32) synthase, SAM-dependent
+RNA polymerase remodeling/recycling factor ATPase; RNA polymerase-associated, ATP-dependent RNA translocase
+DNA polymerase II
+L-ribulose-5-phosphate 4-epimerase
+L-arabinose isomerase
+L-ribulokinase
+ara regulon transcriptional activator; autorepressor
+DedA family inner membrane protein
+thiamine/thiamine pyrophosphate ABC transporter ATPase
+thiamine/thiamine pyrophosphate ABC transporter permease
+thiamine/thiamine pyrophosphate/thiamine monophosphate ABC transporter periplasmic binding protein
+transcriptional DNA-binding transcriptional activator of sgrS sRNA
+inhibitor of glucose uptake
+broad specificity sugar efflux system
+3-isopropylmalate dehydratase small subunit
+3-isopropylmalate dehydratase large subunit
+3-isopropylmalate dehydrogenase, NAD(+)-dependent
+2-isopropylmalate synthase
+leu operon leader peptide
+global transcription factor
+acetolactate synthase 3 large subunit
+acetolactate synthase 3, small subunit, valine-sensitive
+transcriptional repressor-activator for carbon metabolism
+RsmH methytransferase inhibitor
+16S rRNA m(4)C1402 methyltransferase, SAM-dependent
+membrane bound cell division leucine zipper septum protein
+transpeptidase involved in septal peptidoglycan synthesis; penicillin-binding protein 3
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:meso-diaminopimelate ligase
+UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D-alanine ligase
+phospho-N-acetylmuramoyl-pentapeptide transferase
+UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase
+putative lipid II flippase; integral membrane protein; FtsZ ring stabilizer
+N-acetylglucosaminyl transferase
+UDP-N-acetylmuramate:L-alanine ligase
+D-alanine:D-alanine ligase
+divisome assembly protein, membrane anchored protein involved in growth of wall at septum
+ATP-binding cell division FtsK recruitment protein
+GTP-binding tubulin-like cell division protein
+UDP-3-O-acyl N-acetylglucosamine deacetylase
+regulator of secA translation
+preprotein translocase subunit, ATPase
+dGTP-preferring nucleoside triphosphate pyrophosphohydrolase
+DNA gyrase inhibitor
+FtsZ stabilizer
+dephospho-CoA kinase
+GMP reductase
+assembly protein in type IV pilin biogenesis, transmembrane protein
+T2SE secretion family protein; P-loop ATPase superfamily protein
+putative prepilin peptidase-dependent pilin
+quinolinate phosphoribosyltransferase
+1,6-anhydro-N-acetylmuramyl-L-alanine amidase, Zn-dependent; murein amidase
+ampicillin resistance inner membrane protein; putative signaling protein in beta-lactamase regulation
+aromatic amino acid transporter
+pyruvate dehydrogenase complex repressor; autorepressor
+pyruvate dehydrogenase, decarboxylase component E1, thiamine triphosphate-binding
+pyruvate dehydrogenase, dihydrolipoyltransacetylase component E2
+dihydrolipoyl dehydrogenase; E3 component of pyruvate and 2-oxoglutarate dehydrogenases complexes; glycine cleavage system L protein; dihydrolipoamide dehydrogenase
+DUF3300 family protein
+aconitate hydratase 2; aconitase B; 2-methyl-cis-aconitate hydratase
+UPF0231 family protein
+S-adenosylmethionine decarboxylase
+spermidine synthase (putrescine aminopropyltransferase)
+PulS_OutS family protein
+multicopper oxidase (laccase)
+glucose dehydrogenase
+hypoxanthine phosphoribosyltransferase
+carbonic anhydrase
+putative ABC transporter ATPase
+putative ABC transporter permease
+putative PTS Enzyme IIA
+putative polysaccharide deacetylase lipoprotein
+aspartate 1-decarboxylase
+transposase_31 family protein
+pantothenate synthetase
+3-methyl-2-oxobutanoate hydroxymethyltransferase
+putative fimbrial-like adhesin protein
+putative fimbrial-like adhesin protein
+putative fimbrial-like adhesin protein
+putative fimbrial-like adhesin protein
+putative outer membrane usher protein
+putative periplasmic pilin chaperone
+putative fimbrial-like adhesin protein
+2-amino-4-hydroxy-6-hydroxymethyldihyropteridine pyrophosphokinase
+poly(A) polymerase
+glutamyl-Q tRNA(Asp) synthetase
+transcriptional regulator of rRNA transcription; DnaK suppressor protein
+sugar fermentation stimulation protein A
+2\'-5\' RNA ligase
+putative ATP-dependent helicase
+fused glycosyl transferase and transpeptidase
+ferrichrome outer membrane transporter
+iron(3+)-hydroxamate import ABC transporter ATPase
+iron(3+)-hydroxamate import ABC transporter periplasmic binding protein
+iron(3+)-hydroxamate import ABC transporter permease
+glutamate-1-semialdehyde aminotransferase (aminomutase)
+H(+)/Cl(-) exchange transporter
+iron-sulfur cluster insertion protein
+UPF0126 family inner membrane protein
+vitamin B12 ABC transporter periplasmic binding protein
+5\'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+deoxyguanosine triphosphate triphosphohydrolase
+serine endoprotease (protease Do), membrane-associated
+carbohydrate diacid regulon transcriptional regulator; autoregulator
+UPF0325 family protein
+phosphodiesterase with model substrate bis-pNPP
+2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+uridylyltransferase
+methionine aminopeptidase
+30S ribosomal subunit protein S2
+translation elongation factor EF-Ts
+uridylate kinase
+ribosome recycling factor
+1-deoxy-D-xylulose 5-phosphate reductoisomerase
+undecaprenyl pyrophosphate synthase
+CDP-diglyceride synthase
+inner membrane zinc RIP metalloprotease; RpoE activator, by degrading RseA; cleaved signal peptide endoprotease
+BamABCDE complex OM biogenesis outer membrane pore-forming assembly factor
+periplasmic chaperone
+UDP-3-O-(3-hydroxymyristoyl)-glucosamine N-acyltransferase
+(3R)-hydroxymyristol acyl carrier protein dehydratase
+UDP-N-acetylglucosamine acetyltransferase
+tetraacyldisaccharide-1-P synthase
+ribonuclease HII, degrades RNA of DNA-RNA hybrids
+DNA polymerase III alpha subunit
+acetyl-CoA carboxylase, carboxytransferase, alpha subunit
+lysine decarboxylase 2, constitutive
+putative lyase
+tRNA(Ile)-lysidine synthetase
+modulator of Rho-dependent transcription termination
+UPF0253 family protein
+PDDEXK superfamily protein
+alternative stalled-ribosome rescue factor B; peptidyl-tRNA hydrolase, ribosome-attached
+lipoprotein involved with copper homeostasis and adhesion
+putative lipoprotein
+prolyl-tRNA synthetase
+tRNA-Thr(GGU) m(6)t(6)A37 methyltransferase, SAM-dependent
+putative outer membrane protein
+DL-methionine transporter subunit
+DL-methionine transporter subunit
+DL-methionine transporter subunit
+D,D-heptose 1,7-bisphosphate phosphatase
+2,5-diketo-D-gluconate reductase B
+LysR family putative transcriptional regulator
+endo/exonuclease/phosphatase family protein
+putative S-adenosyl-L-methionine-dependent methyltransferase
+putative membrane-bound lytic murein transglycosylase D
+hydroxyacylglutathione hydrolase
+putative S-adenosyl-L-methionine-dependent methyltransferase
+ribonuclease HI, degrades RNA of DNA-RNA hybrids
+DNA polymerase III epsilon subunit
+lipoprotein
+lethality reduction protein, putative inner membrane protein
+putative NAD(P)-binding C-N hydrolase family amidase
+inhibitor of c-type lysozyme, periplasmic
+acyl coenzyme A dehydrogenase
+D-sedoheptulose 7-phosphate isomerase
+type 2 glutamine amidotransferase family protein
+L,D-transpeptidase-related protein
+mRNA interferase toxin of toxin-antitoxin pair YafQ/DinJ
+antitoxin of YafQ-DinJ toxin-antitoxin system
+putative lipoprotein and C40 family peptidase
+RAYT REP element-mobilizing transposase; TnpA(REP)
+DNA polymerase IV
+antitoxin of the YafO-YafN toxin-antitoxin system
+mRNA interferase toxin of the YafO-YafN toxin-antitoxin system
+GNAT family putative N-acetyltransferase
+aminoacyl-histidine dipeptidase (peptidase D)
+xanthine phosphoribosyltransferase; xanthine-guanine phosphoribosyltransferase
+fermentation-respiration switch protein; PTS Enzyme IIA(Glc)-binding protein; pNP-butyrate esterase activity
+outer membrane phosphoporin protein E
+gamma-glutamate kinase
+gamma-glutamylphosphate reductase
+CP4-6 prophage; toxin of the YkfI-YafW toxin-antitoxin system
+CP4-6 prophage; antitoxin of the YkfI-YafW toxin-antitoxin system
+uncharacterized protein b4504
+CP4-6 prophage; RadC-like JAB domain protein
+CP4-6 prophage; uncharacterized protein
+CP4-6 prophage; uncharacterized protein
+CP4-6 prophage; uncharacterized protein
+lipoprotein, inner membrane; degP regulator; CP4-6 prophage
+CP4-6 prophage; conserved protein
+CP4-6 prophage; putative GTP-binding protein
+CP4-6 prophage; putative DNA-binding transcriptional regulator
+IS30 transposase
+IS5 transposase and trans-activator
+CP4-6 prophage; putative S-methylmethionine transporter
+CP4-6 prophage; S-methylmethionine:homocysteine methyltransferase
+CP4-6 prophage; putative ferric transporter subunit
+IS1 transposase B
+IS1 repressor TnpA
+CP4-6 prophage; putative DNA-binding transcriptional regulator
+2-keto-3-deoxy gluconate (KDG) aldolase; CP4-6 prophage
+CP4-6 prophage; dehydratase family protein
+CP4-6 prophage; putative sugar transporter
+CP4-6 prophage; putative xylosidase/arabinosidase
+CP4-6 prophage; putative DNA-binding transcriptional regulator
+ornithine carbamoyltransferase 2, chain F; CP4-6 prophage
+IS1 transposase B
+IS1 repressor TnpA
+CP4-6 prophage; conserved protein
+CP4-6 prophage; DNA-binding protein
+CP4-6 prophage; uncharacterized protein
+CP4-6 prophage; uncharacterized protein
+CP4-6 prophage; putative phage integrase
+moco insertion factor for PaoABC aldehyde oxidoreductase
+PaoABC aldehyde oxidoreductase, Moco-containing subunit
+PaoABC aldehyde oxidoreductase, FAD-containing subunit
+PaoABC aldehyde oxidoreductase, 2Fe-2S subunit
+DUF1440 family inner membrane acid resistance protein
+UPF0153 cysteine cluster protein
+ECP production pilus chaperone
+polymerized tip adhesin of ECP fibers
+ECP production outer membrane protein
+ECP production pilus chaperone
+ECP pilin
+putative transcriptional regulator for the ecp operon
+uncharacterized protein b0295
+RpmJ-like protein
+50S ribosomal protein L31 type B; alternative zinc-limitation L31 protein
+uncharacterized protein b4671
+IS3 transposase A
+IS3 transposase B
+reactive chlorine species (RCS) stress resistance inner membrane protein
+reactive chlorine species (RCS) stress resistance periplasmic protein
+reactive chlorine stress species (RCS) resistance protein; pyridine nucleotide-dependent disulfide oxidoreductase family
+reactive chlorine species (RCS)-specific activator of the rcl genes
+cysteine-rich LutA family protein; putative electron transport chain YkgEFG component
+ferridoxin-like LutB family protein; putative electron transport chain YkgEFG component
+LutC family protein; putative electron transport chain YkgEFG component
+putative inner membrane protein
+choline dehydrogenase, a flavoprotein
+betaine aldehyde dehydrogenase, NAD-dependent
+choline-inducible betIBA-betT divergent operon transcriptional repressor
+choline transporter of high affinity
+c-di-GMP-specific phosphodiesterase
+putative DNA-bindng transcriptional regulator
+putative inner membrane protein
+ankyrin repeat protein
+DUF2877 family protein
+putative NAD(P)-binding succinyl-CoA synthase
+DUF1116 family protein
+carbamate kinase-like protein
+putative metallo-dependent hydrolase domain deaminase
+broad specificity NADPH-dependent aldehyde reductase, Zn-containing
+uncharacterized protein b0326
+uncharacterized protein b0327
+amino acid exporter for proline, lysine, glutamate, homoserine
+periplasmic protein, function unknown, YhcN family
+propionate catabolism operon regulatory protein
+2-methylisocitrate lyase
+2-methylcitrate synthase
+2-methylcitrate dehydratase
+propionate--CoA ligase
+cytosine transporter
+cytosine/isoguanine deaminase
+transcriptional activator of cyn operon; autorepressor
+carbonic anhydrase
+cyanate aminohydrolase
+putative cyanate transporter
+thiogalactoside acetyltransferase
+lactose permease
+beta-D-galactosidase
+lactose-inducible lac operon transcriptional repressor
+mhp operon transcriptional activator
+3-(3-hydroxyphenyl)propionate hydroxylase
+2,3-dihydroxyphenylpropionate 1,2-dioxygenase
+2-hydroxy-6-ketonona-2,4-dienedioic acid hydrolase
+2-keto-4-pentenoate hydratase
+acetaldehyde-CoA dehydrogenase II, NAD-binding
+4-hyroxy-2-oxovalerate/4-hydroxy-2-oxopentanoic acid aldolase, class I
+3-hydroxyphenylpropionic transporter
+DUF2058 family protein
+S-formylglutathione hydrolase
+alcohol dehydrogenase class III; glutathione-dependent formaldehyde dehydrogenase
+regulator protein that represses frmRAB operon
+outer membrane protein
+IS2 repressor TnpA
+IS2 transposase TnpB
+putative family 2 glycosyltransferase
+putative PIG-L family deacetylase
+taurine ABC transporter periplasmic binding protein
+taurine ABC transporter ATPase
+taurine ABC transporter permease
+taurine dioxygenase, 2-oxoglutarate-dependent
+5-aminolevulinate dehydratase (porphobilinogen synthase)
+IS3 transposase B
+IS3 transposase A
+putative transcriptional regulator
+D-alanyl-D-alanine-carboxypeptidase/endopeptidase; penicillin-binding protein; weak beta-lactamase
+peptide antibiotic transporter
+microcin Bac7 uptake protein; outer membrane surface-exposed lipoprotein
+DUF2755 family inner membrane protein
+DUF2754 family putative inner membrane protein
+D-alanine-D-alanine ligase A
+anti-RssB factor, RpoS stabilzer during Pi starvation; anti-adapter protein
+bacterial alkaline phosphatase
+PsiF family protein
+diguanylate cyclase, cellulose regualtor
+pyrroline-5-carboxylate reductase, NAD(P)-binding
+UPF0178 family protein
+shikimate kinase II
+OxyR-regulated conserved protein
+AroM family protein
+UPF0345 family protein
+nucleoid-associated ssDNA and dsDNA binding protein; competitive inhibitor of RecA function
+manno(fructo)kinase
+L-arabinose-inducible putative transporter, MFS family
+exonuclease, dsDNA, ATP-dependent
+exonuclease, dsDNA, ATP-dependent
+response regulator in two-component regulatory system with PhoR
+sensory histidine kinase in two-component regulatory system with PhoB
+branched-chain amino acid transport system 2 carrier protein; LIV-II transport system for Ile, Leu, and Val
+proline-specific permease
+maltodextrin glucosidase
+acyl carrier protein (ACP) phosphodiesterase; ACP hydrolyase
+S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+tRNA-guanine transglycosylase
+SecYEG protein translocase auxillary subunit
+SecYEG protein translocase auxillary subunit
+SecYEG protein translocase auxillary subunit
+HNH nuclease family protein
+nucleoside channel, receptor of phage T6 and colicin K
+putative lipoprotein
+Nrd regulon repressor
+fused diaminohydroxyphosphoribosylaminopyrimidine deaminase and 5-amino-6-(5-phosphoribosylamino) uracil reductase
+riboflavin synthase beta chain
+transcription antitermination protein
+thiamine monophosphate kinase
+phosphatidylglycerophosphatase A
+2-carboxybenzaldehyde reductase
+1-deoxyxylulose-5-phosphate synthase, thiamine triphosphate-binding, FAD-requiring
+geranyltranstransferase
+exonuclease VII small subunit
+tRNA s(4)U8 sulfurtransferase
+oxidative-stress-resistance chaperone
+2-dehydropantoate reductase, NADPH-specific
+phage Phi6 host factor, ATP/GTP binding protein
+putative transporter
+protoheme IX farnesyltransferase
+cytochrome o ubiquinol oxidase subunit IV
+cytochrome o ubiquinol oxidase subunit III
+cytochrome o ubiquinol oxidase subunit I
+cytochrome o ubiquinol oxidase subunit II
+muropeptide transporter
+putative lipoprotein
+stationary-phase morphogene, transcriptional repressor for mreB; also regulator for dacA, dacC, and ampC
+peptidyl-prolyl cis/trans isomerase (trigger factor)
+proteolytic subunit of ClpA-ClpP and ClpX-ClpP ATP-dependent serine proteases
+ATPase and specificity subunit of ClpX-ClpP ATP-dependent serine protease
+DNA-binding ATP-dependent protease La
+HU, DNA-binding transcriptional regulator, beta subunit
+periplasmic folding chaperone, has an inactive PPIase domain
+putative competence-suppressing periplasmic helix-hairpin-helix DNA-binding protein
+long-chain acyl-CoA thioesterase III
+7-cyano-7-deazaguanine (preQ0) synthase; queuosine biosynthesis
+putative ABC transporter periplasmic binding protein
+thiamine pyrimidine pyrophosphate hydrolase; HMP-PP phosphatase
+putative DNA-binding transcriptional regulator
+putative multidrug ABC transporter ATPase
+putative multidrug ABC transporter ATPase
+nitrogen assimilation regulatory protein for GlnL, GlnE, and AmtB
+ammonium transporter
+acyl-CoA thioesterase 2
+outer membrane lipoprotein
+excision repair protein, alkyltransferase-like protein ATL
+DUF1428 family protein
+putative membrane-anchored cyclic-di-GMP phosphodiesterase
+DUF1449 family inner membrane protein
+maltose O-acetyltransferase
+modulator of gene expression, with H-NS
+Hha toxicity attenuator; conjugation-related protein
+multidrug efflux system protein
+multidrug efflux system
+transcriptional repressor
+mechanosensitive channel protein, intermediate conductance, K+ regulated
+DUF2496 family protein
+primosomal replication protein N\'\'
+DUF454 family inner membrane protein
+adenine phosphoribosyltransferase
+DNA polymerase III/DNA elongation factor III, tau and gamma subunits
+DNA-binding protein, putative nucleoid-associated protein
+gap repair protein
+protein refolding molecular co-chaperone Hsp90, Hsp70-dependent; heat-shock protein; ATPase
+adenylate kinase
+ferrochelatase
+acetyl esterase
+inosine/guanosine kinase
+inner membrane putative NAD(P)-binding transporter
+putative fosmidomycin efflux system protein
+bifunctional UDP-sugar hydrolase/5\'-nucleotidase
+Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase
+TraB family protein
+putative DNA-binding transcriptional regulator
+copper transporter
+glutaminase 1
+putative amino acid transporter
+copper-responsive regulon transcriptional regulator
+inner membrane protein; stimulator of the QmcA suppressor of ftsH-htpX
+PHB domain membrane-anchored putative protease
+iron export ABC transporter ATPase; peroxide resistance protein
+iron export ABC transporter permease; peroxide resistance protein
+DnaK co-chaperone, thioredoxin-like protein
+putative oxidoreductase
+acyl-CoA thioesterase 1 and protease I and lysophospholipase L1
+putative ABC transporter ATPase
+putative ABC transporter permease
+Rhs protein with DUF4329 family putative toxin domain; putative neighboring cell growth inhibitor
+putative immunity protein
+tRNA 2-selenouridine synthase, selenophosphate-dependent
+allD operon transcriptional activator
+ureidoglycolate lyase, releasing urea
+glyoxylate-inducible transcriptional repressor of all and gcl operons
+glyoxylate carboligase
+hydroxypyruvate isomerase
+tartronate semialdehyde reductase, NADH-dependent
+putative allantoin transporter
+allantoinase
+putative uracil/xanthine transporter
+glycerate kinase II
+S-ureidoglycine aminohydrolase
+allantoate amidohydrolase
+ureidoglycolate dehydrogenase
+putative NAD(P)-binding acyl-CoA synthetase
+NO-induced DUF1116 protein
+putative anaerobic allantoin catabolic oxamate carbamoyltransferase; DUF2877 family protein
+putative carbonate kinase
+N5-carboxyaminoimidazole ribonucleotide synthase
+N5-carboxyaminoimidazole ribonucleotide mutase
+UDP-2,3-diacylglucosamine pyrophosphohydrolase
+peptidyl-prolyl cis-trans isomerase B (rotamase B)
+cysteinyl-tRNA synthetase
+DUF457 family inner membrane protein
+ribosome-associated protein; putative RNA-binding protein
+bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+FimA homolog, function unknown
+putative periplasmic pilus chaperone
+putative outer membrane export usher protein
+FimA homolog, function unknown
+FimA homolog, function unknown
+response regulator family protein
+DLP12 prophage; putative phage integrase
+IS3 transposase A
+IS3 transposase B
+DLP12 prophage; multidrug resistance protein
+DLP12 prophage; putative recombinase
+inactive polymorphonuclear leukocyte migration suppressor; DLP12 prophage; UPF0098 family secreted protein
+DLP12 prophage; putative DNA-binding transcriptional regulator
+uncharacterized protein, DLP12 prophage
+DLP12 prophage; uncharacterized protein
+DLP12 prophage; conserved protein
+DLP12 prophage; uncharacterized protein
+DLP12 prophage; endonuclease RUS
+uncharacterized protein, DLP12 prophage
+DLP12 prophage; putative antitermination protein
+IS5 transposase and trans-activator
+DLP12 prophage; putative phage lysis protein
+DLP12 prophage; putative lysozyme
+DLP12 prophage; putative murein endopeptidase
+DLP12 prophage; putative lipoprotein
+DLP12 prophage; putative lipoprotein
+DLP12 prophage; uncharacterized protein
+DLP12 prophage; uncharacterized protein
+DUF3950 family protein, DLP12 prophage
+DLP12 prophage; DNA packaging protein
+global transcriptional activator; DLP12 prophage
+DLP12 prophage; outer membrane protease VII; outer membrane protein 3b
+porin thermoregulatory transcriptional activator
+PRK09936 family protein
+bacteriophage N4 receptor, outer membrane subunit
+bacteriophage N4 receptor, inner membrane subunit
+copper-sensing histidine kinase in two-component regulatory system with CusR
+response regulator in two-component regulatory system with CusS
+copper/silver efflux system, outer membrane component
+periplasmic copper- and silver-binding protein
+copper/silver efflux system, membrane fusion protein
+copper/silver efflux system, membrane component
+phenylalanine transporter
+mechanosensitive channel protein, miniconductance
+dihydropteridine reductase, NAD(P)H-dependent, oxygen-insensitive
+DUF419 family protein
+DUF1158 family putative inner membrane protein
+weak gamma-glutamyl:cysteine ligase
+toxic polypeptide, small
+IS186 transposase
+phosphopantetheinyltransferase component of enterobactin synthase multienzyme complex
+ferrienterobactin outer membrane transporter
+enterobactin/ferrienterobactin esterase
+stimulator of EntF adenylation activity, MbtH-like
+enterobactin synthase multienzyme complex component, ATP-dependent
+regulator of length of O-antigen component of lipopolysaccharide chains
+ferrienterobactin ABC transporter ATPase
+iron-enterobactin ABC transporter permease
+ferrienterobactin ABC transporter permease
+enterobactin exporter, iron-regulated
+ferrienterobactin ABC transporter periplasmic binding protein
+isochorismate synthase 1
+2,3-dihydroxybenzoate-AMP ligase component of enterobactin synthase multienzyme complex
+isochorismatase
+2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+enterobactin synthesis proofreading thioesterase
+carbon starvation protein involved in peptide utilization; APC peptide transporter family protein
+DUF466 family protein
+putative oxidoreductase
+methionine aminotransferase, PLP-dependent
+Spo0J family protein, ParB-like nuclease domain
+PAPS reductase-like domain protein
+putative DNA-binding transcriptional regulator
+thiol:disulfide interchange protein, periplasmic
+alkyl hydroperoxide reductase, C22 subunit
+alkyl hydroperoxide reductase, F52a subunit, FAD/NAD(P)-binding
+universal stress protein UP12
+putative Zn-dependent NAD(P)-binding oxidoreductase
+regulator of nucleoside diphosphate kinase
+ribonuclease I
+citrate/succinate antiporter; citrate carrier
+2-(5\'\'-triphosphoribosyl)-3\'-dephosphocoenzyme-A synthase
+apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+citrate lyase, citrate-ACP transferase (alpha) subunit
+citrate lyase, citryl-ACP lyase (beta) subunit
+citrate lyase, acyl carrier (gamma) subunit
+citrate lyase ligase;
+sensory histidine kinase in two-component regulatory system with CitB
+response regulator in two-component regulatory system with CitA
+anaerobic C4-dicarboxylate transport
+phospholipid:lipid A palmitoyltransferase
+constitutive cold shock family transcription antitermination protein; negative regulator of cspA transcription; RNA melting protein; ssDNA-binding protein
+fluoride efflux channel, dual topology membrane protein
+TatABCE protein translocation system subunit
+lipoate synthase
+LysR family putative transcriptional regulator
+octanoyltransferase; octanoyl
+UPF0250 family protein
+D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 5)
+septal ring protein, suppressor of prc, minor lipoprotein
+cell wall shape-determining protein
+penicillin-binding protein 2, transpeptidase involved in peptidoglycan synthesis
+23S rRNA m(3)Psi1915 pseudouridine methyltransferase, SAM-dependent
+ribosomal silencing factor
+putative alpha-ribazole-5\'-P phosphatase
+nicotinic acid mononucleotide adenylyltransferase, NAD(P)-dependent
+DNA polymerase III, delta subunit
+LPS assembly OM complex LptDE, lipoprotein component
+leucyl-tRNA synthetase
+DUF1451 family protein
+Sel1 family TPR-like repeat protein
+uncharacterized protein b0645
+putative HscC co-chaperone, uncharacterized J domain-containing protein
+Sel1 family TPR-like repeat protein
+DUF1266 family protein
+J domain-containing HscC co-chaperone; Hsc56
+Hsp70 family chaperone Hsc62; RpoD-binding transcription inhibitor
+ribonucleoside hydrolase 1
+glutamate/aspartate ABC transporter ATPase
+glutamate/aspartate ABC transporter permease
+glutamate/aspartate ABC transporter permease
+glutamate/aspartate periplasmic binding protein
+IS5 transposase and trans-activator
+apolipoprotein N-acyltransferase
+putative ion transport
+ssRNA-specific endoribonuclease; 16S rRNA 3\' end maturation and quality control co-endoribonuclease working with RNase R; rRNA transcription antitermination factor
+heat shock protein, putative NTPase; PhoH-like protein
+tRNA-i(6)A37 methylthiotransferase
+2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol oxygenase
+asparagine synthetase B
+UMP phosphatase
+N-acetylglucosamine-inducible nag divergent operon transcriptional repressor
+N-acetylglucosamine-6-phosphate deacetylase
+glucosamine-6-phosphate deaminase
+N-acetyl glucosamine specific PTS enzyme IIC, IIB, and IIA components
+glutamyl-tRNA synthetase
+chitoporin, uptake of chitosugars
+chitosugar-induced verified lipoprotein
+ferric iron uptake regulon transcriptional repressor; autorepressor
+ryhB-regulated fur leader peptide
+flavodoxin 1
+LexA-regulated protein, CopB family
+acyl-CoA esterase
+negative modulator of initiation of replication
+phosphoglucomutase
+lipoprotein
+putrescine/proton symporter: putrescine/ornithine antiporter
+ornithine decarboxylase isozyme, inducible
+uncharacterized protein b4590
+response regulator in two-component regulatory system with KdpD
+fused sensory histidine kinase in two-component regulatory system with KdpE: signal sensing protein
+potassium translocating ATPase, subunit C
+potassium translocating ATPase, subunit B
+potassium translocating ATPase, subunit A
+potassium ion accessory transporter subunit
+DUF2517 family protein
+Rhs protein with putative toxin domain; putative neighboring cell growth inhibitor
+putative membrane protein
+putative secreted protein
+H repeat-associated putative transposase
+DUF1722 family protein
+deoxyribodipyrimidine photolyase, FAD-binding
+dipeptide and tripeptide permease D
+NIF3 family metal-binding protein
+putative allophanate hydrolase, subunit 1
+putative allophanate hydrolase, subunit 2
+UPF0271 family protein
+endonuclease VIII and 5-formyluracil/5-hydroxymethyluracil DNA glycosylase
+regulator of aidB expression; inner membrane protein
+putative fimbrial protein
+putative periplasmic pilin chaperone
+putative outer membrane protein
+putative fimbrial-like adhesin protein
+citrate synthase
+succinate dehydrogenase, membrane subunit, binds cytochrome b556
+succinate dehydrogenase, membrane subunit, binds cytochrome b556
+succinate dehydrogenase, flavoprotein subunit
+succinate dehydrogenase, FeS subunit
+2-oxoglutarate decarboxylase, thiamine triphosphate-binding
+dihydrolipoyltranssuccinase
+succinyl-CoA synthetase, beta subunit
+succinyl-CoA synthetase, NAD(P)-binding, alpha subunit
+transcriptional repressor for the mannosyl-D-glycerate catabolic operon
+fused 2-O-a-mannosyl-D-glycerate specific PTS enzymes: IIA component/IIB component/IIC component
+alpha-mannosidase
+cytochrome d terminal oxidase, subunit I
+cytochrome d terminal oxidase, subunit II
+cytochrome d (bd-I) ubiquinol oxidase subunit X
+putative inner membrane protein in cydABX-ybgE operon
+acyl-CoA thioester hydrolase
+membrane spanning protein in TolA-TolQ-TolR complex
+membrane spanning protein in TolA-TolQ-TolR complex
+membrane anchored protein in TolA-TolQ-TolR complex
+periplasmic protein
+peptidoglycan-associated outer membrane lipoprotein
+periplasmic TolA-binding protein
+quinolinate synthase, subunit A
+nicotinamide riboside transporter
+zinc efflux system
+putative periplasmic protein
+3-deoxy-D-arabino-heptulosonate-7-phosphate synthase, phenylalanine repressible
+phosphoglyceromutase 1
+aldose 1-epimerase; type-1 mutarotase; galactose mutarotase
+galactokinase
+galactose-1-phosphate uridylyltransferase
+UDP-galactose-4-epimerase
+molybdate ABC transporter ATPase
+transcriptional repressor for the molybdenum transport operon modABC
+AcrAB-TolC efflux pump accessory protein, membrane-associated
+molybdate ABC transporter periplasmic binding protein; chlorate resistance protein
+molybdate ABC transporter permease; chlorate resistance protein
+molybdate ABC transporter ATPase; chlorate resistance protein
+pyridoxal phosphate (PLP) phosphatase
+6-phosphogluconolactonase
+putative DNA-binding transcriptional regulator
+putative PrpF family isomerase
+putative DASS family tricarboxylate or dicarboxylate transporter
+aconitase family protein
+acyl-CoA thioesterase, lipoprotein
+kinase inhibitor homolog, UPF0098 family
+7,8-diaminopelargonic acid synthase, PLP-dependent
+biotin synthase
+8-amino-7-oxononanoate synthase
+malonyl-ACP O-methyltransferase, SAM-dependent
+dethiobiotin synthetase
+exision nuclease of nucleotide excision repair, DNA damage recognition component
+putative CofD superfamily transferase
+molybdopterin biosynthesis protein A
+inactive molybdopterin adenylyltransferase
+molybdopterin biosynthesis, protein C
+molybdopterin synthase, small subunit
+molybdopterin synthase, large subunit
+putative acetate transporter; BAX Inhibitor-1 family inner membrane protein
+BAX Inhibitor-1 family inner membrane protein
+UPF0104 family inner membrane protein
+cardiolipin synthase 2
+endo/exonuclease/phosphatase family protein
+inner membrane protein
+putative ABC transporter permease
+putative ABC transporter permease
+putative ABC transporter ATPase
+putative membrane fusion protein (MFP) component of efflux pump, membrane anchor
+DUF1956 domain-containing tetR family putative transcriptional regulator
+ATP-dependent RNA helicase
+DUF1768 family protein
+ATP-dependent DNA helicase
+putative family 3 glycosyltransferase
+putative dehydrogenase
+DUF1471 family putative periplasmic protein
+DksA-type zinc finger protein
+Fe(II)-dependent oxygenase superfamily protein
+catecholate siderophore receptor
+colanic acid mucoidy stimulation protein
+23S rRNA m(6)A1618 methyltransferase, SAM-dependent
+mechanosensitive channel protein, intermediate conductance
+glutamine transporter subunit
+glutamine transporter subunit
+glutamine transporter subunit
+Fe-binding and storage protein; stress-inducible DNA-binding protein
+threonine and homoserine efflux system
+outer membrane protein X
+OPG biosynthetic transmembrane phosphoethanolamine transferase
+Mn(2)-response protein, MntR-repressed
+Mn(2+)-responsive manganese regulon transcriptional regulator
+putative transporter
+L,D-transpeptidase linking Lpp to murein
+ABC-F family putative regulatory ATPase
+DUF1479 family protein
+sugar phosphatase; fructose-1-P/ribose-5-P/glucose-6-P phosphatase
+putative pyruvate formate lyase
+putative pyruvate formate lyase activating enzyme
+fructose-6-phosphate aldolase 1
+molybdopterin synthase sulfurylase
+molybdopterin molybdenumtransferase; molybdopterin biosynthesis protein
+Isoaspartyl peptidase
+glutathione ABC transporter ATPase
+glutathione ABC transporter periplasmic binding protein
+glutathione ABC transporter permease
+glutathione ABC transporter permease
+putative membrane-anchored cyclic-di-GMP phosphodiesterase
+putative membrane-anchored diguanylate cyclase
+ribosomal protein S12 methylthiotransferase
+repressor of biofilm formation by indole transport regulation
+soluble aldose sugar dehydrogenase
+glutathione S-transferase
+D-alanyl-D-alanine carboxypeptidase; penicillin-binding protein 6a
+deoxyribose-5-phosphate-inducible deoxyribose operon transcriptional repressor; repressor of nupG and tsx
+undecaprenyl pyrophosphate phosphatase
+multidrug efflux system protein
+uncharacterized protein b0843
+5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase; pyrimidine phosphatase; riboflavin synthesis
+putative drug efflux MFS transporter, inner membrane protein
+transcriptional regulator of csgD and ybiJI; autoregulator
+putative transporter
+inner membrane protein
+glutaredoxin 1, redox coenzyme for ribonucleotide reductase (RNR1a)
+DUF1418 family protein
+nitroreductase A, NADPH-dependent, FMN-dependent
+ribosomal protein S6 modification protein
+negative regulator of motility; multicopy suppressor of coaA(Ts)
+putrescine ABC transporter periplasmic binding protein
+putrescine ABC transporter ATPase
+putrescine ABC transporter permease
+putrescine ABC transporter permease
+DUF2593 family inner membrane protein
+23S rRNA m(5)U747 methyltransferase, SAM-dependent
+arginine ABC transporter periplasmic binding protein
+arginine ABC transporter permease
+arginine ABC transporter permease
+arginine transporter subunit
+arginine ABC transporter ATPase
+lipoprotein
+UPF0145 family protein
+1,6-anhydro-N-acetylmuramyl-L-alanine amidase, Zn-dependent; OM lipoprotein
+putative NAD(P)H-dependent oxidoreductase
+putative NAD-dependent oxidoreductase
+L-allo-threonine aldolase, PLP-dependent
+pyruvate dehydrogenase, thiamine triphosphate-binding, FAD-binding
+HCP oxidoreductase, NADH-dependent
+hybrid-cluster
+putative transporter
+aquaporin Z
+putative OLD family ATP-dependent endonuclease; DUF2813 family protein
+DUF535 family protein
+macrolide transporter membrane fusion protein (MFP) component
+macrolide ABC transporter peremase/ATPase
+inhibitor of DNA replication, cold shock protein homolog
+regulatory protein for ClpA substrate specificity
+ATPase and specificity subunit of ClpA-ClpP ATP-dependent serine protease, chaperone activity
+translation initiation factor IF-1
+leucyl/phenylalanyl-tRNA-protein transferase
+glutathione/cysteine ABC transporter export permease/ATPase
+glutathione/cysteine ABC transporter export permease/ATPase
+thioredoxin reductase, FAD/NAD(P)-binding
+leucine-responsive global transcriptional regulator
+DNA translocase at septal ring sorting daughter chromsomes
+lipoprotein chaperone
+recombination intermediate processing DNA-dependent ATPase
+seryl-tRNA synthetase
+dimethyl sulfoxide reductase, anaerobic, subunit A
+dimethyl sulfoxide reductase, anaerobic, subunit B
+dimethyl sulfoxide reductase, anaerobic, subunit C
+putative isochorismatase family hydrolase
+putative MFS transporter, inner membrane protein
+putative transporter
+LysR family putative transcriptional regulator
+putative NAD(P)H-dependent oxidoreductase
+pyruvate formate-lyase 1-activating enzyme;
+formate C-acetyltransferase 1, anaerobic; pyruvate formate-lyase 1
+formate channel
+ribosomal protein S12 methylthiotransferase accessory factor
+UPF0702 family putative inner membrane protein
+3-phosphoserine/phosphohydroxythreonine aminotransferase
+5-enolpyruvylshikimate-3-phosphate synthetase
+putative peptidase-related chaperone
+cytidylate kinase
+30S ribosomal subunit protein S1
+integration host factor (IHF), DNA-binding protein, beta subunit
+ComEC family inner membrane protein
+lipid ABC transporter permease/ATPase
+lipid A 4\'kinase
+DUF1006 family protein with C-terminal wHTH domain
+peroxide and acid resistance protein, UPF0434 family
+3-deoxy-manno-octulosonate cytidylyltransferase
+protein kinase-like domain protein
+envelope biogenesis factor; DUF218 superfamily protein
+putative S-adenosyl-L-methionine-dependent methyltransferase
+chromosome condensin MukBEF, kleisin-like subunit, binds calcium
+chromosome condensin MukBEF, MukE localization factor
+chromosome condensin MukBEF, ATPase and DNA-binding subunit
+murein L,D-transpeptidase
+M15A protease-related family periplasmic protein
+putative metal-binding enzyme
+aspartate aminotransferase, PLP-dependent
+outer membrane porin 1a (Ia;b;F)
+asparaginyl tRNA synthetase
+nicotinate phosphoribosyltransferase
+aminopeptidase N
+aliphatic sulfonate ABC transporter ATPase
+aliphatic sulfonate ABC transporter permease
+alkanesulfonate monooxygenase, FMNH(2)-dependent
+aliphatic sulfonate ABC transporter periplasmic binding protein
+NAD(P)H-dependent FMN reductase
+laminin-binding fimbrin subunit
+putative periplasmic pilin chaperone
+putative outer membrane fimbrial subunit export usher protein
+putative fimbrial-like adhesin protein
+putative fimbriae protein
+putative fimbrial-like adhesin protein
+putative periplasmic pilin chaperone
+dihydro-orotate oxidase, FMN-linked
+FtsZ stabilizer
+6-N-hydroxylaminopurine detoxification oxidoreductase
+23S rRNA m(2)G2445 and m(7)G2069 methyltransferases, SAM-dependent
+replication regulatory ABC-F family DNA-binding ATPase
+paraquat-inducible, SoxRS-regulated inner membrane protein
+paraquat-inducible, SoxRS-regulated MCE domain protein
+DUF330 family putative lipoprotein
+ribosome modulation factor
+beta-hydroxydecanoyl thioester dehydrase
+putative peptidase
+Ter macrodomain organizer matS-binding protein
+outer membrane protein A (3a;II*;G;d)
+SOS cell division inhibitor
+CRP-S-dependent promoter expression factor
+putative transporter, FUSC superfamily inner membrane protein
+DUF307 family inner membrane protein
+DNA helicase IV
+methylglyoxal synthase
+UPF0319 family protein
+putative CoA-binding protein
+heat shock protein involved in degradation of mutant DnaA; hemimethylated oriC DNA-binding protein
+23S rRNA m(5)C1962 methyltransferase, SAM-dependent
+weak acylphosphatase
+mnm(5)-s(2)U34-tRNA 2-thiolation sulfurtransferase
+Modulator of FtsH protease, inner membrane protein
+hydrogenase 1, small subunit
+hydrogenase 1, large subunit
+hydrogenase 1, b-type cytochrome subunit
+hydrogenase 1 maturation protease
+putative HyaA chaperone
+hydrogenase-1 protein nickel incorporation factor
+cytochrome bd-II oxidase, subunit I
+cytochrome bd-II oxidase, subunit II
+putative cytochrome bd-II oxidase subunit
+phosphoanhydride phosphorylase
+tyrosine-protein kinase, role in O-antigen capsule formation
+O-antigen capsule forming protein-tyrosine-phosphatase; Etk-P dephosphorylase
+putative O-antigen capsule outer membrane auxillary protein export channel
+putative O-antigen capsule production periplasmic protein
+putative O-antigen capsule production periplasmic protein
+O-antigen capsule production lipoprotein
+O-antigen capsule production threonine-rich inner membrane protein
+IS1 repressor TnpA
+IS1 transposase B
+stress protein, member of the CspA-family
+cold shock protein homolog, cold-inducible
+cold shock gene
+putative phosphatidylethanolamine synthesis regulator
+putative 4Fe-4S membrane protein
+hybrid sensory histidine kinase in two-component regulatory system with TorR
+periplasmic sensory protein associated with the TorRS two-component regulatory system
+response regulator in two-component regulatory system with TorS
+trimethylamine N-oxide (TMAO) reductase I, cytochrome c-type subunit
+trimethylamine N-oxide (TMAO) reductase I, catalytic subunit
+TorA-maturation chaperone
+modulator of CbpA co-chaperone
+DnaK co-chaperone; curved DNA-binding protein
+uncharacterized protein b1001
+glucose-1-phosphatase/inositol phosphatase
+uncharacterized protein b1003
+NAD(P)H:quinone oxidoreductase
+KGG family protein
+pyrimidine permease
+flavin:NADH reductase
+putative malonic semialdehyde reductase
+putative reactive intermediate detoxifying aminoacrylate hydrolase
+putative aminoacrylate deaminase, reactive intermediate detoxification; weak enamine/imine deaminase activity
+ureidoacrylate amidohydrolase
+pyrimidine oxygenase, FMN-dependent
+rut operon transcriptional repressor for
+fused DNA-binding transcriptional regulator/proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase
+proline:sodium symporter
+inactive ferrous ion transporter EfeUOB
+deferrrochelatase, periplasmic
+ATP-binding protein; putative PhoH family P-loop ATPase
+biofilm PGA synthase PgaCD, regulatory subunit; c-di-GMP-stimulated activity and dimerization
+biofilm PGA synthase PgaCD, catalytic subunit; poly-beta-1,6-N-acetyl-D-glucosamine synthase
+poly-beta-1,6-N-acetyl-D-glucosamine (PGA) N-deacetylase outer membrane export lipoprotein
+biofilm adhesin polysaccharide PGA secretin; OM porin; poly-beta-1,6-N-acetyl-D-glucosamine export protein
+diguanylate cyclase, membrane-anchored
+IS3 transposase B
+IS3 transposase A
+putative inner membrane protein
+glyoxylate/hydroxypyruvate reductase A
+alkaline phosphatase
+redox enzyme maturation protein (REMP) chaperone for YcdX
+DUF1097 family inner membrane protein
+curli production assembly/transport outer membrane lipoprotein
+curli nucleation outer membrane protein
+curlin secretion specificity factor
+csgBAC operon transcriptional regulator
+curlin nucleator protein, minor subunit in curli complex
+curlin subunit, amyloid curli fibers, cryptic
+curli assembly protein
+uncharacterized protein b1044
+O-acetyl-ADP-ribose deacetylase; RNase III inhibitor during cold shock; putative cardiolipin synthase C regulatory subunit
+stationary phase cardiolipin synthase 3
+OPG biosynthetic transmembrane succinyltransferase
+OPG biosynthetic periplasmic beta-1,6 branching glycosyltransferase
+OPG biosynthetic ACP-dependent transmembrane UDP-glucose beta-1,2 glycosyltransferase; nutrient-dependent cell size regulator, FtsZ assembly antagonist
+outer membrane integrity lipoprotein
+multicopy suppressor of secY and secA
+putative drug efflux system protein
+lauryl-acyl carrier protein (ACP)-dependent acyltransferase
+putative rhodanese-related sulfurtransferase
+periplasmic high pH-inducible lipid-binding protein
+putative cytochrome b561
+uncharacterized protein b1058
+N-methyltryptophan oxidase, FAD-binding
+biofilm regulator
+DNA damage-inducible protein I
+dihydro-orotase
+lipoprotein, DUF1439 family
+glutaredoxin 2 (Grx2)
+multidrug resistance efflux transporter conferring overexpression resistance to norfloxacin and enoxacin
+ribosomal-protein-S5-alanine N-acetyltransferase
+UPF0502 family protein
+putative oxidoreductase
+putative lipid II flippase
+export chaperone for FlgK and FlgL
+anti-sigma factor for FliA (sigma 28)
+assembly protein for flagellar basal-body periplasmic P ring
+flagellar component of cell-proximal portion of basal-body rod
+flagellar component of cell-proximal portion of basal-body rod
+flagellar hook assembly protein
+flagellar hook protein
+flagellar component of cell-proximal portion of basal-body rod
+flagellar component of cell-distal portion of basal-body rod
+flagellar protein of basal-body outer-membrane L ring
+putative flagellar basal body protein
+flagellar rod assembly protein and murein hydrolase; flagellum-specific muramidase
+flagellar hook-filament junction protein 1
+flagellar hook-filament junction protein
+endoribonuclease; RNA-binding protein;RNA degradosome binding protein
+uncharacterized protein b1085
+23S rRNA pseudouridine(955,2504,2580) synthase
+m(7)GTP pyrophosphatase
+DUF177 family protein
+50S ribosomal subunit protein L32
+putative phosphate acyltransferase
+3-oxoacyl
+malonyl-CoA
+3-oxoacyl
+acyl carrier protein (ACP)
+3-oxoacyl
+4-amino-4-deoxychorismate lyase component of para-aminobenzoate synthase multienzyme complex
+septation protein, ampicillin sensitivity
+thymidylate kinase
+DNA polymerase III, delta prime subunit
+putative DNase
+fused glucose-specific PTS enzymes: IIB component/IIC component
+ferric-rhodotorulic acid outer membrane transporter
+purine nucleoside phosphoramidase, dadA activator protein
+uncharacterized protein b1104
+OM lipoprotein stimulator of MrcB transpeptidase
+thiamine kinase
+beta N-acetyl-glucosaminidase
+putative UPF0227 family esterase
+respiratory NADH dehydrogenase 2/cupric reductase
+uncharacterized protein b1110
+repressor for bhsA(ycfR)
+biofilm, cell surface and signaling protein
+L,D-transpeptidase linking Lpp to murein
+transcription-repair coupling factor
+inner membrane protein
+lipoprotein-releasing system transmembrane protein
+outer membrane-specific lipoprotein transporter subunit
+lipoprotein-releasing system transmembrane protein
+N-acetyl-D-glucosamine kinase
+deacetylase of acs and cheY, chemotaxis regulator
+inner membrane protein
+DUF3592 family inner membrane protein
+spermidine/putrescine ABC transporter periplasmic binding protein
+spermidine/putrescine ABC transporter permease
+spermidine/putrescine ABC transporter permease
+spermidine/putrescine ABC transporter ATPase
+peptidase T
+50S ribosomal protein L16 arginine hydroxylase; 2-oxoglutarate oxygenase
+sensory histidine kinase in two-component regulatory system with PhoP
+response regulator in two-component regulatory system with PhoQ
+adenylosuccinate lyase
+putative lysogenization regulator
+tRNA(Gln,Lys,Glu) U34 2-thiouridylase
+bifunctional thiamine pyrimidine pyrophosphate hydrolase and thiamine pyrophosphate hydrolase
+23S rRNA pseudouridine(2457) synthase
+isocitrate dehydrogenase; e14 prophage attachment site; tellurite reductase
+e14 prophage; putative SAM-dependent methyltransferase
+e14 prophage; putative inner membrane protein
+T4 phage exclusion protein; cell death peptidase, e14 prophage
+e14 prophage; putative integrase
+e14 prophage; putative excisionase
+e14 prophage; uncharacterized protein
+e14 prophage; uncharacterized protein
+e14 prophage; repressor protein phage e14
+e14 prophage; putative DNA-binding transcriptional regulator
+e14 prophage; putative DNA-binding transcriptional regulator
+e14 prophage; uncharacterized protein
+e14 prophage; uncharacterized protein
+prohage e14 tail protein homolog
+e14 prophage; uncharacterized protein
+e14 prophage; uncharacterized protein
+e14 prophage; putative tail fiber assembly protein
+e14 prophage; site-specific DNA recombinase
+putative 5-methylcytosine/5-hydroxymethylcytosine-specific restriction nuclease; 5-methylcytosine DNA binding protein
+RpoS stabilzer during Mg starvation, anti-RssB factor
+DUF1398 family protein
+repressor of blue light-responsive genes
+anti-repressor for YcgE, blue light-responsive; FAD-binding; inactive c-di-GMP phosphodiesterase-like EAL domain protein
+RcsB connector protein for regulation of biofilm and acid-resistance
+RcsB connector protein for regulation of biofilm
+RcsB connector protein for regulation of biofilm and acid-resistance
+Blue light, low temperature and stress induced protein
+putative membrane-anchored cyclic-di-GMP phosphodiesterase
+inner membrane division septum protein
+uncharacterized protein b1171
+UPF0757 family protein
+uncharacterized protein b4593
+uncharacterized protein b4594
+cell division topological specificity factor
+inhibitor of FtsZ ring polymerization; chromosome-membrane tethering protein; membrane ATPase of the MinCDEE system
+inhibitor of FtsZ ring polymerization
+uncharacterized protein b1177
+periplasmic inhibitor of g-type lysozyme
+UPF0745 family protein
+putative isomerase/hydrolase
+UPF0153 family cysteine cluster protein
+hemolysin E
+translesion error-prone DNA polymerase V subunit; RecA-activated auto-protease
+translesion error-prone DNA polymerase V subunit; DNA polymerase activity
+oxidoreductase that catalyzes reoxidation of DsbA protein disulfide isomerase I
+sodium:proton antiporter
+fatty acid metabolism regulon transcriptional regulator
+SpoVR family stationary phase protein
+D-amino acid dehydrogenase
+alanine racemase, catabolic, PLP-binding
+putative cation/proton antiporter
+murein tetrapeptide carboxypeptidase; LD-carboxypeptidase A
+lytic murein endotransglycosylase E
+flagellar velocity braking protein, c-di-GMP-regulated
+UPF0410 family putative inner membrane protein
+uncharacterized protein b1196
+periplasmic trehalase
+putative dihydroxyacetone-specific PTS enzymes: HPr, EI components
+dihydroxyacetone kinase, C-terminal domain
+dihydroxyacetone kinase, PTS-dependent, dihydroxyacetone-binding subunit
+dhaKLM operon transcription activator
+putative adhesin
+catalase inhibitor protein; ATPase, K+-dependent, ribosome-associated
+peptidyl-tRNA hydrolase
+DUF2583 family putative inner membrane protein
+C4-dicarboxylic acid transporter
+phosphoribosylpyrophosphate synthase
+4-diphosphocytidyl-2-C-methylerythritol kinase
+lipoprotein localization factor
+glutamyl tRNA reductase
+peptide chain release factor RF-1
+RF-1 and RF-2 N5-glutamine methyltransferase
+SIRB family inner membrane protein
+transglutaminase-like TPR-repeat protein
+3-deoxy-D-manno-octulosonate 8-phosphate synthase
+toxic polypeptide, small
+toxic polypeptide, small
+toxic polypeptide, small
+calcium/sodium:proton antiporter
+cation transport regulator
+cation transport regulator
+putative sulfur relay protein
+putative invasin
+response regulator in two-component regulatory system with NarX
+sensory histidine kinase in two-component regulatory system with NarL
+nitrate/nitrite transporter
+nitrate reductase 1, alpha subunit
+nitrate reductase 1, beta (Fe-S) subunit
+molybdenum-cofactor-assembly chaperone delta subunit of nitrate reductase 1
+nitrate reductase 1, gamma (cytochrome b(NR)) subunit
+protamine-like protein
+formyltetrahydrofolate hydrolase
+UPF0225 family protein
+putative patatin-like family phospholipase
+PcnB-degradosome interaction factor; response regulator
+glucose-1-phosphate uridylyltransferase
+global DNA-binding transcriptional dual regulator H-NS
+thymidine kinase/deoxyuridine kinase
+fused acetaldehyde-CoA dehydrogenase/iron-dependent alcohol dehydrogenase/pyruvate-formate lyase deactivase
+UPF0056 family inner membrane protein
+oligopeptide ABC transporter periplasmic binding protein
+oligopeptide ABC transporter permease
+oligopeptide ABC transporter permease
+oligopeptide ABC transporter ATPase
+oligopeptide ABC transporter ATPase
+UPF0263 family protein
+cardiolipin synthase 1
+uncharacterized protein b4595
+voltage-gated potassium channel
+putative DGPF domain-containing enzyme
+membrane spanning protein in TonB-ExbB-ExbD transport complex
+acyl-CoA esterase
+IspA family inner membrane protein
+UPF0259 family inner membrane protein
+outer membrane protein W
+putative rubrerythrin/ferritin-like metal-binding protein
+putative rubrerythrin/ferritin-like metal-binding protein
+KGG family protein
+tryptophan synthase, alpha subunit
+tryptophan synthase, beta subunit
+indole-3-glycerolphosphate synthetase and N-(5-phosphoribosyl)anthranilate isomerase
+fused glutamine amidotransferase (component II) of anthranilate synthase/anthranilate phosphoribosyl transferase
+component I of anthranilate synthase
+trp operon leader peptide
+PHP domain protein
+putative RNA binding protein
+enhancer of membrane protein expression; putative inner membrane protein
+23S rRNA pseudouridine(2605) synthase
+cob(I)yrinic acid a,c-diamide adenosyltransferase
+putative EmrKY-TolC system oxoacyl-(acyl carrier protein) reductase
+inner membrane protein, S49 peptidase family protein
+DUF2498 protein YciN
+DNA topoisomerase I, omega subunit
+N-acetylserine-responsive cysteine regulon transcriptional activator; autorepressor
+uncharacterized protein b4522
+uncharacterized protein b4523
+aconitate hydratase 1; aconitase A
+GTP cyclohydrolase II
+phosphatidylglycerophosphatase B
+DUF1049 family inner membrane protein, function unknown
+LPS regulatory protein; putative modulator of LpxC proteolysis
+orotidine-5\'-phosphate decarboxylase
+initiation factor function partial mimic, SUI1 family
+osmotically and stress inducible lipoprotein
+global regulator of transcription; DeoR family
+uncharacterized protein b4596
+cyclic-di-GMP phosphodiesterase; csgD regulator; modulator of RNase II stability
+uncharacterized protein b4672
+ribonuclease II
+putative oxidoreductase
+enoyl
+DUF559 family endonuclease-related protein
+antimicrobial peptide ABC transporter ATPase
+antimicrobial peptide ABC transporter ATPase
+antimicrobial peptide transport ABC transporter permease
+antimicrobial peptide transport ABC transporter permease
+antimicrobial peptide transport ABC transporter periplasmic binding protein
+DUF2543 family protein
+putrescine importer
+glutamate--putrescine ligase
+gamma-glutamyl-gamma-aminobutyrate hydrolase
+repressor for the divergent puu operons, putrescine inducible
+gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase; succinate semialdehyde dehydrogenase
+gamma-glutamylputrescine oxidoreductase
+4-aminobutyrate aminotransferase, PLP-dependent
+psp operon transcriptional activator
+regulatory protein for phage-shock-protein operon
+psp operon transcription co-activator
+psp operon transcription co-activator
+peripheral inner membrane phage-shock protein
+thiosulfate:cyanide sulfurtransferase (rhodanese)
+alpha amylase catalytic domain family protein
+putative ABC sugar transporter periplasmic binding protein
+putative sugar ABC transporter permease
+putative sugar ABC transporter permease
+putative Zn-dependent NAD(P)-binding oxidoreductase
+putative TIM alpha/beta barrel enzyme
+putative NADH-binding oxidoreductase
+putative family 65 glycosyl hydrolase
+beta-phosphoglucomutase
+outer membrane porin G
+LacI family putative transcriptional repressor
+DUF463 family protein, puatative P-loop NTPase
+UPF0283 family inner membrane protein
+aromatic amino acid biosynthesis and transport regulon transcriptional regulator; autorepressor; ATPase; phosphatase
+lipid hydroperoxide peroxidase
+L-Ala-D/L-Glu epimerase
+murein peptide amidase A
+S9 homolog non-peptidase family protein
+murein peptide degradation regulator
+murein tripeptide (L-ala-gamma-D-glutamyl-meso-DAP) transporter subunit
+mechanosensitive channel protein, very small conductance
+IS5 transposase and trans-activator
+DUF2534 family putative inner membrane protein
+stress-induced protein
+oxygen-sensing anaerobic growth regulon transcriptional regulator FNR; autorepressor
+O-6-alkylguanine-DNA:cysteine-protein methyltransferase
+p-aminobenzoyl-glutamate transporter; membrane protein
+p-aminobenzoyl-glutamate hydrolase, B subunit
+p-aminobenzoyl-glutamate hydrolase, A subunit
+putative DNA-binding transcriptional regulator of abgABT operon
+DNA endonuclease
+diguanylate cyclase, csgD regulator
+putative Zn(II) transporter
+ATP-dependent RNA helicase, specific for 23S rRNA
+tRNA s(2)C32 thioltransferase, iron sulfur cluster protein
+Rac prophage; integrase
+Rac prophage; conserved protein
+DUF1187 family protein, Rac prophage; putative double-strand break reduction protein
+Rac prophage; restriction alleviation protein
+Rac prophage; recombination and repair protein
+Rac prophage; exonuclease VIII, 5\' to 3\' specific dsDNA exonuclease
+Rac prophage; uncharacterized protein
+conserved protein, Rac prophage
+killing protein, Rac prophage; FtsZ inhibitor protein
+phage superinfection exclusion protein, Rac prophage
+uncharacterized protein, Rac prophage
+Rac prophage; uncharacterized protein
+Rac prophage; putative DNA-binding transcriptional regulator
+Rac prophage; putative DNA-binding transcriptional regulator
+Rac prophage; uncharacterized protein
+Rac prophage; conserved protein
+Rac prophage; putative DNA replication protein
+Rac prophage; putative lipoprotein
+Rac prophage; potassium transporter subunit
+Rac prophage; conserved protein
+IS5 transposase and trans-activator
+Rac prophage; putative tail fiber protein
+Rac prophage; putative tail fiber assembly protein
+Rac prophage; putative site-specific recombinase
+cold shock protein, Rac prophage
+stress-induced protein, ATP-binding protein
+outer membrane pore protein N, non-specific
+pyruvate-flavodoxin oxidoreductase
+DUF333 family putative lipoprotein
+heat-inducible lipoprotein involved in novobiocin resistance
+fermentative D-lactate dehydrogenase, NAD-dependent
+putative membrane-anchored protein, function unknown
+lipoprotein
+DUF1318 family protein
+transcriptional activator for tynA and feaB
+phenylacetaldehyde dehydrogenase
+tyramine oxidase, copper-requiring
+oxepin-CoA hydrolase and 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase
+ring 1,2-phenylacetyl-CoA epoxidase subunit
+putative ring 1,2-phenylacetyl-CoA epoxidase subunit
+ring 1,2-phenylacetyl-CoA epoxidase subunit
+ring 1,2-phenylacetyl-CoA epoxidase subunit
+ring 1,2-phenylacetyl-CoA epoxidase, NAD(P)H oxidoreductase component
+2,3-dehydroadipyl-CoA hydratase
+1,2-epoxyphenylacetyl-CoA isomerase, oxepin-CoA-forming
+3-hydroxyadipyl-CoA dehydrogenase, NAD+-dependent
+hydroxyphenylacetyl-CoA thioesterase
+3-oxoadipyl-CoA/3-oxo-5,6-dehydrosuberyl-CoA thiolase
+phenylacetyl-CoA ligase
+transcriptional repressor of phenylacetic acid degradation paa operon, phenylacetyl-CoA inducer
+thioesterase required for phenylacetic acid degradation; trimeric; phenylacetate regulatory and detoxification protein; hexapeptide repeat protein
+uncharacterized protein b4674
+IS2 transposase TnpB
+IS2 repressor TnpA
+IS30 transposase
+putative NAD(P)-binding oxidoreductase
+PF10971 family putative periplasmic methylglyoxal resistance protein
+inner membrane protein
+putative CDP-diglyceride synthase
+putative esterase
+putative phosphatase inner membrane protein
+NADH-azoreductase, FMN-dependent
+putative ATP-dependent helicase
+DUF218 superfamily protein, SAM-binding
+aldehyde dehydrogenase A, NAD-linked
+cytochrome b561
+putative periplasmic protein
+toxic polypeptide, small
+regulatory peptide
+methyl-accepting chemotaxis protein III, ribose and galactose sensor receptor
+putative DNA-binding transcriptional regulator
+putative metalloenzyme
+OPG biosynthetic periplasmic protein
+DUF465 family protein
+ribosomal-protein-L7/L12-serine acetyltransferase
+uncharacterized protein b1428
+potassium-tellurite ethidium and proflavin transporter
+tellurite, selenium methyltransferase, SAM-dependent; tellurite, selenium resistance protein
+lipoprotein
+IS609 transposase B
+BenE family inner membrane putative transporter
+putative DNA-binding transcriptional regulator
+putative peptidase
+uncharacterized protein b1436
+mRNA interferase toxin of the HicAB toxin-antitoxin system
+antitoxin for the HicAB toxin-antitoxin system
+putative DNA-binding transcriptional regulator and putative aminotransferase
+putative ABC transporter periplasmic binding protein
+putative ABC transporter ATPase
+putative ABC transporter permease
+putative ABC transporter permease
+gamma-aminobutyraldehyde dehydrogenase
+stress-induced small inner membrane enterobacterial protein
+DUF2566 family protein
+DUF2526 family protein
+DUF606 family inner membrane protein
+methionine N-acyltransferase; L-amino acid N-acyltransferase
+curcumin/dihydrocurcumin reductase, NADPH-dependent
+colanic acid and biofilm gene transcriptional regulator, MqsR-controlled
+putative iron outer membrane transporter
+ATP-binding protein, periplasmic, function unknown
+L-asparagine transporter
+glutathione S-transferase homolog
+IPR020099 family protein
+putative immunity protein for RhsE
+H repeat-associated putative transposase
+4-oxalocrotonate tautomerase
+flavin reductase like-protein
+N-hydroxyarylamine O-acetyltransferase
+PhzC-PhzF family protein
+nitrate reductase 2 (NRZ), gamma subunit
+nitrate reductase 2 (NRZ), delta subunit (assembly subunit)
+nitrate reductase 2 (NRZ), beta subunit
+nitrate reductase 2 (NRZ), alpha subunit
+nitrate/nitrite transporter
+aromatic amino acid exporter
+formate dehydrogenase-N, alpha subunit, nitrate-inducible
+formate dehydrogenase-N, Fe-S (beta) subunit, nitrate-inducible
+formate dehydrogenase-N, cytochrome B556 (gamma) subunit, nitrate-inducible
+putative DNA-binding transcriptional regulator
+ethanol-active dehydrogenase/acetaldehyde-active reductase
+malate dehydrogenase, decarboxylating, NAD-requiring; malic enzyme
+stationary-phase-induced ribosome-associated protein
+biofilm-dependent modulation protein
+lipoyl-dependent Cys-based peroxidase, hydroperoxide resistance; salt-shock inducible membrane protein; peroxiredoxin
+D,D-dipeptide ABC transporter ATPase
+D,D-dipeptide ABC transporter ATPase
+D,D-dipeptide ABC transporter permease
+D,D-dipeptide ABC transporter permease
+D,D-dipeptide ABC transporter periplasmic binding protein
+D-ala-D-ala dipeptidase, Zn-dependent
+oxygen sensor, c-di-GMP phosphodiesterase, heme-regulated; cold- and stationary phase-induced bioflim regulator
+diguanylate cyclase, cold- and stationary phase-induced oxygen-dependent biofilm regulator
+liprotein, glycosyl hydrolase homolog
+glutamate:gamma-aminobutyric acid antiporter
+glutamate decarboxylase B, PLP-dependent
+putative periplasmic M16 family zinc metalloendopeptidase
+putative TonB-dependent outer membrane receptor
+putative multidrug ABC transporter permease/ATPase
+putative YdeN-specific sulfatase-maturating enzyme
+putative Ser-type periplasmic non-aryl sulfatase
+UV-inducible global regulator, EvgA-, GadE-dependent
+two-component system connector membrane protein, EvgSA to PhoQP
+putative oxidoreductase
+putative fimbrial-like adhesin protein
+putative fimbrial-like adhesin protein
+putative fimbrial-like adhesin protein
+inactivating GltX kinase facilitating persister formation; toxin of HipAB TA pair; autokinase
+antitoxin of HipAB toxin-antitoxin system
+autoinducer-2 (AI-2) kinase
+lsr operon transcriptional repressor
+autoinducer 2 import ATP-binding protein
+autoinducer 2 import system permease protein
+autoinducer 2 import system permease protein
+autoinducer 2-binding protein
+putative autoinducer-2 (AI-2) aldolase
+autoinducer-2 (AI-2) degrading protein LsrG
+trans-aconitate methyltransferase
+bestrophin family putative inner membrane protein
+altronate oxidoreductase, NAD-dependent
+putative membrane-bound diguanylate cyclase
+DUF4186 family protein
+glutaminase 2
+succinate semialdehyde dehydrogenase, NAD(P)+-dependent
+putative DNA-binding transcriptional regulator
+uncharacterized protein b1527
+arabinose efflux transporter, arabinose-inducible
+UPF0056 family inner membrane protein
+transcriptional repressor of multiple antibiotic resistance
+multiple antibiotic resistance transcriptional regulator
+periplasmic mar operon regulator
+cysteine and O-acetyl-L-serine efflux system
+putative transporter
+inner membrane-associated protein
+diguanylate cyclase, zinc-sensing
+hydrogen peroxide resistance OB fold protein; putative periplasmic protein
+inactive PncC family protein
+dipeptidyl carboxypeptidase II
+NADP-dependent 3-hydroxy acid dehydrogenase; malonic semialdehyde reductase
+transcriptional repressor for rspAB
+selenoprotein, function unknown
+putative NAD-dependent D-mannonate oxidoreductase
+cold shock protein, function unknown, Qin prophage
+Qin prophage; putative site-specific recombinase
+Qin prophage; putative tail fibre assembly protein
+Qin prophage; putative side tail fibre assembly protein
+uncharacterized protein, Qin prophage
+Qin prophage; uncharacterized protein
+Qin prophage; multicopy suppressor of secG(Cs) and fabA6(Ts)
+Qin prophage; cold shock-induced protein
+Qin prophage; cold shock protein
+Rz-like protein, Qin prophage
+putative Rz1-like lipoprotein, Qin prophage
+Qin prophage; putative lysozyme
+Qin prophage; uncharacterized protein
+Qin prophage; putative S lysis protein
+Qin prophage; cold shock protein
+Qin prophage; cold shock protein
+Qin prophage; putative antitermination protein Q
+Qin prophage; uncharacterized protein
+Qin prophage; uncharacterized protein
+Qin prophage; small toxic polypeptide
+Qin prophage; toxin of the RelE-RelB toxin-antitoxin system
+antitoxin of the RelE-RelB toxin-antitoxin syste; transcriptional repressor
+Qin prophage; uncharacterized protein
+Qin prophage; uncharacterized protein
+Qin prophage; DNA-binding transcriptional regulator for DicB
+Qin prophage; putative regulator for DicB
+Qin prophage; uncharacterized protein
+Qin prophage; uncharacterized protein
+uncharacterized protein, Qin prophage
+Qin prophage; cell division inhibition protein
+Qin prophage; uncharacterized protein
+putative Zn-dependent NAD(P)-binding oxidoreductase
+bifunctional D-altronate/D-mannonate dehydratase
+UPF0060 family inner membrane protein
+UPF0482 family putative periplasmic protein
+spermidine N(1)-acetyltransferase
+UPF0257 family lipoprotein
+DUF1161 family periplasmic protein
+putative selenate reductase, periplasmic
+S- and N-oxide reductase, A subunit, periplasmic
+oxidoreductase, Fe-S subunit
+oxidoreductase, membrane subunit
+twin-argninine leader-binding protein for DmsA and TorA
+H(+)/Cl(-) exchange transporter
+putative dethiobiotin synthetase
+glucosamine anaerobic growth regulon transcriptional repressor; autorepressor
+LysR family putative transcriptional regulator
+putative arabinose efflux transporter
+acid shock-inducible periplasmic protein
+stationary phase-induced protein
+putative peptidase
+multidrug efflux system transporter
+multidrug efflux system transporter
+pheromone AI-2 transporter
+pyridine nucleotide transhydrogenase, beta subunit
+pyridine nucleotide transhydrogenase, alpha subunit
+DUF1471 family periplasmic protein
+putative arginine/ornithine antiporter transporter
+dihydromonapterin reductase, NADPH-dependent; dihydrofolate reductase isozyme
+GlpM family inner membrane protein
+response regulator of RstAB two-component system
+sensory histidine kinase of RstAB two-component system
+inhibitor of replication at Ter, DNA-binding protein
+fumarate hydratase (fumarase C),aerobic Class II
+fumarate hydratase (fumarase A), aerobic Class I
+mannose-6-phosphate isomerase
+DUF945 family protein
+putative outer membrane porin for beta-glucuronides porin protein
+glucuronide transporter
+beta-D-glucuronidase
+transcriptional repressor
+7-alpha-hydroxysteroid dehydrogenase, NAD-dependent
+transcriptional repressor of Mal regulon
+maltose and glucose-specific PTS enzyme IIB component and IIC component
+PLP-dependent beta-cystathionase and maltose regulon regulator
+adenosine deaminase
+putative oxidoreductase
+beta-lactam resistance membrane protein; divisome-associated protein
+nucleoid-associated oriC-binding protein; H-NS and StpA stabilizing factor
+DUF2569 family inner membrane protein
+SoxR iron-sulfur cluster reduction factor component; inner membrane protein of electron transport complex
+SoxR iron-sulfur cluster reduction factor component; putative iron-sulfur protein
+SoxR iron-sulfur cluster reduction factor component; putative membrane-associated NADH oxidoreductase of electron transport complex
+SoxR iron-sulfur cluster reduction factor component; putative membrane protein of electron transport complex
+SoxR iron-sulfur cluster reduction factor component; putative membrane protein of electron transport complex
+SoxR iron-sulfur cluster reduction factor component; electron transport inner membrane NADH-quinone reductase
+DNA glycosylase and apyrimidinic (AP) lyase (endonuclease III)
+dipeptide and tripeptide permease A
+glutathionine S-transferase
+pyridoxamine kinase
+tyrosyl-tRNA synthetase
+pyridoxine 5\'-phosphate oxidase
+inhibitor of c-type lysozyme, membrane-bound; putative lipoprotein
+anhydro-N-acetylmuramic acid kinase
+outer membrane lipoprotein
+global transcriptional regulator
+DUF1656 family putative inner membrane efflux pump associated protein
+putative membrane fusion protein (MFP) of YdhJK efflux pump
+putative efflux protein (PET) component of YdhJK efflux pump
+superoxide dismutase, Cu, Zn, periplasmic
+putative oxidoreductase
+DUF1289 family protein
+transcriptional repressor for the nemRA-gloA operon, quinone-, glyoxal-, and HOCl-activated
+chromate reductase, quinone reductase, FMN-linked; N-Ethylmaleimide reductase; old yellow enzyme
+glyoxalase I, Ni-dependent
+RNase T; exoribonuclease T; structured DNA 3\' exonuclease; RNA processing; DNA repair
+putative ATP-dependent helicase
+glutaredoxin-4
+murein DD-endopeptidase, space-maker hydrolase
+superoxide dismutase, Fe
+putative MFS transporter, inner membrane protein
+stress response membrane
+transcriptional repressor, hypoxanthine-binding
+LysR family putative transcriptional regulator
+putative arabinose efflux transporter
+cyclopropane fatty acyl phospholipid synthase, SAM-dependent
+riboflavin synthase, alpha subunit
+multidrug efflux system transporter
+autotransporter adhesin-related protein
+putative monooxygenase
+putative oxidoreductase
+FNR, Nar, NarP-regulated protein; putative subunit of YdhYVWXUT oxidoreductase complex
+putative cytochrome b subunit of YdhYVWXUT oxidoreductase complex
+putative 4Fe-4S ferridoxin-type protein; FNR, Nar, NarP-regulated protein; putative subunit of YdhYVWXUT oxidoreductase complex
+FNR, Nar, NarP-regulated protein; putative subunit of YdhYVWXUT oxidoreductase complex
+putative oxidoreductase subunit
+putative 4Fe-4S ferridoxin-type protein; FNR, Nar, NarP-regulated protein; putative subunit of YdhYVWXUT oxidoreductase complex
+uncharacterized protein b1675
+pyruvate kinase I
+murein lipoprotein
+murein L,D-transpeptidase
+sulfur acceptor protein
+cysteine desulfurase, stimulated by SufE; selenocysteine lyase, PLP-dependent
+component of SufBCD Fe-S cluster assembly scaffold
+SufBCD Fe-S cluster assembly scaffold protein, ATP-binding protein
+component of SufBCD Fe-S cluster assembly scaffold
+Fe-S cluster assembly protein
+uncharacterized protein b1685
+1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+putative FAD-linked oxidoreductase
+UPF0118 family inner membrane protein
+putative HTH domain DNA-binding protein
+putative MFS transporter, membrane protein
+putative MFS transporter, membrane protein
+quinate/shikimate 5-dehydrogenase, NAD(P)-binding
+3-dehydroquinate dehydratase
+putative acetyl-CoA:acetoacetyl-CoA transferase: alpha subunit/beta subunit
+putative acyl-CoA dehydrogenase
+putative DNA-binding transcriptional regulator
+putative electron transfer flavoprotein subunit
+putative electron transfer flavoprotein, FAD-binding subunit
+putative oxidoreductase
+putative 3Fe-4S ferredoxin-type protein
+short chain acyl-CoA synthetase, anaerobic
+phosphoenolpyruvate synthase
+PEP synthase kinase and PEP synthase pyrophosphorylase
+3-deoxy-D-arabino-heptulosonate-7-phosphate synthase, tryptophan repressible
+hemin uptake protein HemP homolog
+UPF0061 family protein
+anti-FlhD4C2 factor, inactive EAL family phosphodiesterase
+putative C40 clan peptidase lipoprotein
+vitamin B12 ABC transporter ATPase
+glutathione peroxidase
+vitamin B12 ABC transporter permease
+integration host factor (IHF), DNA-binding protein, alpha subunit
+phenylalanine tRNA synthetase, beta subunit
+phenylalanine tRNA synthetase, alpha subunit
+phenylalanyl-tRNA synthetase operon leader peptide
+50S ribosomal subunit protein L20
+50S ribosomal subunit protein L35
+translation initiation factor IF-3
+threonyl-tRNA synthetase
+uncharacterized protein b4535
+acid-inducible putative outer membrane protein
+6-phosphofructokinase II
+uncharacterized protein b1724
+fructosamine kinase family protein
+putative inner membrane protein
+2-deoxyglucose-6-P phosphatase
+inner membrane protein regulated by LexA
+putative transporter
+uncharacterized protein b1730
+cell division modulator
+catalase HPII, heme d-containing
+chito-oligosaccharide deacetylase
+phospho-chitobiase; general 6-phospho-beta-glucosidase activity
+repressor of chb operon for N,N\'-diacetylchitobiose utilization
+N,N\'-diacetylchitobiose-specific enzyme IIA component of PTS
+N,N\'-diacetylchitobiose-specific enzyme IIC component of PTS
+N,N\'-diacetylchitobiose-specific enzyme IIB component of PTS
+osmotically-inducible lipoprotein
+NAD synthetase, NH3/glutamine-dependent
+endonuclease of nucleotide excision repair
+cold- and stress-inducible protein
+periplasmic ATP-independent protein refolding chaperone, stress-induced
+succinylglutamate desuccinylase
+succinylarginine dihydrolase
+succinylglutamic semialdehyde dehydrogenase
+arginine succinyltransferase
+succinylornithine transaminase, PLP-dependent
+exonuclease III
+TVP38/TMEM64 family inner membrane protein
+putative ferrodoxin-like lipoprotein
+TVP38/TMEM64 family inner membrane protein
+carboxymuconolactone decarboxylase family protein
+putative ABC transporter periplasmic binding protein
+putative ABC transporter permease
+putative ABC transporter ATPase
+molybdopterin synthase sulfurtransferase
+CDP-alcohol phosphatidyltransferase family inner membrane protein
+CTP pyrophosphohydrolase; also hydrolyzes 2-hydroxy-dATP, 8-hydroxy-dGTP, 5-hydroxy-CTP, dCTP and 5-methyl-dCTP
+DUF1496 family protein
+glutamate dehydrogenase, NADP-specific
+inner membrane protein
+DNA topoisomerase III
+selenophosphate synthase
+putative oxidoreductase
+protease IV (signal peptide peptidase)
+cytoplasmic L-asparaginase 1
+nicotinamidase/pyrazinamidase
+putative MFS sugar transporter, membrane protein
+putative DNA-binding transcriptional regulator
+methylglyoxal reductase, NADH-dependent
+putative kinase
+putative aldolase
+putative Zn-dependent NAD(P)-binding oxidoreductase
+putative MFS sugar transporter, membrane protein
+putative Zn-dependent NAD(P)-binding oxidoreductase
+DUF1315 family protein
+methionine sulfoxide reductase B
+glyceraldehyde-3-phosphate dehydrogenase A
+D-hexose-6-phosphate epimerase-like protein
+aldo-keto reductase, methylglyoxal to acetol, NADPH-dependent
+scaffolding protein for murein synthesizing machinery
+protein kinase, endogenous substrate unidentified; autokinase
+UPF0229 family protein
+putative membrane-anchored diguanylate cyclase
+putative diguanylate cyclase
+aminoacyl-tRNA editing domain protein
+uncharacterized protein b1788
+UPF0756 family putative inner membrane protein
+putative DNA-binding transcriptional regulator
+putative MFS transporter, inner membrane protein
+DUF488 family protein
+DUF333 family outer membrane lipoprotein
+diguanylate cyclase
+inner membrane-associated protein
+inner membrane-associated protein
+UPF0410 family protein
+uncharacterized protein b1796
+DUF1971 family protein, nitrate-inducible
+leucine efflux protein
+transcriptional activator of dmlA
+D-malate oxidase, NAD-dependent; putative tartrate dehydrogenase
+putative transporter
+putative YeaWX dioxygenase alpha subunit; 2Fe-2S cluster
+putative YeaWX dioxygenase beta subunit, reductase component
+ribonuclease D
+acyl-CoA synthetase (long-chain-fatty-acid--CoA ligase)
+Slp family lipoprotein, RpoE-regulated
+tRNA(ANN) t(6)A37 threonylcarbamoyladenosine modification protein; binding partner and protease for TsaD
+putative ATP-dependent helicase, DinG family
+putative reactive intermediate deaminase
+DUF1889 family protein
+UPF0181 family protein
+aminodeoxychorismate synthase, subunit I
+putative CoA pyrophosphohydrolase, weak 3-phosphohydroxypyruvate phosphatase
+L-serine dehydratase 1
+putative membrane-anchored cyclic-di-GMP phosphodiesterase, regulator of cellulose production
+putative membrane protein/conserved protein
+fused mannose-specific PTS enzymes: IIA component/IIB component
+mannose-specific enzyme IIC component of PTS
+mannose-specific enzyme IID component of PTS
+UPF0266 family inner membrane protein
+putative Mn(2+) efflux pump, mntR-regulated
+23S rRNA m(1)G745 methyltransferase, SAM-dependent
+stress protein, member of the CspA-family
+DUF2527 family heat-induced protein
+putative inner membrane protein
+regulatory peptide for PhoPQ, feedback inhibition
+uncharacterized protein b4536
+KDG regulon transcriptional repressor
+putative transporter
+putative endopeptidase
+carboxy-terminal protease for penicillin-binding protein 3
+RNA chaperone, putative ProP translation regulator
+free methionine-(R)-sulfoxide reductase
+inner membrane PqiA domain protein
+MCE domain protein
+16S rRNA m(5)C1407 methyltransferase, SAM-dependent
+uncharacterized protein b1836
+uncharacterized protein b1837
+serine/threonine-specific protein phosphatase 1
+DUF2511 family protein
+inner membrane protein
+CopC family protein
+DNA polymerase III, theta subunit
+C-N hydrolase family protein
+exodeoxyribonuclease 10; DNA exonuclease X
+protease II
+DUF533 family inner membrane protein
+extracellular Colicin M immunity family protein
+DNA damage-inducible protein regulated by LexA
+phosphoribosylglycinamide formyltransferase 2
+KHG/KDPG aldolase; 2-dehydro-3-deoxy-phosphogluconate/4-hydroxy-2-oxoglutarate aldolase
+6-phosphogluconate dehydratase
+glucose-6-phosphate 1-dehydrogenase
+putative DNA-binding transcriptional regulator
+pyruvate kinase II
+myristoyl-acyl carrier protein (ACP)-dependent acyltransferase
+murein DD-endopeptidase, space-maker hydrolase, septation protein
+zinc ABC transporter periplasmic binding protein
+zinc ABC transporter ATPase
+zinc ABC transporter permease
+ATP-dependent DNA helicase, component of RuvABC resolvasome
+component of RuvABC resolvasome, regulatory subunit
+uncharacterized protein b4677
+DUF830 family protein
+component of RuvABC resolvasome, endonuclease
+UPF0082 family protein
+dihydroneopterin triphosphate pyrophosphatase
+aspartyl-tRNA synthetase
+isochorismatase family protein
+UPF0759 family protein
+MAPEG family inner membrane protein
+carboxy-SAM synthase
+tRNA (cmo5U34)-carboxymethyltransferase, carboxy-SAM-dependent
+trimethylamine N-oxide reductase system III, catalytic subunit
+TMAO reductase III (TorYZ), cytochrome c-type subunit
+copper homeostasis protein
+putative metal-binding enzyme
+arginyl-tRNA synthetase
+uncharacterized protein b1877
+proton seal during flagellar secretion
+putative flagellar export pore protein
+flagellin export apparatus, substrate specificity protein
+chemotaxis regulator, protein phosphatase for CheY
+chemotaxis regulator transmitting signal to flagellar motor component
+fused chemotaxis regulator: protein-glutamate methylesterase in two-component regulatory system with CheA
+chemotaxis regulator, protein-glutamate methyltransferase
+methyl-accepting protein IV
+methyl-accepting chemotaxis protein II
+purine-binding chemotaxis protein
+fused chemotactic sensory histidine kinase in two-component regulatory system with CheB and CheY: sensory histidine kinase/signal sensing protein
+protein that enables flagellar motor rotation
+proton conductor component of flagella motor
+flagellar class II regulon transcriptional activator, with FlhD
+flagellar class II regulon transcriptional activator, with FlhC
+IS1 transposase B
+IS1 repressor TnpA
+universal stress protein
+trehalose-6-phosphate synthase
+trehalose-6-phosphate phosphatase, biosynthetic
+L-arabinose ABC transporter permease
+L-arabinose ABC transporter ATPase
+L-arabinose ABC transporter periplasmic binding protein
+ferritin B, putative ferrous iron reservoir
+DUF2766 family protein
+acid-inducible small membrane-associated protein
+lipoprotein, function unknown
+ferritin iron storage protein (cytoplasmic)
+DUF2492 family protein
+tyrosine transporter
+UPF0149 family protein
+phosphatidylglycerophosphate synthetase
+excinuclease UvrABC, endonuclease subunit
+response regulator in two-component regulatory system with BarA
+DUF2594 family protein
+quorum-sensing transcriptional activator
+putative ABC transporter ATPase
+ABC family putative inner membrane permease
+D-cysteine desulfhydrase, PLP-dependent
+cystine transporter subunit
+RpoS antagonist; putative regulator of FliA activity
+RNA polymerase, sigma 28 (sigma F) factor
+flagellar filament structural protein (flagellin)
+flagellar filament capping protein
+flagellar protein potentiates polymerization
+putative flagellar synthesis and assembly chaperone
+cytoplasmic alpha-amylase
+lipoprotein
+UPF0394 family sulphur transport domain-containing inner membrane protein
+putative TusA family sulfurtransferase
+DUF159 family protein
+GNAT family putative N-acetyltransferase
+flagellar basal-body component
+flagellar basal-body MS-ring and collar protein
+flagellar motor switching and energizing component
+negative regulator of FliI ATPase activity
+flagellum-specific ATP synthase
+flagellar protein
+flagellar hook-length control protein
+flagellar biosynthesis protein
+flagellar motor switching and energizing component
+flagellar motor switching and energizing component
+flagellar biosynthesis protein
+flagellar biosynthesis protein
+flagellar biosynthesis protein
+flagellar export pore protein
+transcriptional regulator of colanic acid capsular biosynthesis
+uncharacterized protein b1952
+uncharacterized protein b1953
+putative mannosyl-3-phosphoglycerate phosphatase
+putative membrane-anchored diguanylate cyclase
+uncharacterized protein b1957
+DUF808 family inner membrane protein
+amino acid exporter for phenylalanine, threonine
+DNA mismatch endonuclease of very short patch repair
+DNA cytosine methyltransferase
+putative HD superfamily phosphohydrolase
+inner membrane protein
+glyoxalase III and Hsp31 molecular chaperone
+putative sensory kinase in two-component regulatory system with YedW
+response regulator family protein
+hydroxyisourate hydrolase
+membrane-anchored, periplasmic TMAO, DMSO reductase
+inner membrane heme subunit for periplasmic YedYZ reductase
+zinc and cadmium binding protein, periplasmic
+cytochrome b561 homolog
+anti-repressor for DgsA(Mlc)
+putative adhesin
+shikimate transporter
+AMP nucleosidase
+UPF0082 family protein
+putative multdrug exporter, MATE family
+ssuEADCB/tauABCD operon transcriptional activator
+nitrogen assimilation regulon transcriptional regulator; autorepressor
+L,D-transpeptidase linking Lpp to murein
+nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+cobalamin synthase
+cobinamide kinase and cobinamide phosphate guanylyltransferase
+IS5 transposase and trans-activator
+IS2 transposase TnpB
+IS2 repressor TnpA
+CP4-44 prophage; antigen 43 (Ag43) phase-variable biofilm formation autotransporter
+CP4-44 prophage; putative membrane protein
+CP4-44 prophage; putative DNA repair protein
+CP4-44 prophage; uncharacterized protein
+CP4-44 prophage; cytoskeleton bundling-enhancing factor A; CbtA antitoxin
+CP4-44 prophage; toxin of the YeeV-YeeU toxin-antitoxin system
+UPF0265 family protein
+putative transporter, FUSC family inner membrane protein
+DNA gyrase inhibitor
+D-alanyl-D-alanine carboxypeptidase; penicillin-binding protein 6b
+exodeoxyribonuclease I; exonuclease I
+putative TusA family sulfurtransferase
+UPF0394 family inner membrane protein
+putrescine importer, low affinity
+uncharacterized protein b4678
+LysR family putative transcriptional regulator
+putative epimerase
+toxin of the YoeB-YefM toxin-antitoxin system
+antitoxin of the YoeB-YefM toxin-antitoxin system
+his operon leader peptide
+ATP phosphoribosyltransferase
+bifunctional histidinal dehydrogenase/ histidinol dehydrogenase
+histidinol-phosphate aminotransferase
+histidinol-phosphatase and imidazoleglycerol-phosphate dehydratase
+imidazole glycerol phosphate synthase, glutamine amidotransferase subunit
+N-(5\'-phospho-L-ribosyl-formimino)-5-amino-1-(5\'-phosphoribosyl)-4-imidazolecarboxamide isomerase
+imidazole glycerol phosphate synthase, catalytic subunit with HisH
+phosphoribosyl-AMP cyclohydrolase and phosphoribosyl-ATP pyrophosphatase
+regulator of length of O-antigen component of lipopolysaccharide chains
+UDP-glucose 6-dehydrogenase
+6-phosphogluconate dehydrogenase, decarboxylating
+IS5 transposase and trans-activator
+lipopolysaccharide biosynthesis protein
+putative lipopolysaccharide biosynthesis O-acetyl transferase
+d-Galf:alpha-d-Glc beta-1,6-galactofuranosyltransferase
+O-antigen polymerase
+UDP-galactopyranose mutase, FAD/NAD(P)-binding
+putative polisoprenol-linked O-antigen transporter
+dTDP-4-deoxyrhamnose-3,5-epimerase
+glucose-1-phosphate thymidylyltransferase
+dTDP-L-rhamnose synthase, NAD(P)-dependent dTDP-4-dehydrorhamnose reductase subunit
+dTDP-glucose 4,6 dehydratase, NAD(P)-binding
+putative regulatory subunit for GalU
+colanic acid biosynthesis protein
+putative glycosyl transferase
+colanic acid biosynthesis protein
+putative colanic acid exporter
+colanic biosynthesis UDP-glucose lipid carrier transferase
+phosphomannomutase
+mannose-1-phosphate guanyltransferase
+putative glycosyl transferase
+GDP-mannose mannosyl hydrolase
+bifunctional GDP-fucose synthetase: GDP-4-dehydro-6-deoxy-D-mannose epimerase/ GDP-4-dehydro-6-L-deoxygalactose reductase
+GDP-D-mannose dehydratase, NAD(P)-binding
+putative acyl transferase
+putative glycosyl transferase
+putative colanic acid polymerase
+putative glycosyl transferase
+putative acyl transferase
+putative glycosyl transferase
+colanic acid production tyrosine-protein kinase; autokinase; Ugd phosphorylase
+colanic acid production protein-tyrosine-phosphatase; Wzc-P dephosphorylase
+colanic acid export protein; outer membrane auxillary lipoprotein
+inner membrane protein
+suppressor of OmpF assembly mutants; putative outer membrane protein assembly factor; inner membrane-anchored periplasmic protein
+deoxycytidine triphosphate deaminase; dCTP deaminase
+uridine/cytidine kinase
+putative diguanylate cyclase
+3-methyl-adenine DNA glycosylase II
+Hsp70 chaperone family protein
+protein kinase-related putative non-specific DNA-binding protein
+uncharacterized protein b2071
+ser/thr phosphatase-related protein
+VMA domain protein
+toxic membrane protein
+toxic membrane protein
+multidrug efflux system, subunit A
+multidrug efflux system, subunit B
+multidrug efflux system, subunit C
+putative citrate/iron-citrate/zinc-citrate efflux transporter
+sensory histidine kinase in two-component regulatory system with BaeR
+response regulator in two-component regulatory system with BaeS
+UPF0339 family protein
+putative peptidase
+orphan Ogr protein, positive regulator of P2 growth
+uncharacterized protein b2085
+phosphatidylglycerol kinase, metal-dependent
+IS3 transposase A
+IS3 transposase B
+galactitol-1-phosphate dehydrogenase, Zn-dependent and NAD(P)-binding
+galactitol-specific enzyme IIB component of PTS
+galactitol-specific enzyme IIA component of PTS
+D-tagatose 1,6-bisphosphate aldolase 2, subunit
+D-tagatose 1,6-bisphosphate aldolase 2, catalytic subunit
+fructose-bisphosphate aldolase class I
+nucleoside transporter, low affinity
+ADP-ribosylglycohydrolase family protein
+putative kinase
+putative DNA-binding transcriptional regulator
+putative family 25 glycosyl hydrolase
+hydroxy-methylpyrimidine kinase and hydroxy-phosphomethylpyrimidine kinase
+hydoxyethylthiazole kinase
+transcriptional repressor of rcnA
+membrane protein conferring nickel and cobalt resistance
+periplasmic modulator of Ni and Co efflux
+putative fimbrial-like adhesin protein
+putative outer membrane protein
+putative periplasmic pilin chaperone
+putative fimbrial-like adhesin protein
+DUF2574 family protein
+antiporter inner membrane protein
+methionyl-tRNA synthetase
+DUF4132 domain-containing protein
+uncharacterized protein b4541
+putative hexameric AAA+ MoxR family ATPase
+uncharacterized protein b2120
+VMA domain putative YehL ATPase stimulator
+lipoprotein, DUF1307 family
+DUF1456 family protein
+putative response regulator in two-component system withYehU
+inner membrane putative sensory kinase in two-component system with YehT
+transcriptional activator of csgD and csgBA
+putative membrane protein
+putative ABC transporter permease
+putative ABC transporter ATPase
+putative ABC transporter permease
+putative ABC transporter periplasmic binding protein
+beta-D-glucoside glucohydrolase, periplasmic
+D-lactate dehydrogenase, FAD-binding, NADH independent
+D-alanyl-D-alanine endopeptidase
+Yip1 family inner membrane protein
+DedA family inner membrane protein
+putative oxidoreductase
+uncharacterized protein b4679
+tRNA-dihydrouridine synthase C
+UPF0299 family inner membrane protein
+LrgB family inner membrane protein
+cytidine/deoxycytidine deaminase
+DUF218 superfamily vancomycin high temperature exclusion protein
+DUF2542 family protein
+dihydropyrimidine dehydrogenase, NADH-dependent, subunit N
+dihydropyrimidine dehydrogenase, NADH-dependent, subunit C
+methyl-galactoside transporter subunit
+methyl-galactoside ABC transporter ATPase
+methyl-galactoside transporter subunit
+galactose- and fucose-inducible galactose regulon transcriptional isorepressor; mgl operon transcriptional repressor; autorepressor
+DUF418 family putative inner membrane protein
+GTP cyclohydrolase I
+S-formylglutathione hydrolase
+colicin IA outer membrane receptor and translocator; ferric iron-catecholate transporter
+lysine transporter
+putative DNA-binding transcriptional regulator
+UPF0324 family inner membrane protein
+endonuclease IV with intrinsic 3\'-5\' exonuclease activity
+putative kinase
+nucleoside permease
+ribonucleoside hydrolase 2
+putative transcriptional regulator
+putative nucleoside transporter
+pseudouridine 5\'-phosphate glycosidase
+pseudouridine kinase
+fused fructose-specific PTS enzymes: IIBcomponent/IIC components
+fructose-1-phosphate kinase
+fused fructose-specific PTS enzymes: IIA component/HPr component
+lactose/glucose efflux system
+UPF0153 cysteine cluster protein
+elongation factor P-like protein
+putative NAD-dependent D-mannonate oxidoreductase
+Zn-stimulated GTPase involved in zinc homeostasis; mutants are cadmium and EDTA sensitive; Zn(2+) binding protein
+lipid A 1-diphosphate synthase; undecaprenyl pyrophosphate:lipid A 1-phosphate phosphotransferase
+murein DD-endopeptidase, space-maker hydrolase, mutational suppressor of prc thermosensitivity, outer membrane lipoprotein, weak murein LD-carboxypeptidase
+resistance protein for phages lambda and N4, putative membrane-anchored cyclic-di-GMP phosphodiesterase
+microcin C ABC transporter periplasmic binding protein
+microcin C ABC transporter permease
+microcin C ABC transporter permease
+microcin C ABC transporter ATPase
+uncharacterized protein b2181
+bicyclomycin/cysteine/sulfonamide efflux transporter
+16S rRNA pseudouridine(516) synthase
+putative ATP-dependent DNA or RNA helicase
+50S ribosomal subunit protein L25
+spermidine nucleoid-associated protein
+UPF0352 family protein
+essential inner membrane DUF3413 domain-containing protein; lipid A production and membrane permeability factor
+IS5 transposase and trans-activator
+response regulator in two-component regulatory system with NarQ
+heme lyase, CcmH subunit
+periplasmic thioredoxin of cytochrome c-type biogenesis
+heme lyase, CcmF subunit
+periplasmic heme chaperone
+cytochrome c biogenesis protein; heme export ABC transporter holo-CcmE release factor
+heme export ABC transporter permease; CcmE-interacting protein
+heme export ABC transporter permease
+heme export ABC transporter ATPase
+quinol dehydrogenase, electron source for NapAB
+nitrate reductase, small, cytochrome C550 subunit, periplasmic
+ferredoxin-type protein
+ferredoxin-type protein
+nitrate reductase, periplasmic, large subunit
+assembly protein for periplasmic nitrate reductase
+ferredoxin-type protein, role in electron transfer to periplasmic nitrate reductase NapA
+ecotin, a serine protease inhibitor
+malate dehydrogenase, FAD/NAD(P)-binding domain
+microcin J25 efflux ABC transporter permease/ATPase
+oxidative demethylase of N1-methyladenine or N3-methylcytosine DNA lesions
+fused DNA-binding transcriptional dual regulator/O6-methylguanine-DNA methyltransferase
+putative thiamine-synthetic flavin transferase lipoprotein
+outer membrane porin protein C
+phosphotransfer intermediate protein in two-component regulatory system with RcsBC
+response regulator in two-component regulatory system with RcsC and YojN
+hybrid sensory kinase in two-component regulatory system with RcsB and YojN
+sensory histidine kinase in two-component regulatory system with AtoC
+fused response regulator of ato operon, in two-component system with AtoS: response regulator/sigma54 interaction protein
+acetyl-CoA:acetoacetyl-CoA transferase, alpha subunit
+acetyl-CoA:acetoacetyl-CoA transferase, beta subunit
+short chain fatty acid transporter
+acetyl-CoA acetyltransferase
+DUF2135 family protein, putative host defense protein
+tandem DUF2300 domain protein, putative host defense protein
+DUF1175 family protein, putative host defense protein
+DUF2138 family protein, putative host defense protein
+DNA gyrase (type II topoisomerase), subunit A
+bifunctional 3-demethylubiquinone-9 3-methyltransferase/ 2-octaprenyl-6-hydroxy phenol methylase
+adhesin
+ribonucleoside-diphosphate reductase 1, alpha subunit
+ribonucleoside-diphosphate reductase 1, beta subunit, ferritin-like protein
+ferredoxin involved with ribonucleotide reductase diferric-tyrosyl radical (Y*) cofactor maintenance
+acid-inducible Kdo/WaaP family putative kinase
+periplasmic glycerophosphodiester phosphodiesterase
+sn-glycerol-3-phosphate transporter
+anaerobic sn-glycerol-3-phosphate dehydrogenase, large FAD/NAD(P)-binding subunit
+anaerobic sn-glycerol-3-phosphate dehydrogenase membrane anchor subunit
+anaerobic sn-glycerol-3-phosphate dehydrogenase, C subunit, 4Fe-4S iron-sulfur cluster
+transposase_31 family protein
+2-keto-3-deoxy-L-rhamnonate aldolase
+putative L-rhamnonate transporter
+L-rhamnonate dehydratase
+putative DNA-binding transcriptional regulator for the rhm operon
+inactive PncC family protein
+outer membrane protein, putative porin
+nucleoside triphosphatase
+putative LPS core heptose(II)-phosphate phosphatase
+uridine 5\'-(beta-1-threo-pentapyranosyl-4-ulose diphosphate) aminotransferase, PLP-dependent
+undecaprenyl phosphate-L-Ara4FN transferase
+fused UDP-L-Ara4N formyltransferase/UDP-GlcA C-4\'-decarboxylase
+undecaprenyl phosphate-alpha-L-ara4FN deformylase
+4-amino-4-deoxy-L-arabinose transferase
+undecaprenyl phosphate-alpha-L-ara4N exporter; flippase ArnEF subunit
+undecaprenyl phosphate-alpha-L-ara4N exporter; flippase ArnEF subunit
+inactive two-component system connector protein
+O-succinylbenzoate-CoA ligase
+O-succinylbenzoyl-CoA synthase
+dihydroxynaphthoic acid synthetase
+2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase; SEPHCHC synthase
+isochorismate synthase 2
+putative membrane-anchored DUF883 family ribosome-binding protein
+GNAT family putative N-acetyltransferase
+RNase BN, tRNA processing enzyme
+protease, capable of cleaving an AMC-ubiquitin model substrate
+Von Willebrand factor domain putative lipoprotein
+putative M28A family peptidase
+DUF1877 family protein
+uncharacterized protein b2273
+uncharacterized protein b2274
+TPR-like repeats-containing protein
+NADH:ubiquinone oxidoreductase, membrane subunit N
+NADH:ubiquinone oxidoreductase, membrane subunit M
+NADH:ubiquinone oxidoreductase, membrane subunit L
+NADH:ubiquinone oxidoreductase, membrane subunit K
+NADH:ubiquinone oxidoreductase, membrane subunit J
+NADH:ubiquinone oxidoreductase, chain I
+NADH:ubiquinone oxidoreductase, membrane subunit H
+NADH:ubiquinone oxidoreductase, chain G
+NADH:ubiquinone oxidoreductase, chain F
+NADH:ubiquinone oxidoreductase, chain E
+NADH:ubiquinone oxidoreductase, fused CD subunit
+NADH:ubiquinone oxidoreductase, chain B
+NADH:ubiquinone oxidoreductase, membrane subunit A
+transcriptional repressor of flagellar, motility and chemotaxis genes
+glutamate-pyruvate aminotransferase; glutamic-pyruvic transaminase (GPT); alanine transaminase
+5\'-nucleotidase
+putative transporter
+sugar phosphatas
+UPF0304 family protein
+UPF0208 family inner membrane protein
+acetate kinase A and propionate kinase 2
+phosphate acetyltransferase
+putative inner membrane transporter; C4-dicarboxylate anaerobic carrier family protein
+putative NUDIX hydrolase
+phosphodiesterase activity on bis-pNPP
+glutathione S-transferase
+GSH-dependent disulfide bond oxidoreductase
+D-erythro-7,8-dihydroneopterin triphosphate 2\'-epimerase and dihydroneopterin aldolase
+putative NAD-dependent nucleotide-sugar epimerase
+transposase_31 family protein
+histidine ABC transporter ATPase
+histidine ABC transporter permease
+histidine ABC transporter permease
+histidine ABC transporter periplasmic binding protein
+lysine/arginine/ornithine transporter subunit
+3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+amidophosphoribosyltransferase
+colicin V production protein
+membrane-anchored periplasmic protein involved in septation
+bifunctional folylpolyglutamate synthase/ dihydrofolate synthase
+acetyl-CoA carboxylase, beta (carboxyltransferase) subunit
+DedA family inner membrane protein
+tRNA pseudouridine(38-40) synthase
+putative semialdehyde dehydrogenase
+erythronate-4-phosphate dehydrogenase
+putative flagella assembly protein
+putative arabinose efflux transporter
+3-oxoacyl
+fused 5-methylaminomethyl-2-thiouridine-forming enzyme methyltransferase and FAD-dependent demodification enzyme
+uncharacterized protein b2325
+Elongation Factor P Lys34 hydroxylase
+TauE/TSUP family inner membrane protein
+murein DD-endopeptidase
+chorismate synthase
+N5-glutamine methyltransferase
+putative DNA endonuclease
+DUF2544 family putative outer membrane protein
+putative fimbrial-like adhesin protein
+putative fimbrial-like adhesin protein
+putative fimbrial-like adhesin protein
+putative periplasmic pilin chaperone
+putative fimbrial-like adhesin protein
+phosphohistidine phosphatase
+enoyl-CoA hydratase/epimerase and isomerase/3-hydroxyacyl-CoA dehydrogenase
+beta-ketoacyl-CoA thiolase, anaerobic, subunit
+UPF0381 family protein
+long-chain fatty acid outer membrane transporter
+uncharacterized protein b2345
+ABC transporter maintaining OM lipid asymmetry, OM lipoprotein component
+putative inner membrane protein
+CPS-53 (KpLE1) prophage; putative prophage CPS-53 integrase
+CPS-53 (KpLE1) prophage; bactoprenol-linked glucose translocase/flippase
+CPS-53 (KpLE1) prophage; bactoprenol glucosyl transferase
+serotype-specific glucosyl transferase, CPS-53 (KpLE1) prophage
+CPS-53 (KpLE1) prophage; conserved protein
+CPS-53 (KpLE1) prophage; uncharacterized protein
+CPS-53 (KpLE1) prophage; uncharacterized protein
+CPS-53 (KpLE1) prophage; uncharacterized protein
+CPS-53 (KpLE1) prophage; conserved protein
+CPS-53 (KpLE1) prophage; uncharacterized protein
+CPS-53 (KpLE1) prophage; uncharacterized protein
+response regulator inhibitor for tor operon
+dsd operon activator; autorepressor
+D-serine transporter
+D-serine dehydratase
+putative multidrug efflux system
+multidrug resistance efflux pump membrane fusion protein
+response regulator in two-component regulatory system with EvgS
+hybrid sensory histidine kinase in two-component regulatory system with EvgA
+acetyl-CoA:oxalate CoA-transferase
+putative transporter
+oxalyl CoA decarboxylase, ThDP-dependent
+formyl-CoA transferase, NAD(P)-binding
+uncharacterized protein b2375
+putative lipoprotein involved in colanic acid biosynthesis
+DUF2545 family putative inner membrane protein
+palmitoleoyl-acyl carrier protein (ACP)-dependent acyltransferase
+inner membrane protein
+glutamate-pyruvate aminotransferase; glutamic-pyruvic transaminase (GPT); alanine transaminase
+sensor kinase regulating yhjX; pyruvate-responsive YpdAB two-component system
+response regulator activating yhjX; pyruvate-responsive YpdAB two-component system
+putative DNA-binding protein
+putative PTS enzyme: Hpr, enzyme I and IIA components
+aminopeptidase
+Xaa-Pro aminopeptidase
+putative enzyme IIC component of PTS
+putative enzyme IIB component of PTS
+glucokinase
+putative ion channel protein
+DUF2502 family putative periplasmic protein
+manganese/divalent cation transporter
+nucleoside (except guanosine) transporter
+IS186 transposase
+putative diguanylate cyclase
+DUF1323 family putative DNA-binding protein
+DUF1323 family putative DNA-binding protein
+glutamyl-tRNA synthetase
+transcriptional activator of xapAB
+xanthosine transporter
+purine nucleoside phosphorylase 2; nicotinamide 1-beta-D-riboside synthase
+putative outer membrane protein
+transcriptional regulator of yefH
+putative inorganic ion transporter
+DUF3820 family protein
+DNA ligase, NAD(+)-dependent
+FtsZ stabilizer
+sulfate transporter, sulfite inhibited
+cysteine synthase A, O-acetylserine sulfhydrolase A subunit
+phosphohistidinoprotein-hexose phosphotransferase component of PTS system (Hpr)
+PEP-protein phosphotransferase of PTS system (enzyme I)
+glucose-specific enzyme IIA component of PTS
+pyridoxal-pyridoxamine kinase/hydroxymethylpyrimidine kinase
+uncharacterized protein b2419
+WGR domain protein
+cysteine synthase B (O-acetylserine sulfhydrolase B)
+sulfate/thiosulfate transporter subunit
+sulfate/thiosulfate ABC transporter permease
+sulfate/thiosulfate ABC transporter permease
+thiosulfate-binding protein
+furfural resistance protein, putative short-chain oxidoreductase
+repressor for murPQ, MurNAc 6-P inducible
+N-acetylmuramic acid 6-phosphate (MurNAc-6-P) etherase
+N-acetylmuramic acid permease, EIIBC component, PTS system
+penicillin binding protein PBP4B; weak DD-carboxypeptidase activity
+porphyrinogen oxidase, cytoplasmic
+RpoE-regulated lipoprotein
+inner membrane protein
+GNAT family putative N-acetyltransferase
+N-acetylmuramoyl-l-alanine amidase I
+coproporphyrinogen III oxidase
+eut operon transcriptional activator, AraC family
+putative ethanol utilization carboxysome structural protein
+putative ethanol utilization carboxysome structural protein
+ethanolamine ammonia-lyase, small subunit (light chain)
+ethanolamine ammonia-lyase, large subunit, heavy chain
+CPZ-55 prophage; putative phage integrase
+CPZ-55 prophage; uncharacterized protein
+CPZ-55 prophage; uncharacterized protein
+CPZ-55 prophage; uncharacterized protein
+CPZ-55 prophage; uncharacterized protein
+CPZ-55 prophage; uncharacterized protein
+CPZ-55 prophage; uncharacterized protein
+CPZ-55 prophage; uncharacterized protein
+CPZ-55 prophage; uncharacterized protein
+reactivating factor for ethanolamine ammonia lyase
+ethanolamine transporter
+ethanol dehydrogenase involved in ethanolamine utilization; aldehyde reductase
+ethanolamine utilization protein, HSP70/actin superfamily protein
+aldehyde oxidoreductase, ethanolamine utilization protein
+Ethanolamine catabolic microcompartment shell protein
+ethanolamine utilization protein, putative carboxysome structural protein
+phosphate acetyltransferase
+cobalamin adenosyltransferase involved in ethanolamine utilization
+RmlC-like cupin domain protein
+putative P-loop NTPase ethanolamine utilization protein
+putative ethanol utilization carboxysome structural protein
+malic enzyme: putative oxidoreductase/phosphotransacetylase
+transaldolase A
+transketolase 2, thiamine triphosphate-binding
+DUF1176 family protein
+GDP-mannose pyrophosphatase
+putative oxidoreductase, FeS binding subunit/NAD/FAD-binding subunit
+sensory histidine kinase in two-component regulatory system with NarP
+aminoglycoside/multidrug efflux system
+stress-induced small enterobacterial protein
+putative ArsC family reductase
+N-succinyl-diaminopimelate deacylase
+putative membrane protein, UPF0370 family
+palmitoyl-CoA esterase activity, uncertain physiological substrate
+elongator methionine tRNA (ac4C34) acetyltransferase
+putative neutral zinc metallopeptidase
+phosphoribosylaminoimidazole-succinocarboxamide synthetase
+BamABCDE complex OM biogenesis lipoprotein
+dihydrodipicolinate synthase
+transcriptional repressor, regulatory protein accessory to GcvA
+peroxiredoxin; thiol peroxidase, thioredoxin-dependent
+hydrogenase 4, 4Fe-4S subunit
+hydrogenase 4, membrane subunit
+hydrogenase 4, membrane subunit
+hydrogenase 4, membrane subunit
+hydrogenase 4, membrane subunit
+hydrogenase 4, membrane subunit
+hydrogenase 4, subunit
+hydrogenase 4, Fe-S subunit
+hydrogenase 4, Fe-S subunit
+putative processing element hydrogenase 4
+hydrogenase-4 transcriptional activator
+putative formate transporter
+putative UPF0118 family inner membrane permease
+OM protein maintenance and assembly metalloprotease and chaperone, periplasmic
+putative oxidoreductase
+ATPase regulatory factor involved in DnaA inactivation
+uracil permease
+uracil phosphoribosyltransferase
+phosphoribosylaminoimidazole synthetase
+phosphoribosylglycinamide formyltransferase 1
+polyphosphate kinase, component of RNA degradosome
+exopolyphosphatase
+cyclic-di-GMP phosphodiesterase, anaerobic
+uncharacterized protein b2504
+outer membrane integrity lipoprotein
+nalidixic acid resistance protein, putative periplasmic protein
+GMP synthetase (glutamine aminotransferase)
+IMP dehydrogenase
+exonuclease VII, large subunit
+DUF1407 family protein
+GTPase; multicopy suppressor of ftsJ
+BamABCDE complex OM biogenesis lipoprotein
+ancillary SecYEG translocon subunit; putative anti-RcsB factor
+histidyl tRNA synthetase
+1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase
+MreB assembly cytoskeletal protein
+dual specificity 23S rRNA m(2)A2503, tRNA m(2)A37 methyltransferase, SAM-dependent
+multifunctional nucleoside diphosphate kinase and apyrimidinic endonuclease and 3\'-phosphodiesterase
+penicillin-insensitive murein repair transglycosylase; inactive transpeptidase domain protein
+bacterial alpha2-macroglobulin colonization factor ECAM; anti-host protease defense factor; periplasmic inner membrane-anchored lipoprotein
+3-mercaptopyruvate sulfurtransferase
+rhodanase-like enzyme, sulfur transfer from thiosulfate
+aminopeptidase B
+Fe(2+) donor and activity modulator for cysteine desulfurase
+[2Fe-2S] ferredoxin [Escherichia coli str. K-12 substr. MG1655]
+DnaK-like molecular chaperone specific for IscU
+HscA co-chaperone, J domain-containing protein Hsc56; IscU-specific chaperone HscAB
+FeS cluster assembly protein
+iron-sulfur cluster assembly scaffold protein
+cysteine desulfurase (tRNA sulfurtransferase), PLP-dependent
+isc operon transcriptional repressor; suf operon transcriptional activator; oxidative stress- and iron starvation-inducible; autorepressor
+tRNA mC32,mU32 2\'-O-methyltransferase, SAM-dependent
+inositol monophosphatase
+putative S9 family prolyl oligopeptidase
+stationary phase inducible protein
+putative 3-phenylpropionic transporter
+hca operon transcriptional regulator
+3-hydroxypropionic acid resistance peptide
+3-phenylpropionate dioxygenase, large (alpha) subunit
+3-phenylpropionate dioxygenase, small (beta) subunit
+3-phenylpropionate dioxygenase, ferredoxin subunit
+2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase
+phenylpropionate dioxygenase, ferredoxin reductase subunit
+DoxX family inner membrane protein
+mutarotase superfamily protein, YphB family
+putative Zn-dependent NAD(P)-binding oxidoreductase
+putative sugar ABC transporter permease
+putative sugar ABC transporter ATPase
+putative sugar ABC transporter periplasmic binding protein
+DUF4380 domain-containing TPR repeat protein
+putative DNA-binding transcriptional regulator
+serine hydroxymethyltransferase
+fused nitric oxide dioxygenase/dihydropteridine reductase 2
+regulatory protein P-II for glutamine synthetase
+response regulator regulating glmY sRNA in two-component system with sensor protein GlrK
+putative outer membrane protein modulating the QseEF response
+sensor protein kinase regulating glmY sRNA in two-component system with response regulator GlrR
+phosphoribosylformyl-glycineamide synthetase
+membrane-bound lytic transglycosylase F, murein hydrolase
+tRNA-specific adenosine deaminase
+phosphatidylglycerophosphatase C, membrane bound
+putative DNA-binding transcriptional regulator
+putative 4Fe-4S cluster-containing protein
+toxic membrane protein
+holo
+pyridoxine 5\'-phosphate synthase
+gap repair protein
+membrane-associated, 16S rRNA-binding GTPase
+RNase III
+leader peptidase (signal peptidase I)
+back-translocating elongation factor EF4, GTPase
+SoxR iron-sulfur cluster reduction factor component
+anti-sigma E factor, binds RseA
+anti-sigma factor
+RNA polymerase sigma E factor
+quinolinate synthase, L-aspartate oxidase (B protein) subunit
+tRNA1(Val) (adenine(37)-N6)-methyltransferase
+ATP-dependent RNA helicase
+putative DNA-binding transcriptional regulator
+cysteine and O-acetylserine exporter
+autonomous glycyl radical cofactor
+uracil-DNA-glycosylase
+putative methyltransferase
+thioredoxin 2
+DTW domain protein
+protein lysine acetyltransferase
+phosphatidylserine synthase; CDP-diacylglycerol-serine O-phosphatidyltransferase
+putative lipoprotein
+alpha-ketoglutarate transporter
+protein disaggregation chaperone
+UPF0124 family protein
+23S rRNA pseudouridine(1911,1915,1917) synthase
+BamABCDE complex OM biogenesis lipoprotein
+cold shock protein associated with 30S ribosomal subunit
+pheA gene leader peptide
+chorismate mutase and prephenate dehydratase, P-protein
+fused chorismate mutase T/prephenate dehydrogenase
+3-deoxy-D-arabino-heptulosonate-7-phosphate synthase, tyrosine-repressible
+lipoprotein
+putative periplasmic inhibitor of YfiN activity
+putative membrane-anchored diguanylate cyclase
+OM lipoprotein putative positive effector of YfiN activity
+50S ribosomal subunit protein L19
+tRNA m(1)G37 methyltransferase, SAM-dependent
+ribosome maturation factor
+30S ribosomal subunit protein S16
+Signal Recognition Particle (SRP) component with 4.5S RNA (ffs)
+cytochrome c assembly protein family inner membrane protein
+UPF0053 family inner membrane protein
+heat shock protein
+NAD kinase
+recombination and repair protein
+lipoprotein component of BamABCDE OM biogenesis complex
+UPF0125 family protein
+toxic UPF0083 family protein inhibitor of 70S ribosome formation
+tmRNA-binding trans-translation protein
+CP4-57 prophage; integrase
+CP4-57 prophage; uncharacterized protein
+CP4-57 prophage; DNA-binding transcriptional activator
+CP4-57 prophage; uncharacterized protein
+CP4-57 prophage; uncharacterized protein
+radiation resistance protein; DEAD/H helicase-like protein; CP4-57 putative defective prophage
+CP4-57 putative defective prophage, DUF4297/DUF1837 polymorphic toxin family protein
+CP4-57 prophage; uncharacterized protein
+CP4-57 prophage; RNase LS
+CP4-57 prophage; uncharacterized protein
+CP4-57 prophage; 50S ribosome-binding GTPase family protein
+CP4-57 prophage; uncharacterized protein
+CP4-57 prophage; putative DNA-binding transcriptional regulator
+CP4-57 prophage; putative inner membrane protein
+CP4-57 prophage; uncharacterized protein
+CP4-57 prophage; putative periplasmic protein
+CP4-57 prophage; putative inner membrane protein
+CP4-57 prophage; putative antirestriction protein
+CP4-57 prophage; putative DNA repair protein
+uncharacterized protein b4548
+CP4-57 prophage; antitoxin of the YpjF-YfjZ toxin-antitoxin system
+CP4-57 prophage; toxin of the YpjF-YfjZ toxin-antitoxin system
+adhesin-like autotransporter
+carbon starvation protein
+L-2-hydroxyglutarate oxidase
+succinate-semialdehyde dehydrogenase I, NADP-dependent
+4-aminobutyrate aminotransferase, PLP-dependent
+gamma-aminobutyrate transporter
+transcriptional repressor of csiD
+uncharacterized protein b2665
+cyaR sRNA-regulated protein
+tributyltin-inducible repressor of ygaVP
+DUF2892 family inner membrane rhodanese
+DNA binding protein, nucleoid-associated
+alanine exporter, alanine-inducible, stress-responsive
+uncharacterized protein b2671
+putative membrane-anchored DUF883 family ribosome-binding protein
+hydrogen donor for NrdEF electron transport system; glutaredoxin-like protein
+NrdEF cluster assembly flavodoxin
+ribonucleoside-diphosphate reductase 2, alpha subunit
+ribonucleoside-diphosphate reductase 2, beta subunit, ferritin-like protein
+glycine betaine/proline ABC transporter periplasmic binding protein
+glycine betaine/proline ABC transporter permease
+glycine betaine/proline ABC transporter periplasmic binding protein; cold shock protein
+putative L-valine exporter, norvaline resistance protein
+putative L-valine exporter, norvaline resistance protein
+transcriptional repressor of microcin B17 synthesis and multidrug efflux
+multidrug efflux system
+multidrug efflux system protein
+S-ribosylhomocysteine lyase
+glutamate-cysteine ligase
+COG1238 family inner membrane protein
+fructose-1-P and 6-phosphogluconate phosphatase
+pleiotropic regulatory protein for carbon source metabolism
+alanyl-tRNA synthetase
+regulatory protein for RecA
+DNA recombination and repair protein; ssDNA-dependent ATPase; synaptase; ssDNA and dsDNA binding protein; ATP-dependent homologous DNA strand exchanger; recombinase A; LexA autocleavage cofactor
+nicotinamide-nucleotide amidohydrolase; NMN amidohydrolase
+membrane-bound lytic murein transglycosylase B
+glucitol/sorbitol-specific enzyme IIC component of PTS
+glucitol/sorbitol-specific enzyme IIB component of PTS
+glucitol/sorbitol-specific enzyme IIA component of PTS
+sorbitol-6-phosphate dehydrogenase
+sorbitol=responsive srl operon transcriptional activator
+sorbitol-inducible srl operon transcriptional repressor
+D-arabinose 5-phosphate isomerase
+anaerobic nitric oxide reductase DNA-binding transcriptional activator
+anaerobic nitric oxide reductase flavorubredoxin
+NADH:flavorubredoxin oxidoreductase
+carbamoyl phosphate phosphatase and
+formate dehydrogenase-H,
+asc operon transcriptional repressor; prpBC operon repressor
+cellobiose/arbutin/salicin-specific PTS enzymes, IIB and IC components
+cryptic 6-phospho-beta-glucosidase
+protease involved in processing C-terminal end of HycE
+hydrogenase 3 maturation protein
+hydrogenase 3 and formate hydrogenase complex, HycG subunit
+formate hydrogenlyase complex iron-sulfur protein
+hydrogenase 3, large subunit
+hydrogenase 3, membrane subunit
+hydrogenase 3, membrane subunit
+hydrogenase 3, Fe-S subunit
+regulator of the transcriptional regulator FhlA
+protein involved in nickel insertion into hydrogenases 3
+GTP hydrolase involved in nickel liganding into hydrogenases
+hydrogenase maturation protein
+hydrogenase maturation protein
+carbamoyl dehydratase, hydrogenases 1,2,3 maturation protein
+formate hydrogenlyase transcriptional activator
+uncharacterized protein b2732
+methyl-directed mismatch repair protein
+serine/threonine-specific protein phosphatase 2
+DeoR family putative transcriptional regulator
+putative dehydrogenase
+FliA-regulated DUF1537 family protein
+putative class II aldolase
+putative hydroxypyruvate isomerase
+putative transporter
+RNA polymerase, sigma S (sigma 38) factor
+activator of AmiC murein hydrolase activity, lipoprotein
+L-isoaspartate protein carboxylmethyltransferase type II
+broad specificity 5\'(3\')-nucleotidase and polyphosphatase
+tRNA(Glu) pseudouridine(13) synthase
+2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+4-diphosphocytidyl-2C-methyl-D-erythritol synthase
+cell division protein
+DUF3561 family inner membrane protein
+adenosine 5\'-phosphosulfate kinase
+sulfate adenylyltransferase, subunit 1
+sulfate adenylyltransferase, subunit 2
+aminopeptidase in alkaline phosphatase isozyme conversion
+CRISPR adaptation ssRNA endonuclease
+multifunctional endonuclease Cas1, CRISPR adaptation protein; DNA repair enzyme
+CRISPR RNA precursor cleavage enzyme; CRISP RNA (crRNA) containing Cascade antiviral complex protein
+CRISP RNA (crRNA) containing Cascade antiviral complex protein
+CRISP RNA (crRNA) containing Cascade antiviral complex protein
+CRISP RNA (crRNA) containing Cascade antiviral complex protein
+CRISP RNA (crRNA) containing Cascade antiviral complex protein
+Cascade complex anti-viral R-loop helicase-annealase Cas3
+phosphoadenosine phosphosulfate reductase; PAPS reductase, thioredoxin dependent
+sulfite reductase, beta subunit, NAD(P)-binding, heme-binding
+sulfite reductase, alpha subunit, flavoprotein
+6-pyruvoyl tetrahydrobiopterin synthase (PTPS)
+putative oxidoreductase
+putative 4Fe-4S cluster-containing protein
+putative antiterminator regulatory protein
+putative flavoprotein
+putative flavoprotein
+putative MFS sugar transporter; membrane protein
+putative FAD-linked oxidoreductase
+putative SDR family oxidoreductase
+putative MFS transporter, inner membrane protein
+putative kinase
+7-carboxy-7-deazaguanine synthase; queosine biosynthesis
+membrane stress resistance protein
+TPM domain protein, putative phosphatase
+enolase
+CTP synthetase
+nucleoside triphosphate pyrophosphohydrolase
+mRNA interferase toxin, antitoxin is MazE
+antitoxin of the ChpA-ChpR toxin-antitoxin system
+(p)ppGpp synthetase I/GTP pyrophosphokinase
+23S rRNA m(5)U1939 methyltransferase, SAM-dependent
+hybrid sensory histidine kinase, in two-component regulatory system with UvrY
+D-glucarate dehydratase 1
+glucarate dehydratase-related protein, substrate unknown
+putative D-glucarate transporter
+short-chain flavodoxin, FMN-binding
+tRNA(Ile1,Asp) pseudouridine(65) synthase
+DUF446 family protein
+SecY-interacting protein
+7-cyano-7-deazaguanine reductase (NADPH-dependent)
+UPF0717 family protein
+putative serine transporter
+L-serine dehydratase 2
+Ssb-binding protein, misidentified as ExoIX
+L-1,2-propanediol oxidoreductase
+L-fuculose-1-phosphate aldolase
+L-fucose transporter
+L-fucose isomerase
+L-fuculokinase
+L-fucose mutarotase
+l-fucose operon activator
+23S rRNA C2498 2\'-O-ribose methyltransferase, SAM-dependent
+UPF0382 family inner membrane protein
+glycine cleavage system transcriptional activator; autorepressor
+DUF903 family verified lipoprotein
+cysteine sulfinate desulfinase
+CsdA-binding activator; Fe-S protein
+tRNA threonylcarbamoyladenosine dehydratase; sulfur acceptor for CsdA
+membrane-bound lytic murein transglycosylase A
+N-acetylmuramoyl-L-alanine amidase
+amino acid N-acetyltransferase and inactive acetylglutamate kinase
+exonuclease V (RecBCD complex), alpha chain
+exonuclease V (RecBCD complex), beta subunit
+protease III
+exonuclease V (RecBCD complex), gamma chain
+putative prepilin peptidase-dependent protein
+DUF2509 family protein
+putative prepilin peptidase-dependent protein
+putative prepilin peptidase-dependent protein
+thymidylate synthetase
+phosphatidylglycerol-prolipoprotein diacylglyceryl transferase
+PEP-protein phosphotransferase enzyme I; GAF domain containing protein
+RNA pyrophosphohydrolase
+methyl-directed mismatch repair protein
+UPF0053 family inner membrane protein
+DUF903 family verified lipoprotein
+putative NADP(H)-dependent aldo-keto reductase
+lysophospholipid transporter
+fused 2-acylglycerophospho-ethanolamine acyl transferase/acyl-acyl carrier protein synthetase
+galactose-inducible d-galactose regulon transcriptional repressor; autorepressor
+diaminopimelate decarboxylase, PLP-binding
+transcriptional activator of lysA; autorepressor
+Asp/Glu_racemase family protein
+arabinose transporter
+2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase; KDG oxidoreductase; 20-ketosteroid reductase
+hexuronate isomerase
+short chain acyltransferase
+putative transporter
+putative LuxR family transcriptional regulator
+putative transcriptional regulator
+uncharacterized protein b2848
+uncharacterized protein b4683
+uncharacterized protein b2849
+SycD-like chaperone family TPR-repeat-containing protein
+putative transcriptional regulator
+uncharacterized protein b2853
+IS2 transposase TnpB
+IS2 repressor TnpA
+LysM domain-containing M23 family putative peptidase; septation lipoprotein
+xanthine dehydrogenase, molybdenum binding subunit
+xanthine dehydrogenase, FAD-binding subunit
+xanthine dehydrogenase, Fe-S binding subunit
+putative sigma-54-interacting transcriptional activator
+putative carbamoyltransferase
+2,3-diaminopropionate ammonia lyase, PLP-dependent
+putative peptidase
+D-stereospecific phenylhydantoinase
+putative amino acid kinase
+XdhC-CoxI family protein with NAD(P)-binding Rossman fold
+putative selenium-dependent hydroxylase accessory protein
+CTP:molybdopterin cytidylyltransferase
+putative Fe-S subunit oxidoreductase subunit
+putative chlorohydrolase/aminohydrolase
+putative oxidoreductase
+putative hypoxanthine oxidase, molybdopterin-binding/Fe-S binding
+xanthine permease
+guanine deaminase
+guanine/hypoxanthine permease, high affinity; guanine/hypoxanthine:H+ symporter
+putative 4Fe-4S ferredoxin-type oxidoreductase subunit
+putative oxidoreductase, Fe-S subunit/nucleotide-binding subunit
+uric acid permease
+uncharacterized protein b4684
+isopentenyl diphosphate isomerase
+lysine tRNA synthetase, constitutive
+ssDNA exonuclease, 5\' --> 3\'-specific
+protein disulfide isomerase II
+site-specific tyrosine recombinase
+flavodoxin 2
+toxin of CptAB toxin-antitoxin pair
+flavinator of succinate dehydrogenase; antitoxin of CptAB toxin-antitoxin pair
+iron-sulfur cluster repair protein, plumbagin resistance
+hemolysin III family HylIII inner membrane protein
+UPF0267 family protein
+6-phospho-beta-glucosidase A
+putative NAD(P)-dependent oxidoreductase
+glycine decarboxylase, PLP-dependent, subunit P of glycine cleavage complex
+glycine cleavage complex lipoylprotein
+aminomethyltransferase, tetrahydrofolate-dependent, subunit (T protein) of glycine cleavage complex
+2-octaprenylphenol hydroxylase, FAD-dependent
+2-octaprenyl-6-methoxyphenol hydroxylase, FAD/NAD(P)-binding
+proline aminopeptidase P II
+UPF0149 family protein
+FtsZ stabilizer
+5-formyltetrahydrofolate cyclo-ligase family protein
+toxic membrane protein
+D-3-phosphoglycerate dehydrogenase
+ribose 5-phosphate isomerase, constitutive
+transcriptional regulator for arginine transport and DNA replication genes; replication initiation inhibitor
+methylmalonyl-CoA mutase
+membrane ATPase/protein kinase
+methylmalonyl-CoA decarboxylase, biotin-independent
+propionyl-CoA:succinate CoA transferase
+putative DNA-binding transcriptional regulator
+oxidative stress defense protein
+arginine transporter
+mechanosensitive channel protein, small conductance
+fructose-bisphosphate aldolase, class II
+phosphoglycerate kinase
+D-erythrose 4-phosphate dehydrogenase
+putative PanK family P-loop kinase
+MtlR family putative transcriptional repressor
+fructose 1,6 bisphosphatase isozyme
+putative Zn-binding dehydrogenase
+putative mannitol-specific PTS IIB and IIC components
+putative mannitol-specific enzyme IIA component of PTS
+transketolase 1, thiamine triphosphate-binding
+Phe-Phe periplasmic metalloprotease, OM lipoprotein; low salt-inducible; Era-binding heat shock protein
+agmatinase
+biosynthetic arginine decarboxylase, PLP-binding
+uncharacterized protein b2939
+uncharacterized protein b2940
+S-adenosylmethionine synthetase
+D-galactose transporter
+Zn-dependent metalloprotease-related protein
+DNA-specific endonuclease I
+16S rRNA m(3)U1498 methyltransferase, SAM-dependent
+glutathione synthetase
+uncharacterized protein b2948
+putative Holliday junction resolvase
+putative PilT family AAA+ ATPase
+UPF0001 family protein, PLP-binding
+putative inner membrane protein; compensates for loss in K+ uptake
+UPF0235 family protein
+dITP/XTP pyrophosphatase
+HemN family putative oxidoreductase
+DUF1202 family putative secreted protein
+periplasmic L-asparaginase 2
+DUF2884 family putative periplasmic protein
+DUF469 family protein
+tRNA m(7)G46 methyltransferase, SAM-dependent
+adenine DNA glycosylase
+oxidative damage protective factor for iron-sulfur proteins
+membrane-bound lytic murein transglycosylase C
+nucleoside transporter
+ornithine decarboxylase, constitutive
+DUF554 family putative inner membrane protein
+putative membrane-anchored secretion pathway M-type protein
+secretin (GspDbeta) OM localization lipoprotein pilotin
+bifunctional prepilin leader peptidase/ methylase
+putative secreted and surface-associated lipoprotein mucinase
+glycolate transporter
+malate synthase G
+DUF336 family protein
+glycolate oxidase 4Fe-4S iron-sulfur cluster subunit
+glycolate oxidase FAD binding subunit
+glycolate oxidase subunit, FAD-linked
+glycolate-inducible glc operon transcriptional repressor; autorepressor
+IS5 transposase and trans-activator
+putative inner membrane polysaccharide flippase
+putative ATP-binding protein
+putative ATP-binding protein
+putative ATP-binding protein
+phosphate transporter
+glutathionylspermidine amidase and glutathionylspermidine synthetase
+putative S-transferase
+hydrogenase 2 accessory protein
+protein involved with the maturation of hydrogenases 1 and 2
+hydrogenase 2-specific chaperone
+maturation protease for hydrogenase 2
+hydrogenase 2, large subunit
+putative hydrogenase 2 cytochrome b type component
+hydrogenase 2 4Fe-4S ferredoxin-type component
+hydrogenase 2, small subunit
+DUF2623 family protein
+L-glyceraldehyde 3-phosphate reductase
+UPF0114 family putative inner membrane protein
+putative oxidoreductase
+membrane spanning protein in TonB-ExbB-ExbD complex
+membrane spanning protein in TonB-ExbB-ExbD complex
+cystathionine beta-lyase, PLP-dependent
+general envelope maintenance protein; DedA family inner membrane protein; putative multidrug efflux transporter
+transcriptional activator of yqhD
+aldehyde reductase, NADPH-dependent
+2,5-diketo-D-gluconate reductase A
+DUF3828 family putative periplasmic protein
+outer membrane lipoprotein, Lpp paralog
+Radical SAM superfamily protein
+septal ring component that protects the divisome from stress; multicopy suppressor of ftsI(Ts)
+1-acyl-sn-glycerol-3-phosphate acyltransferase
+DNA topoisomerase IV, subunit A
+putative ABC transporter permease
+antitoxin for MqsR toxin; transcriptional repressor
+GCU-specific mRNA interferase toxin of the MqsR-MqsA toxin-antitoxin system; biofilm/motility regulator; anti-repressor
+transcriptional repressor for mcbR biofilm gene
+hydrogen peroxide and cadmium resistance periplasmic protein; stress-induced OB-fold protein
+quorum sensing DNA-binding response regulator in two-component regulatory system with QseC
+quorum sensing sensory histidine kinase in two-component regulatory system with QseB
+inner membrane protein
+NADPH quinone reductase
+quinol monooxygenase
+DNA topoisomerase IV, subunit B
+acyl CoA esterase
+3\',5\' cAMP phosphodiesterase
+DUF1249 protein YqiB
+ADP-ribose pyrophosphatase
+transport channel
+DUF1190 family protein
+ATP-Grasp family ATPase
+4,5- DOPA-extradiol-dioxygenase
+zinc transporter
+3,4-dihydroxy-2-butanone-4-phosphate synthase
+BMFP family putative fusogenic protein
+putative fimbrial-like adhesin protein
+IS2 repressor TnpA
+IS2 transposase TnpB
+putative periplasmic pilin chaperone
+fimbrial protein
+motility and biofilm regulator
+DUF1449 family inner membrane protein
+PHB family membrane protein, function unknown
+toxic membrane protein
+toxic membrane protein
+heptose 7-phosphate kinase and heptose 1-phosphate adenyltransferase
+fused deadenylyltransferase/adenylyltransferase for glutamine synthetase
+inorganic triphosphatase
+SH3 domain protein
+fused tRNA nucleotidyl transferase/2\'3\'-cyclic phosphodiesterase/2\'nucleotidase and phosphatase
+undecaprenyl pyrophosphate phosphatase
+dihydroneopterin aldolase and dihydroneopterin triphosphate 2\'-epimerase
+putative glycerol-3-phosphate acyltransferase
+transcriptional activator of ttdABT
+L-tartrate dehydratase, alpha subunit
+L-tartrate dehydratase, beta subunit
+L-tartrate/succinate antiporte
+tRNA(ANN) t(6)A37 threonylcarbamoyladenosine modification protein; glycation binding protein
+30S ribosomal subunit protein S21
+DNA primase
+RNA polymerase, sigma 70 (sigma D) factor
+G/U mismatch-specific DNA glycosylase; xanthine DNA glycosylase
+putative siderophore interacting protein
+PadR family putative transcriptional regulator
+fused signal transducer for aerotaxis sensory component/methyl accepting chemotaxis component
+putrescine:2-oxoglutaric acid aminotransferase, PLP-dependent
+putative tRNA binding protein; putative tRNA corner chaperone
+transcriptional repressor
+evolved beta-D-galactosidase, alpha subunit
+evolved beta-D-galactosidase, beta subunit; cupin superfamily
+putative transporter
+putative periplasmic protein
+alpha-glucosidase
+2,4-dienoyl-CoA reductase, NADH and FMN-linked
+antitoxinof the HigB-HigA toxin-antitoxin system
+mRNA interferase toxin of the HigB-HigA toxin-antitoxin system
+23S rRNA m(2)G1835 methyltransferase, SAM-dependent
+putative metal dependent hydrolase
+DUF218 superfamily protein
+putative NAD(P)-dependent dehydrogenase
+putative membrane-bound redox modulator
+sodium:serine/threonine symporter
+Imp-YgjV family inner membrane protein
+altronate hydrolase
+uronate isomerase
+hexuronate transporter
+hexuronate regulon transcriptional repressor; autorepressor
+general envelope maintenance protein; DedA family inner membrane protein; putative multidrug efflux transporter
+modulator of EnvZ/OmpR regulon
+DUF1090 family putative periplasmic protein
+membrane-anchored ribosome-binding protein
+DUF1469 family inner membrane protein
+uncharacterized protein b3100
+putative quinol oxidase subunit
+putative S-transferase
+DUF805 family inner membrane protein
+DUF805 family inner membrane protein
+LysR family putative transcriptional regulator
+redox-sensitive bicupin
+uncharacterized protein b3107
+putative L-serine dehydratase alpha chain
+putative transporter
+L-serine dehydratase 3, anaerobic
+putative reactive intermediate deaminase
+pyruvate formate-lyase 4/2-ketobutyrate formate-lyase
+propionate kinase/acetate kinase C, anaerobic
+L-threonine/L-serine transporter
+L-threonine dehydratase, catabolic
+tdc operon transcriptional activator
+L-threonine dehydratase operon activator protein
+uncharacterized protein b3120
+pentapetide repeats-related protein
+glycerate kinase I
+tartronate semialdehyde reductase
+alpha-dehydro-beta-deoxy-D-glucarate aldolase
+putative (D)-galactarate transporter
+D-galactarate dehydrogenase
+antitoxin of the SohA(PrlF)-YhaV toxin-antitoxin system
+toxin of the SohB(PrlF)-YhaV toxin-antitoxin system
+transcriptional repressor of the aga regulon
+tagatose 6-phosphate aldolase 1, kbaZ subunit
+N-acetylgalactosamine-specific enzyme IIB component of PTS
+tagatose-6-phosphate ketose/aldose isomerase
+tagatose 6-phosphate aldolase 1, kbaY subunit
+N-acetylgalactosamine-specific enzyme IIB component of PTS
+N-acetylgalactosamine-specific enzyme IIC component of PTS
+N-acetylgalactosamine-specific enzyme IID component of PTS
+galactosamine-6-phosphate isomerase
+putative fimbrial-like adhesin protein
+putative periplasmic pilin chaperone
+putative outer membrane protein
+putative fimbrial-like adhesin protein
+16S rRNA C1402 2\'-O-ribose methyltransferase, SAM-dependent
+OM lipoprotein stimulator of MrcA transpeptidase
+UPF0102 family protein
+DnaA initiator-associating factor for replication initiation
+outer membrane lipoprotein
+putative inner membrane permease
+putative nucleoside-diphosphate-sugar epimerase
+stress-resistance protein
+UPF0306 family protein
+GIY-YIG nuclease superfamily protein
+GNAT family putative N-acetyltransferase
+SCP-2 sterol transfer family protein
+U32 peptidase family protein
+U32 peptidase family protein
+putative luciferase-like monooxygenase
+tryptophan transporter of high affinity
+ATP-dependent RNA helicase
+uncharacterized protein b4685
+lipoprotein involved in osmotic sensitivity and filamentation
+polynucleotide phosphorylase/polyadenylase
+30S ribosomal subunit protein S15
+tRNA pseudouridine synthase B: tRNA pseudouridine(55) synthase and putative tmRNA pseudouridine(342) synthase
+30s ribosome binding factor
+translation initiation factor IF-2
+transcription termination/antitermination L factor
+ribosome maturation factor for 30S subunits
+argininosuccinate synthetase
+putative EptAB family phosphoethanolamine transferase, inner membrane protein
+preprotein translocase membrane subunit
+phosphoglucosamine mutase
+7,8-dihydropteroate synthase
+protease, ATP-dependent zinc-metallo
+23S rRNA U2552 2\'-O-ribose methyltransferase, SAM-dependent
+RNA binding protein associated with pre-50S ribosomal subunits
+transcript cleavage factor
+D-alanyl-D-alanine carboxypeptidase
+GTPase involved in cell partioning and DNA repair
+EamA family inner membrane putative transporter
+50S ribosomal subunit protein L27
+50S ribosomal subunit protein L21
+octaprenyl diphosphate synthase
+malPQ operon transcriptional activator
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+acid stress protein; putative BolA family transcriptional regulator
+ABC transporter maintaining OM lipid asymmetry, cytoplasmic STAS component
+ABC transporter maintaining OM lipid asymmetry, periplasmic binding protein
+OM lipid asymmetry maintenance protein; membrane-anchored ABC family periplasmic binding protein
+ABC transporter maintaining OM lipid asymmetry, inner membrane permease protein
+ABC transporter maintaining OM lipid asymmetry, ATP-binding protein
+putative calcium/sodium:proton antiporter
+D-arabinose 5-phosphate isomerase
+3-deoxy-D-manno-octulosonate 8-phosphate phosphatase
+periplasmic membrane-anchored LPS-binding protein; LPS export protein
+lipopolysaccharide export ABC transporter periplasmic binding protein; Lipid A binding protein; LPS export and assembly protein
+lipopolysaccharide export ABC transporter ATPase
+RNA polymerase, sigma 54 (sigma N) factor
+ribosome hibernation promoting factor HPF; stabilizes 100S dimers
+sugar-specific enzyme IIA component of PTS
+adaptor protein for GlmZ/GlmY sRNA decay, glucosamine-6-phosphate-regulated; NTPase
+phosphohistidinoprotein-hexose phosphotransferase component of N-regulated PTS system (Npr)
+Mg(2+)-starvation-stimulated protein
+biosynthetic peptidoglycan transglycosylase
+isoprenoid biosynthesis protein with amidotransferase-like domain
+aerobic respiration control sensor histidine protein kinase, cognate to two-component response regulators ArcA and RssB
+putative Fe-S oxidoreductase, Radical SAM superfamily protein
+glutamate synthase, large subunit
+glutamate synthase, 4Fe-4S protein, small subunit
+periplasmic protein
+putative periplasmic chaperone protein
+putative outer membrane fimbrial subunit usher protein
+IS5 transposase and trans-activator
+putative transcriptional regulator
+DUF1016 family protein in the PD-(D/E)XK nuclease superfamily
+DUF386 family protein, cupin superfamily
+N-acetylmannosamine kinase
+putative N-acetylmannosamine-6-P epimerase
+sialic acid transporter
+N-acetylneuraminate lyase
+sialic acid-inducible nan operon repressor
+putative transporter
+ClpXP protease specificity enhancing factor
+stringent starvation protein A, phage P1 late gene activator, RNAP-associated acid-resistance protein, inactive glutathione S-transferase homolog
+30S ribosomal subunit protein S9
+50S ribosomal subunit protein L13
+divisome ATPase
+DUF1043 family inner membrane-anchored protein
+serine endoprotease, periplasmic
+serine endoprotease, periplasmic
+malate dehydrogenase, NAD(P)-binding
+l-arginine-responsive arginine metabolism regulon transcriptional regulator
+cadmium and peroxide resistance protein, stress-induced
+putative barnase inhibitor
+p-hydroxybenzoic acid efflux system component
+p-hydroxybenzoic acid efflux system component
+DUF1656 family putative inner membrane efflux pump associated protein
+transcriptional regulator for aaeXAB operon
+putative peptidase
+DUF3971-AsmA2 domains protein
+ribonuclease G
+dTTP/UTP pyrophosphatase; m(5)UTP/m(5)CTP/pseudo-UTP pyrophosphatase
+cell wall structural complex MreBCD transmembrane component MreD
+cell wall structural complex MreBCD transmembrane component MreC
+cell wall structural complex MreBCD, actin-like component MreB
+targeting factor for csrBC sRNA degradation
+putative acryloyl-CoA reductase
+acetyl CoA carboxylase, BCCP subunit
+acetyl-CoA carboxylase, biotin carboxylase subunit
+DUF997 family putative inner membrane protein
+pantothenate:sodium symporter
+methyltransferase for 50S ribosomal subunit protein L11
+tRNA-dihydrouridine synthase B
+global DNA-binding transcriptional dual regulator
+DNA adenine methyltransferase, SAM-dependent
+putative membrane protein
+acrAB operon transcriptional repressor
+cytoplasmic membrane lipoprotein
+multidrug efflux system protein
+putative outer membrane protein
+putative amino acid ABC transporter permease
+putative amino acid ABC transporter permease
+putative amino acid ABC transporter ATPase
+bacterial transferase hexapeptide domain protein
+DUF1488 family protein
+dehydroshikimate reductase, NAD(P)-binding
+tRNA(ANN) t(6)A37 threonylcarbamoyladenosine modification protein, threonine-dependent ADP-forming ATPase
+ssDNA-binding protein, function unknown
+DUF494 family putative periplasmic protein
+DNA recombination-mediator A family protein
+peptide deformylase
+10-formyltetrahydrofolate:L-methionyl-tRNA(fMet) N-formyltransferase
+16S rRNA m(5)C967 methyltransferase, SAM-dependent
+NAD-binding component of TrK potassium transporter
+mechanosensitive channel protein, high conductance
+alternate ribosome-rescue factor A
+zntA gene transcriptional activator
+DUF1992 family protein
+50S ribosomal subunit protein L17
+RNA polymerase, alpha subunit
+30S ribosomal subunit protein S4
+30S ribosomal subunit protein S11
+30S ribosomal subunit protein S13
+50S ribosomal subunit protein L36
+preprotein translocase membrane subunit
+50S ribosomal subunit protein L15
+50S ribosomal subunit protein L30
+30S ribosomal subunit protein S5
+50S ribosomal subunit protein L18
+50S ribosomal subunit protein L6
+30S ribosomal subunit protein S8
+30S ribosomal subunit protein S14
+50S ribosomal subunit protein L5
+50S ribosomal subunit protein L24
+50S ribosomal subunit protein L14
+30S ribosomal subunit protein S17
+50S ribosomal subunit protein L29
+50S ribosomal subunit protein L16
+30S ribosomal subunit protein S3
+50S ribosomal subunit protein L22
+30S ribosomal subunit protein S19
+50S ribosomal subunit protein L2
+50S ribosomal subunit protein L23
+50S ribosomal subunit protein L4
+50S ribosomal subunit protein L3
+30S ribosomal subunit protein S10
+part of gsp divergon involved in type II protein secretion
+general secretory pathway component, cryptic
+general secretory pathway component, cryptic
+general secretory pathway component, cryptic
+general secretory pathway component, cryptic
+general secretory pathway component, cryptic
+pseudopilin, cryptic, general secretion pathway
+putative general secretory pathway component, cryptic
+general secretory pathway component, cryptic
+putative general secretory pathway component, cryptic
+general secretory pathway component, cryptic
+general secretory pathway component, cryptic
+general secretory pathway component, cryptic
+bifunctional prepilin leader peptidase/ methylase
+bacterioferritin, iron storage and detoxification protein
+bacterioferritin-associated ferredoxin
+periplasmic endochitinase
+translation elongation factor EF-Tu 1
+protein chain elongation factor EF-G, GTP-binding
+30S ribosomal subunit protein S7
+30S ribosomal subunit protein S12
+mnm(5)-s(2)U34-tRNA synthesis 2-thiolation protein
+mnm(5)-s(2)U34-tRNA synthesis 2-thiolation protein
+sulfurtransferase for 2-thiolation step of mnm(5)-s(2)U34-tRNA synthesis
+putative PAS domain-containing DNA-binding transcriptional regulator
+FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase)
+phi X174 lysis protein
+FKBP-type peptidyl prolyl cis-trans isomerase (rotamase)
+DUF2387 family putative metal-binding protein
+potassium:proton antiporter
+potassium-efflux system ancillary protein for KefB, glutathione-regulated
+ABC-F family protein predicted regulatory ATPase
+UPF0017 family putative hydrolase
+UPF0270 family protein
+putative phosphoribulokinase
+OsmC family protein
+cAMP-activated global transcription factor, mediator of catabolite repression
+putative transporter, FUSC superfamily inner membrane protein
+bifunctional acetylornithine aminotransferase and succinyldiaminopimelate aminotransferase
+aminodeoxychorismate synthase, subunit II
+stationary phase-induced protein, putative toxin
+putative antitoxin for Fic
+peptidyl-prolyl cis-trans isomerase A (rotamase A)
+putative transporter
+nitrite reductase, large subunit, NAD(P)H-binding
+nitrite reductase (NADH) small subunit
+nitrite transporter
+fused siroheme synthase 1,3-dimethyluroporphyriongen III dehydrogenase and siroheme ferrochelatase/uroporphyrinogen methyltransferase
+small lipoprotein
+putative fructoselysine transporter
+fructoselysine-6-P-deglycase
+fructoselysine 3-epimerase
+fructoselysine 6-kinase
+putative DNA-binding transcriptional regulator
+FNR-regulated pyridoxal phosphate-dependent aminotransferase family protein
+inner membrane protein
+DUF2620 family protein
+phosphotriesterase homology protein
+phosphopentomutase-related metalloenzyme superfamily protein
+putative pyridoxal 5\'-phosphate binding protein
+PRD domain protein
+putative DNA-binding transcriptional regulator
+tryptophanyl-tRNA synthetase
+phosphoglycolate phosphatase
+D-ribulose-5-phosphate 3-epimerase
+DNA adenine methyltransferase
+cell division protein that binds to the septal ring
+3-dehydroquinate synthase
+shikimate kinase I
+DNA catabolic putative fimbrial transporter
+DNA catabolic protein
+DNA catabolic protein
+DNA catabolic putative fimbrial assembly protein
+DNA catabolic putative pilus assembly protein
+penicillin-binding protein 1a, murein transglycosylase and transpeptidase
+adenosine nucleotide hydrolase; Ap3A/Ap2A/ADP-ribose/NADH hydrolase
+putative RcsCDB-response attenuator, inner membrane protein
+GMP/IMP nucleotidase
+ribosome-associated heat shock protein Hsp15
+heat shock protein Hsp33
+DUF4153 family putative inner membrane protein
+phosphoenolpyruvate carboxykinase
+sensory histidine kinase in two-component regulatory system with OmpR
+response regulator in two-component regulatory system with EnvZ
+transcript cleavage factor
+putative transcriptional accessory protein
+ferrous iron transporter, protein A
+ferrous iron transporter protein B and GTP-binding protein; membrane protein
+putative DNA-binding transcriptional regulator
+transposase_31 family protein
+pimeloyl-ACP methyl ester carboxylesterase
+DNA catabolic protein
+Fe/S biogenesis protein, putative scaffold/chaperone protein
+gluconate transporter, high-affinity GNT I system
+4-alpha-glucanotransferase (amylomaltase)
+maltodextrin phosphorylase
+mal regulon transcriptional activator
+RNA 3\'-terminal phosphate cyclase
+RNA-splicing ligase
+sigma 54-dependent transcriptional regulator of rtcBA expression
+rhomboid intramembrane serine protease
+thiosulfate:cyanide sulfurtransferase (rhodanese)
+sn-glycerol-3-phosphate dehydrogenase, aerobic, FAD/NAD(P)-binding
+glycogen phosphorylase
+glycogen synthase
+glucose-1-phosphate adenylyltransferase
+glycogen debranching enzyme
+1,4-alpha-glucan branching enzyme
+aspartate-semialdehyde dehydrogenase, NAD(P)-binding
+UPF0056 family inner membrane protein
+gluconate transporter, low affinity GNT 1 system
+gluconate kinase 2
+d-gluconate inducible gluconate regulon transcriptional repressor
+quercetinase activity in vitro
+putative oxidoreductase
+aminoacyl nucleotide detoxifying acetyltransferase
+putative Hcp1 family polymorphic toxin protein; putative colicin-like DNase/tRNase activity
+IS1 repressor TnpA
+IS1 transposase B
+stable heat shock chaperone
+gamma-glutamyltranspeptidase
+DUF2756 family protein
+glycerophosphodiester phosphodiesterase, cytosolic
+sn-glycerol-3-phosphate ABC transporter ATPase
+sn-glycerol-3-phosphate ABC transporter permease
+sn-glycerol-3-phosphate ABC transporter permease
+sn-glycerol-3-phosphate ABC transporter periplasmic binding protein
+branched-chain amino acid ABC transporter ATPase
+branched-chain amino acid ABC transporter ATPase
+branched-chain amino acid ABC transporter permease
+branched-chain amino acid ABC transporter permease
+leucine transporter subunit
+PanD autocleavage accelerator, panothenate synthesis
+branched-chain amino acid ABC transporter periplasmic binding protein
+RNA polymerase, sigma 32 (sigma H) factor
+putative ABC transporter permease
+cell division ATP-binding protein
+Signal Recognition Particle (SRP) receptor
+16S rRNA m(2)G966 methyltransferase, SAM-dependent
+DUF1145 family protein
+DUF2500 family protein
+TMEM86 family putative inner membrane protein
+zinc, cobalt and lead efflux system
+mnm(5)-s(2)U34-tRNA 2-thiolation sulfurtransferase
+DUF165 family inner membrane protein
+putative lipoprotein
+putative arabinose efflux transporter
+UPF0118 family putative transporter
+4\'-phosphopantetheinyl transferase
+nickel/heme ABC transporter periplasmic binding protein
+nickel ABC transporter permease
+nickel ABC transporter permease
+nickel ABC transporter ATPase
+nickel ABC transporter ATPase
+transcriptional repressor, Ni-binding
+Rhs protein with DUF4329 family putative toxin domain; putative neighboring cell growth inhibitor
+putative NTF2 fold immunity protein for polymorphic toxin RhsB
+putative transposase
+putative ABC transporter permease
+ribosome-associated ATPase: ATP-binding protein/ATP-binding membrane protein
+putative membrane fusion protein (MFP) of efflux pump
+DUF4049 family protein
+acid resistance protein, inner membrane
+putative oxidoreductase
+phosphate transporter, low-affinity; tellurite importer
+universal stress (ethanol tolerance) protein B
+universal stress global response regulator
+dipeptide and tripeptide permease B
+16S rRNA m(2)G1516 methyltransferase, SAM-dependent
+oligopeptidase A
+23S rRNA m(6)A2030 methyltransferase, SAM-dependent
+glutathione oxidoreductase
+UV-inducible membrane toxin, DinQ-AgrB type I toxin-antitoxin system
+arsenical resistance operon transcriptional repressor; autorepressor
+arsenite/antimonite transporter
+arsenate reductase
+IS5 transposase and trans-activator
+outer membrane lipoprotein
+Putative LuxR family repressor for dicarboxylate transport
+putative Mg(2+) transport ATPase, inner membrane protein
+acid-resistance protein
+stress response protein acid-resistance protein
+acid-resistance membrane protein
+gad regulon transcriptional activator
+anaerobic multidrug efflux transporter, ArcA-regulated
+anaerobic multidrug efflux transporter, ArcA-regulated
+transcriptional activator of gadA and gadBC; repressor of gadX
+acid resistance regulon transcriptional activator; autoactivator
+glutamate decarboxylase A, PLP-dependent
+putative cytochrome C peroxidase
+cytoplasmic trehalase
+putative DNA-binding transcriptional response regulator
+LysR family putative transcriptional regulator
+inner membrane putative BrbK family alternate lipid exporter
+putative MFS transporter; membrane protein
+putative inner membrane-anchored periplasmic AsmA family protein
+cyclic-di-GMP phosphodiesterase, FlhDC-regulated
+2-dehydro-3-deoxygluconokinase
+putative periplasmic M16 family chaperone
+C4-dicarboxylic acid, orotate and citrate transporter
+cyclic-di-GMP phosphodiesterase
+cellulose synthase subunit
+endo-1,4-D-glucanase
+regulator of cellulose synthase, cyclic di-GMP binding
+cellulose synthase, catalytic subunit
+DUF2629 family protein
+cellulose production protein
+DUF2636 family cellulose production small membrane protein
+DUF3260 family cellulose production inner membrane protein
+toxic polypeptide, small
+putative transporter
+dipeptide/heme ABC transporter ATPas
+dipeptide/heme ABC transporter ATPas
+dipeptide/heme ABC transporter permease
+dipeptide/heme ABC transporter permease
+dipeptide/heme ABC transporter periplasmic binding protein; dipeptide chemotaxis receptor
+KDO phosphoethanolamine transferase, Ca(2+)-inducible
+pyruvate-inducible inner membrane protein, putative transporter
+autotransporter beta-domain protein
+3-methyl-adenine DNA glycosylase I, constitutive
+GNAT family putative N-acetyltransferase
+biotin sulfoxide reductase
+multicopy suppressor of bamB; outer membrane lipoprotein
+glyoxylate/hydroxypyruvate reductase B
+barrier effect co-colonization resistance factor; DUF3053 family lipoprotein
+HTH_CROC1 family putative transcriptional regulator
+RNA chaperone and antiterminator, cold-inducible
+toxic polypeptide, small
+IS150 transposase A
+IS150 transposase B
+glycine tRNA synthetase, beta subunit
+glycine tRNA synthetase, alpha subunit
+uncharacterized protein b4553
+O-acetyltransferase for enterobacterial common antigen (ECA)
+YiaAB family inner membrane protein, tandem domains
+YiaAB family inner membrane protein
+xylulokinase
+D-xylose isomerase
+D-xylose transporter subunit
+D-xylose ABC transporter dual domain ATPase
+D-xylose ABC transporter permease
+xylose divergent operon transcriptional activator
+putative glucosaminidase
+alpha-amylase
+valine-pyruvate aminotransferase; transaminase C; alanine-valine transaminase
+putative hydrogenase, 4Fe-4S ferredoxin-type component
+transcriptional repressor for the yiaKLMNO-lyxK-sgbHUE operon
+2,3-diketo-L-gulonate reductase, NADH-dependent
+DUF386 family protein
+2,3-diketo-L-gulonate TRAP transporter small permease protein
+2,3-diketo-L-gulonate TRAP transporter large permease protein
+2,3-diketo-L-gulonate-binding periplasmic protein
+L-xylulose kinase
+3-keto-L-gulonate 6-phosphate decarboxylase
+putative L-xylulose 5-phosphate 3-epimerase
+L-ribulose-5-phosphate 4-epimerase
+putative outer membrane protein
+putative DNA-binding transcriptional regulator
+signal-anchored membrane fusion protein (MFP) component of efflux pump
+DUF3302 family inner membrane protein
+aldehyde dehydrogenase B
+L-threonine dehydrogenase
+selenocysteinyl-tRNA-specific translation factor
+selenocysteine synthase
+glutathione S-transferase homolog
+Rhs protein with putative toxin 55 domain; putative polysaccharide synthesis/export protein; putative neighboring cell growth inhibitor
+putative immunity protein for polymorphic toxin RhsA; HEAT-domain protein; lethality reduction protein
+TPR-like repeat protein
+putative membrane fusion protein (MFP) component of efflux pump
+DUF3302 family inner membrane protein
+mannitol-specific PTS enzyme: IIA, IIB and IIC components
+mannitol-1-phosphate dehydrogenase, NAD-dependent
+mannitol operon repressor
+uncharacterized protein b4554
+ribosome-associated DUF2810 family protein
+L-lactate permease
+dual role activator/repressor for lldPRD operon
+L-lactate dehydrogenase, FMN-linked
+tRNA Leu mC34,mU34 2\'-O-methyltransferase, SAM-dependent
+serine acetyltransferase
+glycerol-3-phosphate dehydrogenase (NAD+)
+protein export chaperone
+glutaredoxin 3
+putative rhodanese-related sulfurtransferase
+phosphoglycero mutase III, cofactor-independent
+activator of AmiB,C murein hydrolases, septal ring factor
+putative polysaccharide deacetylase
+LPS(HepIII)-glucuronic acid glycosyltransferase
+L-threonine 3-dehydrogenase, NAD(P)-binding
+glycine C-acetyltransferase
+YibB family protein, function unknown
+ADP-L-glycero-D-mannoheptose-6-epimerase, NAD(P)-binding
+ADP-heptose:LPS heptosyltransferase II
+ADP-heptose:LPS heptosyl transferase I
+O-antigen ligase
+lipopolysaccharide core biosynthesis
+lipopolysaccharide KdoIII transferase; lipopolysaccharide core biosynthesis protein
+lipopolysaccharide core biosynthesis protein
+lipopolysaccharide 1,2-glucosyltransferase; UDP-glucose:(glucosyl)LPS alpha-1,2-glucosyltransferase
+UDP-D-galactose:(glucosyl)lipopolysaccharide-alpha-1,3-D-galactosyltransferase
+lipopolysaccharide 1,6-galactosyltransferase; UDP-D-galactose:(glucosyl)lipopolysaccharide-1,6-D-galactosyltransferase
+lipopolysaccharide rhamnose:KdoIII transferase; lipopolysaccharide core biosynthesis protein
+kinase that phosphorylates core heptose of lipopolysaccharide
+UDP-glucose:(heptosyl)lipopolysaccharide alpha-1,3-glucosyltransferase; lipopolysaccharide core biosynthesis protein; lipopolysaccharide glucosyltransferase I
+lipopolysaccharide core biosynthesis protein
+3-deoxy-D-manno-octulosonic-acid transferase (KDO transferase)
+pantetheine-phosphate adenylyltransferase
+formamidopyrimidine/5-formyluracil/ 5-hydroxymethyluracil DNA glycosylase
+50S ribosomal subunit protein L33
+50S ribosomal subunit protein L28
+UPF0758 family protein
+fused 4\'-phosphopantothenoylcysteine decarboxylase/phosphopantothenoylcysteine synthetase, FMN-binding
+deoxyuridinetriphosphatase
+nucleoid occlusion factor, anti-FtsZ division inhibitor
+orotate phosphoribosyltransferase
+UPF0701 family protein
+DNA damage-inducible protein
+UPF0126 family inner membrane protein
+DNA ligase, NAD(+)-dependent
+guanylate kinase
+RNA polymerase, omega subunit
+bifunctional (p)ppGpp synthetase II/ guanosine-3\',5\'-bis pyrophosphate 3\'-pyrophosphohydrolase
+tRNA mG18-2\'-O-methyltransferase, SAM-dependent
+ATP-dependent DNA helicase
+glutamate transporter
+xanthine permease
+putative inner membrane-anchored periplasmic AsmA family protein
+putative alpha-glucosidase
+putative transporter
+putative arabinose efflux transporter
+EamA family inner membrane putative transporter
+cytoplasmic membrane lipoprotein-28
+putative periplasmic protein
+putative transporter
+DUF1198 family protein
+adenine permease, high affinity; adenine:H+ symporter
+cryptic adenine deaminase
+hexose phosphate transporter
+membrane protein regulates uhpT expression
+sensory histidine kinase in two-component regulatory sytem with UhpA
+response regulator in two-component regulatory system wtih UhpB
+acetolactate synthase 1 small subunit
+acetolactate synthase 2 large subunit
+ilvB operon leader peptide
+toxic membrane persister formation peptide, LexA-regulated
+multidrug efflux system protein
+putative Cys-type oxidative YidJ-maturating enzyme
+inner membrane protein
+DUF202 family inner membrane protein
+inner membrane protein
+sulfatase/phosphatase superfamily protein
+putative transporter
+AraC family putative transcriptional regulator
+UTRA domain-containing GntR family putative transcriptional regulator
+putative transporter
+heat shock chaperone
+heat shock chaperone
+DUF1375 family outer membrane protein
+DUF3748 family protein
+colicin M resistance protein; FAD-binding protein, putative oxidoreductase
+D-galactonate transporter
+D-galactonate dehydratase
+2-oxo-3-deoxygalactonate 6-phosphate aldolase
+2-oxo-3-deoxygalactonate kinase
+D-galactonate catabolism operon transcriptional repressor
+putative lipoprotein
+sugar phosphate phosphatase
+DUF937 family protein
+DNA gyrase, subunit B
+gap repair protein
+DNA polymerase III, beta subunit
+chromosomal replication initiator protein DnaA, DNA-binding transcriptional dual regulator
+50S ribosomal subunit protein L34
+protein C5 component of RNase P
+membrane protein insertion efficiency factor, UPF0161 family inner membrane protein
+membrane protein insertase
+tRNA U34 5-methylaminomethyl-2-thiouridine modification GTPase
+tryptophanase leader peptide
+tryptophanase/L-cysteine desulfhydrase, PLP-dependent
+tryptophan transporter of low affinity
+multidrug efflux system protein
+putative DNA-binding transcriptional regulator
+phosphopantetheinyl transferase superfamily protein
+chromate reductase, Class I, flavoprotein
+adenine permease, high affinity; adenine:H+ symporter
+phosphoenolpyruvate and 6-phosphogluconate phosphatase
+PRK09823 family inner membrane protein, creBC regulon
+UPF0167 family protein
+putative 6-phosphogluconolactonase
+putative xylanase
+carbohydrate-specific outer membrane porin, cryptic
+cryptic phospho-beta-glucosidase B
+fused beta-glucoside-specific PTS enzymes: IIA component/IIB component/IIC component
+transcriptional antiterminator of the bgl operon
+negative regulator of PhoR/PhoB two-component regulator
+phosphate ABC transporter ATPase
+phosphate ABC transporter permease
+phosphate ABC transporter permease
+phosphate ABC transporter periplasmic binding protein
+L-glutamine:D-fructose-6-phosphate aminotransferase
+fused N-acetyl glucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyl transferase
+F1 sector of membrane-bound ATP synthase, epsilon subunit
+F1 sector of membrane-bound ATP synthase, beta subunit
+F1 sector of membrane-bound ATP synthase, gamma subunit
+F1 sector of membrane-bound ATP synthase, alpha subunit
+F1 sector of membrane-bound ATP synthase, delta subunit
+F0 sector of membrane-bound ATP synthase, subunit b
+F0 sector of membrane-bound ATP synthase, subunit c
+F0 sector of membrane-bound ATP synthase, subunit a
+ATP synthase, membrane-bound accessory factor
+16S rRNA m(7)G527 methyltransferase, SAM-dependent; glucose-inhibited cell-division protein
+5-methylaminomethyl-2-thiouridine modification at tRNA U34
+FMN-binding protein MioC
+transcriptional activator of asnA; autorepressor
+asparagine synthetase A
+stimulator of RavA ATPase activity; von Willebrand factor domain protein
+hexameric AAA+ MoxR family ATPase, putative molecular chaperone
+potassium transporter
+D-ribose pyranase
+D-ribose ABC transporter ATPase
+D-ribose ABC transporter permease
+D-ribose ABC transporter periplasmic binding protein; ribose chemotaxis receptor
+ribokinase
+transcriptional repressor of ribose metabolism
+putative multidrug or homocysteine efflux system
+putative transcriptional regulator
+flhDC operon transcriptional repressor
+UPF0438 family protein
+magnesium chelatase family protein and putative transcriptional regulator
+ilvG operon leader peptide
+uncharacterized protein b4669
+acetolactate synthase 2 small subunit
+branched-chain amino acid aminotransferase
+dihydroxyacid dehydratase
+l-threonine dehydratase, biosynthetic; also known as threonine deaminase
+transcriptional activator of ilvC; autorepressor
+ketol-acid reductoisomerase, NAD(P)-binding
+peptidyl-prolyl cis-trans isomerase C (rotamase C)
+DNA helicase and single-stranded DNA-dependent ATPase
+guanosine pentaphosphatase/exopolyphosphatase
+ATP-dependent RNA helicase
+thioredoxin 1
+transcription termination factor
+UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase
+Entobacterial Common Antigen (ECA) polysaccharide chain length modulation protein
+UDP-N-acetyl glucosamine-2-epimerase
+UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase
+dTDP-glucose 4,6-dehydratase
+glucose-1-phosphate thymidylyltransferase
+TDP-fucosamine acetyltransferase
+TDP-4-oxo-6-deoxy-D-glucose transaminase
+O-antigen translocase
+TDP-Fuc4NAc:lipidIIFuc4NAc transferase
+putative ECA polysaccharide chain elongation protein
+UDP-N-acetyl-D-mannosaminuronic acid transferase
+putative APC family amino acid transporter
+putative AslA-specific sulfatase-maturating enzyme
+putative Ser-type periplasmic non-aryl sulfatase
+putative protoheme IX synthesis protein
+putative uroporphyrinogen III methyltransferase
+uroporphyrinogen III synthase
+hydroxymethylbilane synthase
+adenylate cyclase
+iron-dependent inhibitor of iron-sulfur cluster formation; frataxin; iron-binding and oxidizing protein
+putative lipoprotein
+diaminopimelate epimerase
+DUF484 family protein
+site-specific tyrosine recombinase
+5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase; pyrimidine phosphatase; riboflavin synthesis
+DNA-dependent ATPase I and helicase II
+DUF2233 family protein
+magnesium/nickel/cobalt transporter
+DUF2628 family putative inner membrane protein
+PRK11371 family inner membrane protein
+putative chloramphenical resistance permease
+4HBT thioesterase family protein
+outer membrane phospholipase A
+ATP-dependent DNA helicase
+threonine efflux pump
+homoserine, homoserine lactone and S-methyl-methionine efflux pump
+lysophospholipase L2
+pyridoxal phosphate phosphatase
+putative inner membrane EamA-like transporter
+methionine biosynthesis regulon transcriptional regulator
+5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase
+putative carboxymethylenebutenolidase
+uridine phosphorylase
+DNA recombination protein
+bifunctional 2-octaprenyl-6-methoxy-1,4-benzoquinone methylase/ S-adenosylmethionine:2-DMK methyltransferase
+aerobic ubiquinone synthesis protein, SCP2 family protein
+regulator of octaprenylphenol hydroxylation, ubiquinone synthesis; regulator of 2\'-N-acetyltransferase; putative ABC1 family protein kinase
+TatABCE protein translocation system subunit
+TatABCE protein translocation system subunit
+TatABCE protein translocation system subunit
+quality control of Tat-exported FeS proteins; Mg-dependent cytoplasmic DNase
+transcription antitermination protein
+3-octaprenyl-4-hydroxybenzoate decarboxylase
+NAD(P)H-flavin reductase
+3-ketoacyl-CoA thiolase (thiolase I)
+fused 3-hydroxybutyryl-CoA epimerase/delta(3)-cis-delta(2)-trans-enoyl-CoA isomerase/enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase
+proline dipeptidase
+UPF0029 family protein
+potassium transporter
+protoporphyrin oxidase, flavoprotein
+molybdopterin-guanine dinucleotide biosynthesis protein B
+molybdopterin-guanine dinucleotide synthase
+DUF1040 protein YihD
+Cpx stress response Thr/Ser protein kinase; MazF antagonist protein
+periplasmic protein disulfide isomerase I
+DUF945 family protein
+inner membrane protein, inner membrane acyltransferase
+5\' to 3\' DNA polymerase and 3\' to 5\'/5\' to 3\' exonuclease
+cell division GTP-binding protein
+activator of Der GTPase
+coproporphyrinogen III oxidase, SAM and NAD(P)H dependent, oxygen-independent
+uncharacterized protein b4686
+fused DNA-binding response regulator in two-component regulatory system with GlnL: response regulator/sigma54 interaction protein
+sensory histidine kinase in two-component regulatory system with GlnG
+glutamine synthetase
+GTP-binding protein
+putative DNA-binding transcriptional regulator
+putative sugar phosphate isomerase
+MFS transporter family protein
+outer membrane porin L; putative sulpholipid porin
+putative sulphoquinovose importer
+putative 2,3-dihydroxypropane-1-sulphonate exporter, membrane protein
+putative sulpholipid alpha-glucosidase; alpha-glucosyl fluoride glucosidase
+putative sulphoquinovose mutarotase
+sulphoquinovose isomerase
+6-deoxy-6-sulphofructose-1-phosphate aldolase
+3-sulpholactaldehyde (SLA) reductase, NADH-dependent; gamma-hydroxybutyrate dehydrogenase, NADH-dependent
+6-deoxy-6-sulphofructose kinase
+putative transcriptional regulator for sulphoquinovose utilization
+alpha-D-glucose-1-phosphate phosphatase, anomer-specific
+BrkB family putative transporter, inner membrane protein
+D-tyr-tRNA(Tyr) deacylase
+GNAT family putative N-acetyltransferase
+CopG family putative transcriptional regulator
+putative thymol sensitivity protein, CopG family putative transcriptional regulator
+formate dehydrogenase formation protein
+formate dehydrogenase-O, cytochrome b556 subunit
+formate dehydrogenase-O, Fe-S subunit
+formate dehydrogenase-O, large subunit
+formate dehydrogenase formation protein
+DUF3829 family lipoprotein
+putative frv operon regulator; contains a PTS EIIA domain
+putative peptidase
+putative PTS enzyme, IIB component/IIC component
+putative enzyme IIA component of PTS
+L-rhamnose mutarotase
+rhamnulose-1-phosphate aldolase
+L-rhamnose isomerase
+rhamnulokinase
+transcriptional activator of rhaBAD and rhaT
+transcriptional activator of rhaSR
+L-rhamnose:proton symporter
+superoxide dismutase, Mn
+2-keto-3-deoxy-D-gluconate transporter
+6-N-hydroxylaminopurine resistance protein
+sensory histidine kinase in two-component regulatory system with CpxR
+response regulator in two-component regulatory system with CpxA
+inhibitor of the cpx response; periplasmic adaptor protein
+ferrous iron and zinc transporter
+6-phosphofructokinase I
+sulfate transporter subunit
+CDP-diacylglycerol phosphotidylhydrolase
+triosephosphate isomerase
+DUF1454 family putative periplasmic protein
+DUF805 family putative inner membrane protein
+UPF0381 family protein
+stress-induced protein
+ferredoxin-NADP reductase; flavodoxin reductase
+fructose 1,6-bisphosphatase II
+glycerol kinase
+glycerol facilitator
+FtsZ stabilizer, septal ring assembly factor, cell division stimulator
+ribonuclease E (RNase E) inhibitor protein
+1,4-dihydroxy-2-naphthoate octaprenyltransferase
+molecular chaperone and ATPase component of HslUV protease
+peptidase component of the HslUV protease
+essential cell division protein
+Anti-activator for CytR-CRP nucleoside utilization regulon
+Primosome factor n\' (replication factor Y)
+50S ribosomal subunit protein L31
+putative lipid binding hydrolase, DUF830 family protein
+transcriptional repressor, S-adenosylmethionine-binding
+cystathionine gamma-synthase, PLP-dependent
+Bifunctional aspartokinase/homoserine dehydrogenase 2
+5,10-methylenetetrahydrofolate reductase
+catalase-peroxidase HPI, heme b-containing
+EamA-like transporter family protein
+DUF1287 family protein
+glycerol dehydrogenase, NAD+ dependent; 1,2-propanediol:NAD+ oxidoreductase
+fructose-6-phosphate aldolase 2
+putative PTS enzyme: Hpr, enzyme I and II components
+putative enzyme IIC component of PTS
+putative enzyme IIB component of PTS
+putative glycine radical domain-containing pyruvate formate-lyase
+putative
+putative enzyme IIB component of PTS
+AraC family putative transcriptional activator
+LPS heptose I phosphoethanolamine transferase
+phosphoenolpyruvate carboxylase
+acetylornithine deacetylase
+N-acetyl-gamma-glutamylphosphate reductase, NAD(P)-binding
+acetylglutamate kinase
+argininosuccinate lyase
+oxidative and nitrosative stress transcriptional regulator
+pyridine nucleotide transhydrogenase, soluble
+transcriptional repressor of fabA and fabB
+DUF1422 family inner membrane protein
+tRNA m(5)U54 methyltransferase, SAM-dependent; tmRNA m(5)U341 methyltransferase
+vitamin B12/cobalamin outer membrane transporter
+glutamate racemase
+UDP-N-acetylenolpyruvoylglucosamine reductase, FAD-binding
+bifunctional biotin
+pantothenate kinase
+translation elongation factor EF-Tu 2
+preprotein translocase membrane subunit
+transcription termination factor
+50S ribosomal subunit protein L11
+50S ribosomal subunit protein L1
+50S ribosomal subunit protein L10
+50S ribosomal subunit protein L7/L12
+RNA polymerase, beta subunit
+RNA polymerase, beta prime subunit
+stationary phase growth adaptation protein
+tyrosine lyase, involved in thiamine-thiazole moiety synthesis
+thiamine biosynthesis ThiGH complex subunit
+immediate sulfur donor in thiazole formation
+adenylyltransferase, modifies ThiS C-terminus
+thiamine phosphate synthase (thiamine phosphate pyrophosphorylase)
+phosphomethylpyrimidine synthase
+stationary phase protein, binds sigma 70 RNA polymerase subunit
+NADH pyrophosphatase
+uroporphyrinogen decarboxylase
+endonuclease V; deoxyinosine 3\' endonuclease
+DUF416 domain protein
+HU, DNA-binding transcriptional regulator, alpha subunit
+DUF1481 family putative lipoprotein
+Zn-dependent periplasmic chaperone
+sensory histidine kinase in two-component regulatory system with ZraR
+fused DNA-binding response regulator in two-component regulatory system with ZraS: response regulator/sigma54 interaction protein
+phosphoribosylglycinamide synthetase phosphoribosylamine-glycine ligase
+IMP cyclohydrolase and phosphoribosylaminoimidazolecarboxamide formyltransferase
+stress-induced protein
+GNAT-family putative N-acetyltransferase; acetyl coenzyme A-binding protein
+homoserine O-transsuccinylase
+malate synthase A
+isocitrate lyase
+isocitrate dehydrogenase kinase/phosphatase
+ankyrin repeat protein
+transcriptional repressor
+homocysteine-N5-methyltetrahydrofolate transmethylase, B12-dependent
+putative Na+/Pi-cotransporter
+peptidase E, alpha-aspartyl dipeptidase
+23S rRNA pseudouridine(2604) synthase
+DUF3811 family protein
+lysine-sensitive aspartokinase 3
+glucosephosphate isomerase
+extracellular polysaccharide production threonine-rich protein
+extracellular polysaccharide production lipoprotein
+extracellular polysaccharide export OMA protein
+DUF940 family extracellular polysaccharide protein
+putative periplasmic protein
+phosphate starvation inducible protein
+D-xylose transporter
+maltose transporter subunit
+maltose transporter subunit
+maltose transporter subunit
+maltose ABC transportor ATPase
+maltose outer membrane porin (maltoporin)
+maltose regulon periplasmic protein
+chorismate--pyruvate lyase
+p-hydroxybenzoate octaprenyltransferase
+glycerol-3-phosphate O-acyltransferase
+diacylglycerol kinase
+transcriptional repressor of SOS regulon
+oxidative stress resistance protein; putative MATE family efflux pump; UV and mitomycin C inducible protein
+stress-induced protein, UPF0337 family
+transcriptional repressor, Zn(II)-binding
+uncharacterized protein b4047
+uncharacterized protein b4048
+tRNA-dihydrouridine synthase A
+phage shock protein G
+quinone oxidoreductase, NADPH-dependent
+replicative DNA helicase
+alanine racemase, biosynthetic, PLP-binding
+tyrosine aminotransferase, tyrosine-repressible, PLP-dependent
+uncharacterized protein b4621
+acid phosphatase/phosphotransferase, class B, non-specific
+thiamine phosphate synthase
+DUF419 family protein
+ATPase and DNA damage recognition protein of nucleotide excision repair excinuclease UvrABC
+single-stranded DNA-binding protein
+putative inner membrane protein
+putative membrane-anchored cyclic-di-GMP phosphodiesterase
+superoxide response regulon transcriptional activator; autoregulator
+redox-sensitive transcriptional activator of soxS; autorepressor
+guanine/hypoxanthine permease, high affinity; guanine/hypoxanthine:H+ symporter
+putative cation/proton antiporter
+pentapeptide repeats protein
+acetate transporter
+DUF485 family inner membrane protein
+acetyl-CoA synthetase
+nitrite reductase, formate-dependent, cytochrome
+nitrite reductase, formate-dependent, penta-heme cytochrome c
+formate-dependent nitrite reductase, 4Fe4S subunit
+formate-dependent nitrite reductase, membrane subunit
+heme lyase (NrfEFG) for insertion of heme into c552, subunit NrfE
+heme lyase (NrfEFG) for insertion of heme into c552, subunit NrfF
+heme lyase (NrfEFG) for insertion of heme into c552, subunit NrfG
+glutamate/aspartate:proton symporter
+Sel1 family TPR-like repeat protein
+formate dehydrogenase-H, selenopolypeptide subunit
+outer membrane factor of efflux pump
+membrane translocase (MDR) of MdtNOP efflux pump, PET family
+membrane fusion protein of efflux pump
+putative inner membrane efflux pump-associated DUF1656 family protein
+metallo-beta-lactamase superfamily protein
+D-allose kinase
+allulose-6-phosphate 3-epimerase
+D-allose ABC transporter permease
+D-allose ABC transporter ATPase
+D-allose ABC transporter periplasmic binding protein
+d-allose-inducible als operon transcriptional repressor; autorepressor; repressor of rpiR
+ribose 5-phosphate isomerase B/allose 6-phosphate isomerase
+putative periplasmic protein
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+aminoalkylphosphonate N-acetyltransferase
+ribose 1,5-bisphosphokinase
+ribophosphonate triphosphate hydrolase
+ribophosphonate triphosphate synthase subunit; putative ABC transporter-related ATPase
+carbon-phosphorus lyase complex subunit, putative ATP transporter ATP-binding protein
+carbon-phosphorus lyase, SAM-dependent
+ribophosphonate triphosphate synthase complex putative catalytic subunit
+ribophosphonate triphosphate synthase subunit
+ribophosphonate triphosphate synthase subunit
+putative DNA-binding transcriptional regulator of phosphonate uptake and biodegradation
+phosphonate ABC transporter periplasmic binding protein
+phosphonate ABC transporter ATPase
+metalloprotein superfamily protein
+zinc-ribbon family protein
+clamp-binding sister replication fork colocalization protein, dynamin-related
+YjcZ family protein; yhjH motility defect suppressor
+proline/glycine betaine transporter
+putative membrane-bound BasS regulator
+sensory histidine kinase in two-component regulatory system with BasR
+response regulator in two-component regulatory system with BasS
+lipid A phosphoethanolamine transferase
+arginine:agmatine antiporter
+adi system transcriptional activator
+arginine decarboxylase
+melibiose operon transcriptional regulator; autoregulator
+alpha-galactosidase, NAD(P)-binding
+melibiose:sodium symporter
+DUF2238 family inner membrane protein
+anaerobic class I fumarate hydratase (fumarase B)
+C4-dicarboxylate transporter, anaerobic; DcuS co-sensor
+response regulator in two-component regulatory system with DcuS
+sensory histidine kinase in two-component regulatory system with DcuR, regulator of anaerobic fumarate respiration
+putative 4Fe-4S mono-cluster protein
+GNAT family putative N-acetyltransferase
+antitoxin of GhoTS toxin-antitoxin pair; endonuclease for ghoT mRNA
+toxin of GhoTS toxin-antitoxin pair; membrane-lytic protein; stimulator of persister cell formation
+lysine tRNA synthetase, inducible
+dipeptide and tripeptide permease
+lysine decarboxylase, acid-inducible
+putative lysine/cadaverine transporter
+cadBA operon transcriptional activator
+putative transcriptional regulator
+thiol:disulfide interchange protein and activator of DsbC
+divalent-cation tolerance protein, copper sensitivity
+C4-dicarboxylate antiporter
+aspartate ammonia-lyase
+suppressor of F exclusion of phage T7
+putative transporter
+Cpn10 chaperonin GroES, small subunit of GroESL
+Cpn60 chaperonin GroEL, large subunit of GroESL
+DUF4156 family lipoprotein
+uncharacterized protein b4145
+EF-P-Lys34 lysylation protein; weak lysine 2,3-aminomutase
+polyproline-specific translation elongation factor EF-P
+entericidin A membrane lipoprotein, antidote entericidin B
+entericidin B membrane lipoprotein
+multidrug efflux system protein
+outer membrane lipoprotein cell division and growth lipocalin
+penicillin-binding protein; beta-lactamase, intrinsically weak
+fumarate reductase (anaerobic), membrane anchor subunit
+fumarate reductase (anaerobic), membrane anchor subunit
+fumarate reductase (anaerobic), Fe-S subunit
+anaerobic fumarate reductase catalytic and NAD/flavoprotein subunit
+Elongation Factor P Lys34 lysyltransferase
+putative transporter
+uncharacterized protein b4157
+inner membrane protein
+mechanosensitive channel protein, miniconductance
+phosphatidylserine decarboxylase
+ribosome small subunit-dependent GTPase A
+oligoribonuclease
+uncharacterized protein b4670
+epoxyqueuosine reductase, cobalamine-stimulated; queosine biosynthesis
+bifunctional NAD(P)H-hydrate repair enzyme; C-terminal domain ADP-dependent (S)-NAD(P)H-hydrate dehydratase and N-terminal domain NAD(P)H-hydrate epimerase
+tRNA(ANN) t(6)A37 threonylcarbamoyladenosine modification protein; ADP binding protein
+N-acetylmuramoyl-l-alanine amidase II
+methyl-directed mismatch repair protein
+delta(2)-isopentenylpyrophosphate tRNA-adenosine transferase
+global sRNA chaperone; HF-I, host factor for RNA phage Q beta replication
+GTPase, stimulated by 50S subunit binding; Mn(2+) homeostasis regulator
+modulator for HflB protease specific for phage lambda cII repressor
+HflB protease modulator specific for phage lambda cII repressor
+DUF2065 family protein
+adenylosuccinate synthetase
+nitric oxide-sensitive repressor for NO regulon
+exoribonuclease R, RNase R
+23S rRNA mG2251 2\'-O-ribose methyltransferase, SAM-dependent
+DUF2170 family protein
+PspA/IM30 family protein
+DUF2491 family protein
+UPF0719 family inner membrane protein
+DUF1190 family protein
+ATP-Grasp family ATPase
+DNA alkylation damage repair protein; flavin-containing DNA binding protein, weak isovaleryl CoA dehydrogenase
+DUF1471 family periplasmic protein
+bioflm peroxide resistance protein
+acyl CoA esterase
+transcriptional repressor for the L-ascorbate utilization divergent operon
+L-ascorbate 6-phosphate lactonase
+L-ascorbate-specific enzyme IIC permease component of PTS
+L-ascorbate-specific enzyme IIB component of PTS
+L-ascorbate-specific enzyme IIA component of PTS
+3-keto-L-gulonate 6-phosphate decarboxylase
+L-xylulose 5-phosphate 3-epimerase
+L-ribulose 5-phosphate 4-epimerase
+YhcN family protein, periplasmic
+30S ribosomal subunit protein S6
+primosomal protein N
+30S ribosomal subunit protein S18
+50S ribosomal subunit protein L9
+uncharacterized protein b4204
+OapA family protein
+FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase)
+D-alanine/D-serine/glycine transporter
+iron-sulfur cluster repair protein RIC
+DMT transporter family inner membrane protein
+NAD(P)H:quinone oxidoreductase
+DUF24 family HxlR-type putative transcriptional regulator
+2\':3\'-cyclic-nucleotide 2\'-phosphodiesterase
+3\'(2\'),5\'-bisphosphate nucleotidase
+uncharacterized protein b4215
+putative transcriptional regulator
+DUF1107 family protein
+UPF0053 family inner membrane protein
+methionine sulfoxide reductase A
+translocation and assembly module for autotransporter export, outer membrane subunit
+translocation and assembly module for autotransporter export, inner membrane subunit
+GGCT-like protein
+antitoxin of the ChpBS toxin-antitoxin system
+toxin of the ChpB-ChpS toxin-antitoxin system
+inorganic pyrophosphatase
+galactofuranose ABC transporter periplasmic binding protein
+putative sugar ABC transporter ATPase
+putative sugar ABC transporter permease
+putative sugar ABC transporter permease
+fructose-1,6-bisphosphatase I
+UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+ribosome-associated UPF0307 family protein
+putative antibiotic peptide MccB17 maturation peptidase
+anaerobic ribonucleotide reductase activating protein
+anaerobic ribonucleoside-triphosphate reductase
+trehalose-6-P hydrolase
+trehalose-specific PTS enzyme: IIB and IIC component
+trehalose 6-phosphate-inducible trehalose regulon transcriptional repressor
+regulatory leader peptide for mgtA
+magnesium transporter
+enamine/imine deaminase, reaction intermediate detoxification
+aspartate carbamoyltransferase, regulatory subunit
+aspartate carbamoyltransferase, catalytic subunit
+pyrBI operon leader peptide
+UPF0131 family protein
+c-di-GMP-binding biofilm dispersal mediator protein
+transcriptional repressor for divergent bdcA
+biofilm modulator regulated by toxins; DUF386 family protein, cupin superfamily protein
+SopA-central-domain-like hexapeptide repeat protein
+ornithine carbamoyltransferase 1
+protein inhibitor of RNase E
+GNAT family putative N-acetyltransferase
+DUF898 family inner membrane protein
+valyl-tRNA synthetase
+DNA polymerase III, chi subunit
+multifunctional aminopeptidase A: a cyteinylglycinase, transcription regulator and site-specific recombination factor
+lipopolysaccharide export ABC permease
+lipopolysaccharide export ABC permease
+DUF853 family protein with NTPase fold
+transcriptional repressor, 5-gluconate-binding
+L-idonate and D-gluconate transporter
+5-keto-D-gluconate-5-reductase
+L-idonate 5-dehydrogenase, NAD-binding
+D-gluconate kinase, thermosensitive
+broad specificity NADPH-dependent aldehyde reductase, Zn-containing
+IS2 repressor TnpA
+IS2 transposase TnpB
+uncharacterized protein b4277
+IS4 transposase
+putative MFS transporter, membrane protein
+GFO/IDH/MOCA family putative oxidoreductase. NAD(P)-dependent
+uncharacterized protein b4655
+IS30 transposase
+ferric citrate ABC transporter ATPase
+ferric citrate ABC transporter permease
+ferric citrate ABC transporter permease
+ferric citrate ABC transporter periplasmic binding protein
+TonB-dependent outer membrane ferric citrate transporter and signal transducer; ferric citrate extracelluar receptor; FecR-interacting protein
+anti-sigma transmembrane signal transducer for ferric citrate transport; periplasmic FecA-bound ferric citrate sensor and cytoplasmic FecI ECF sigma factor activator
+RNA polymerase sigma-19 factor, fec operon-specific; ECF sigma factor
+IS1 repressor TnpA
+putative DNA-binding transcriptional regulator; KpLE2 phage-like element
+putative transporter
+putative dehydratase
+putative lyase/synthase
+putative DNA-binding transcriptional regulator
+putative DNA-binding transcriptional regulator
+putative epimerase
+putative phosphotransferase enzyme IIA component
+putative nucleoside triphosphatase
+putative PTS system EIIC permease component
+putative enzyme IIB component of PTS
+putative endoglucanase with Zn-dependent exopeptidase domain
+putative methyltransferase
+GNAT family putative N-acetyltransferase
+UPF0386 family protein
+9-O-acetyl N-acetylneuraminic acid esterase
+N-acetylneuraminic acid mutarotase
+N-acetylnuraminic acid outer membrane channel protein
+tyrosine recombinase/inversion of on/off regulator of fimA
+tyrosine recombinase/inversion of on/off regulator of fimA
+major type 1 subunit fimbrin (pilin)
+fimbrial protein involved in type 1 pilus biosynthesis
+periplasmic chaperone
+fimbrial usher outer membrane porin protein; FimCD chaperone-usher
+minor component of type 1 fimbriae
+minor component of type 1 fimbriae
+minor component of type 1 fimbriae
+fructuronate transporter
+mannonate hydrolase
+D-mannonate oxidoreductase, NAD-dependent
+fructuronate-inducible hexuronate regulon transcriptional repressor; autorepressor
+uncharacterized protein b4325
+RpoS stabilzer after DNA damage, anti-RssB factor
+hypochlorite-responsive transcription factor
+isoaspartyl dipeptidase
+SpmB family inner membrane protein
+nucleoside recognition pore and gate family putative inner membrane transporter
+RNA 2\'-phosphotransferase
+DUF1228 family putative inner membrane MFS superfamily transporter
+SdiA-regulated family putative membrane-anchored protein; putative phytase-like esterase
+putative ATPase, activator of (R)-hydroxyglutaryl-CoA dehydratase
+putative 2-hydroxyglutaryl-CoA dehydratase
+zinc-type alcohol dehydrogenase-like protein
+multidrug efflux system protein
+putative DNA-binding transcriptional regulator/putative aminotransferase
+DUF1127 family protein
+5-methylcytosine-specific restriction enzyme McrBC, subunit McrC
+5-methylcytosine-specific restriction enzyme McrBC, subunit McrB
+toxic peptide regulated by antisense sRNA symR
+specificity determinant for hsdM and hsdR
+DNA methyltransferase M
+endonuclease R Type I restriction enzyme
+methylated adenine and cytosine restriction protein
+metal-binding GTPase
+DUF466 family protein
+putative transporter
+methyl-accepting chemotaxis protein I, serine sensor receptor
+putative L-galactonate:H+ symporter
+putative transcriptional activator for L-galactonate catabolism
+L-galactonate oxidoreductase; L-gulonate oxidoreductase
+OPG periplasmic biosynthetic phosphoglycerol transferases I (membrane-bound) and II (soluble)
+putative DUF2501 family periplasmic protein
+DNA biosynthesis protein
+DNA biosynthesis protein (primosomal protein I)
+DUF3815 family inner membrane protein
+DUF1212 family inner membrane protein
+putative transcriptional regulator
+bgl operon transcriptional activator
+ferric iron reductase involved in ferric hydroximate transport
+uncharacterized protein b4567
+16S rRNA m(2)G1207 methyltransferase, SAM-dependent
+DNA polymerase III, psi subunit
+ribosomal-protein-S18-alanine N-acetyltransferase
+dUMP phosphatase
+peptide chain release factor RF-3
+salt-inducible putative ABC transporter periplasmic binding protein
+uncharacterized protein b4568
+putative patatin-like family phospholipase
+putative DNase
+putative pyruvate formate lyase activating enzyme
+DUF3029 family protein, putative glycine radical enzyme
+2-deoxyribose-5-phosphate aldolase, NAD(P)-linked
+thymidine phosphorylase
+phosphopentomutase
+purine nucleoside phosphorylase 1; nicotinamide 1-beta-D-riboside phosphorylase
+putative protein kinase
+lipoate-protein ligase A
+SMP_2 family putative membrane-anchored periplasmic protein
+3-phosphoserine phosphatase
+DNA repair protein
+trifunctional protein: nicotinamide mononucleotide adenylyltransferase, ribosylnicotinamide kinase, transcriptional repressor
+energy-dependent translational throttle A
+lytic murein transglycosylase, soluble
+transcriptional repressor, tryptophan-binding
+non-canonical purine NTP phosphatase, ITPase/XTPase
+phosphatase
+right oriC-binding transcriptional activator, AraC family
+putative periplasmic protein
+response regulator in two-component regulatory system with CreC
+sensory histidine kinase in two-component regulatory system with CreB or PhoB
+inner membrane protein
+response regulator in two-component regulatory system with ArcB or CpxA
+uncharacterized protein b4402
+putative methyltransferase

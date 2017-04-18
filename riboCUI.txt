@@ -1,0 +1,66 @@
+b0023	0.0218353053803	30S ribosomal subunit protein S20
+b0169	0.0241502718701	30S ribosomal subunit protein S2
+b0296	0.0187623621423	50S ribosomal protein L31 type B; alternative zinc-limitation L31 protein
+b0637	0.0229663061059	ribosomal silencing factor
+b0835	0.024332293892	ribosomal protein S12 methylthiotransferase
+b0852	0.0232634266097	ribosomal protein S6 modification protein
+b0905	0.0240842024049	ribosomal protein S12 methylthiotransferase accessory factor
+b0911	0.0248638534695	30S ribosomal subunit protein S1
+b1066	0.0218225203201	ribosomal-protein-S5-alanine N-acetyltransferase
+b1089	0.0211854943386	50S ribosomal subunit protein L32
+b1128	0.023736126122	50S ribosomal protein L16 arginine hydroxylase; 2-oxoglutarate oxygenase
+b1427	0.0220610888852	ribosomal-protein-L7/L12-serine acetyltransferase
+b1716	0.0229631506528	50S ribosomal subunit protein L20
+b1717	0.0248176153625	50S ribosomal subunit protein L35
+b2185	0.0239822757663	50S ribosomal subunit protein L25
+b2597	0.0234843843617	cold shock protein associated with 30S ribosomal subunit
+b2606	0.0218655137192	50S ribosomal subunit protein L19
+b2609	0.0226109273145	30S ribosomal subunit protein S16
+b3065	0.0232949202402	30S ribosomal subunit protein S21
+b3165	0.0235671153725	30S ribosomal subunit protein S15
+b3180	0.0240891222516	RNA binding protein associated with pre-50S ribosomal subunits
+b3185	0.02344168775	50S ribosomal subunit protein L27
+b3186	0.0230611047803	50S ribosomal subunit protein L21
+b3230	0.0240503058508	30S ribosomal subunit protein S9
+b3231	0.023348854334	50S ribosomal subunit protein L13
+b3259	0.0250562133495	methyltransferase for 50S ribosomal subunit protein L11
+b3294	0.0231825189393	50S ribosomal subunit protein L17
+b3296	0.0231260040303	30S ribosomal subunit protein S4
+b3297	0.0210437100034	30S ribosomal subunit protein S11
+b3298	0.0226272995077	30S ribosomal subunit protein S13
+b3299	0.0198331399418	50S ribosomal subunit protein L36
+b3301	0.0243723264923	50S ribosomal subunit protein L15
+b3302	0.0225179436746	50S ribosomal subunit protein L30
+b3303	0.02412180368	30S ribosomal subunit protein S5
+b3304	0.0227585265399	50S ribosomal subunit protein L18
+b3305	0.0233639531491	50S ribosomal subunit protein L6
+b3306	0.0250953740151	30S ribosomal subunit protein S8
+b3307	0.0222938507816	30S ribosomal subunit protein S14
+b3308	0.0234436106365	50S ribosomal subunit protein L5
+b3309	0.0231672559948	50S ribosomal subunit protein L24
+b3310	0.0217507020958	50S ribosomal subunit protein L14
+b3311	0.0231973082655	30S ribosomal subunit protein S17
+b3312	0.0255793907853	50S ribosomal subunit protein L29
+b3313	0.0242087745771	50S ribosomal subunit protein L16
+b3314	0.0239013329338	30S ribosomal subunit protein S3
+b3315	0.0232015956177	50S ribosomal subunit protein L22
+b3316	0.0208362466788	30S ribosomal subunit protein S19
+b3317	0.0229697697148	50S ribosomal subunit protein L2
+b3318	0.0255094158221	50S ribosomal subunit protein L23
+b3319	0.0239696306048	50S ribosomal subunit protein L4
+b3320	0.0229921693617	50S ribosomal subunit protein L3
+b3321	0.024431251634	30S ribosomal subunit protein S10
+b3341	0.022557286505	30S ribosomal subunit protein S7
+b3342	0.0214777866276	30S ribosomal subunit protein S12
+b3636	0.0237134422193	50S ribosomal subunit protein L33
+b3637	0.0223109991429	50S ribosomal subunit protein L28
+b3703	0.0214854834222	50S ribosomal subunit protein L34
+b3936	0.0211805388153	50S ribosomal subunit protein L31
+b3983	0.0233238061179	50S ribosomal subunit protein L11
+b3984	0.0245735185663	50S ribosomal subunit protein L1
+b3985	0.0250158565961	50S ribosomal subunit protein L10
+b3986	0.0251645705863	50S ribosomal subunit protein L7/L12
+b4200	0.0236365646917	30S ribosomal subunit protein S6
+b4202	0.0231739664037	30S ribosomal subunit protein S18
+b4203	0.0244058801951	50S ribosomal subunit protein L9
+b4373	0.0232154187238	ribosomal-protein-S18-alanine N-acetyltransferase
